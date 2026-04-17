@@ -1,0 +1,35 @@
+# ---------------------------------------------------------------
+# Helm values for Grafana Loki
+# Install with:
+#   helm install loki grafana/loki-stack \
+#     -n monitoring --create-namespace \
+#     -f deploy/cloud/helm-loki-values.yaml
+# ---------------------------------------------------------------
+
+loki:
+  enabled: true
+  persistence:
+    enabled: true
+    size: 10Gi
+  resources:
+    requests:
+      memory: "256Mi"
+      cpu: "100m"
+    limits:
+      memory: "512Mi"
+      cpu: "250m"
+
+# Promtail collects logs from all pods and sends them to Loki
+promtail:
+  enabled: true
+  resources:
+    requests:
+      memory: "64Mi"
+      cpu: "50m"
+    limits:
+      memory: "128Mi"
+      cpu: "100m"
+
+# We use Grafana from kube-prometheus-stack, not from loki-stack
+grafana:
+  enabled: false

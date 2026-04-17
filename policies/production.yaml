@@ -1,0 +1,24 @@
+allowed_actions:
+  - restart_deployment
+  - scale_deployment
+  - rollback_deployment
+
+blocked_actions: []
+
+approval_required_actions:
+  - rollback_deployment
+  - scale_deployment
+
+max_scale_replicas: 5
+protected_namespaces:
+  - kube-system
+  - monitoring
+  - cert-manager
+
+rbac_allowed_namespaces:
+  - demo
+  - default
+  - selfheal
+
+max_blast_radius_without_approval: 2
+rollback_requires_approval: true

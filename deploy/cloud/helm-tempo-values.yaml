@@ -1,0 +1,34 @@
+# ---------------------------------------------------------------
+# Helm values for Grafana Tempo
+# Install with:
+#   helm install tempo grafana/tempo \
+#     -n monitoring --create-namespace \
+#     -f deploy/cloud/helm-tempo-values.yaml
+# ---------------------------------------------------------------
+
+tempo:
+  resources:
+    requests:
+      memory: "256Mi"
+      cpu: "100m"
+    limits:
+      memory: "512Mi"
+      cpu: "250m"
+  # Enable OTLP receivers so our app can export traces
+  receivers:
+    otlp:
+      protocols:
+        grpc:
+          endpoint: "0.0.0.0:4317"
+        http:
+          endpoint: "0.0.0.0:4318"
+  # Enable TraceQL search API (used by integrations/tracing/client.py)
+  searchEnabled: true
+
+persistence:
+  enabled: true
+  size: 5Gi
+
+# Expose both OTLP ports and the query API
+service:
+  type: ClusterIP

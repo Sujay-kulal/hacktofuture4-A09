@@ -1,0 +1,15 @@
+.venv
+__pycache__
+*.pyc
+.git
+.gitignore
+.env
+.env.example
+tests/
+pytest-cache-files-*
+pytest.ini
+SESSION_HANDOFF_*.md
+*.md
+!requirements.txt
+deploy/
+docker-compose.yml

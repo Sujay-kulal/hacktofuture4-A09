@@ -1,0 +1,21 @@
+crashloop:
+  action: restart_deployment
+  target_kind: Deployment
+
+oomkill:
+  action: scale_deployment
+  target_kind: Deployment
+  replicas: 3
+
+high-latency:
+  action: scale_deployment
+  target_kind: Deployment
+  replicas: 4
+
+dependency-down:
+  action: restart_deployment
+  target_kind: Deployment
+
+failed-rollout:
+  action: restart_deployment
+  target_kind: Deployment

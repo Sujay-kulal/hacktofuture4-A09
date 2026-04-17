@@ -1,0 +1,62 @@
+# ---------------------------------------------------------------
+# Helm values for kube-prometheus-stack
+# Install with:
+#   helm install kube-prom-stack prometheus-community/kube-prometheus-stack \
+#     -n monitoring --create-namespace \
+#     -f deploy/cloud/helm-prometheus-values.yaml
+# ---------------------------------------------------------------
+
+# Enable kube-state-metrics (needed for restart count and replica queries)
+kubeStateMetrics:
+  enabled: true
+
+# Prometheus server settings
+prometheus:
+  prometheusSpec:
+    retention: 7d
+    resources:
+      requests:
+        memory: "512Mi"
+        cpu: "250m"
+      limits:
+        memory: "1Gi"
+        cpu: "500m"
+    # Scrape all ServiceMonitors across all namespaces
+    serviceMonitorSelectorNilUsesHelmValues: false
+    podMonitorSelectorNilUsesHelmValues: false
+
+# Grafana settings
+grafana:
+  enabled: true
+  adminPassword: admin
+  service:
+    type: ClusterIP
+  # Add Loki and Tempo as additional datasources
+  additionalDataSources:
+    - name: Loki
+      type: loki
+      access: proxy
+      url: http://loki.monitoring.svc.cluster.local:3100
+      version: 1
+      isDefault: false
+    - name: Tempo
+      type: tempo
+      access: proxy
+      url: http://tempo.monitoring.svc.cluster.local:3200
+      version: 1
+      isDefault: false
+      jsonData:
+        tracesToLogsV2:
+          datasourceUid: loki
+
+# Alertmanager (minimal)
+alertmanager:
+  enabled: true
+  alertmanagerSpec:
+    resources:
+      requests:
+        memory: "64Mi"
+        cpu: "50m"
+      limits:
+        memory: "128Mi"
+        cpu: "100m"

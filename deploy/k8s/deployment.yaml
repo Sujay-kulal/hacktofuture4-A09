@@ -1,0 +1,70 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: selfheal-api
+  namespace: selfheal
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: selfheal-api
+  template:
+    metadata:
+      labels:
+        app: selfheal-api
+    spec:
+      serviceAccountName: selfheal-agent
+      securityContext:
+        runAsNonRoot: true
+        seccompProfile:
+          type: RuntimeDefault
+      containers:
+        - name: api
+          image: selfheal-api:latest
+          imagePullPolicy: IfNotPresent
+          securityContext:
+            allowPrivilegeEscalation: false
+            readOnlyRootFilesystem: false
+            capabilities:
+              drop: ["ALL"]
+          envFrom:
+            - secretRef:
+                name: selfheal-secrets
+          env:
+            - name: SELFHEAL_KUBE_MODE
+              value: "cluster"
+            - name: SELFHEAL_TELEMETRY_MODE
+              value: "live"
+            - name: SELFHEAL_AUTOMATION_MODE
+              value: "hybrid"
+            - name: SELFHEAL_BACKGROUND_MONITORING
+              value: "true"
+            - name: SELFHEAL_MONITOR_NAMESPACES
+              value: "demo,default,monitoring"
+            - name: PROMETHEUS_URL
+              value: "http://prometheus-operated.monitoring.svc.cluster.local:9090"
+            - name: LOKI_URL
+              value: "http://loki.monitoring.svc.cluster.local:3100"
+            - name: TRACE_URL
+              value: "http://tempo.monitoring.svc.cluster.local:3200"
+            - name: TRACE_BACKEND
+              value: "tempo"
+            - name: OTEL_TRACING_ENABLED
+              value: "true"
+            - name: OTEL_SERVICE_NAME
+              value: "selfheal-api"
+            - name: OTEL_EXPORTER_OTLP_ENDPOINT
+              value: "http://tempo.monitoring.svc.cluster.local:4318"
+            - name: GEMINI_MODEL
+              value: "gemini-2.5-flash"
+            - name: SELFHEAL_NAMESPACE
+              value: "selfheal"
+          ports:
+            - containerPort: 8000
+          resources:
+            requests:
+              cpu: "200m"
+              memory: "256Mi"
+            limits:
+              cpu: "1000m"
+              memory: "1Gi"

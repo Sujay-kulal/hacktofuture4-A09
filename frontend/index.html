@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Self-Healing Cloud Dashboard</title>
+  <link rel="stylesheet" href="/assets/styles.css" />
+</head>
+<body>
+  <main class="page">
+    <section class="hero">
+      <div>
+        <p class="eyebrow">Agentic Operations</p>
+        <h1>Self-Healing Kubernetes Dashboard</h1>
+        <p class="subtitle">
+          Monitor telemetry, queue incidents, run remediation, and inspect what the platform did.
+        </p>
+      </div>
+      <div class="health-card">
+        <h2>API Health</h2>
+        <pre id="health">Loading...</pre>
+      </div>
+    </section>
+
+    <section class="grid">
+      <article class="panel">
+        <h2>Quick Actions</h2>
+        <div class="button-row">
+          <button id="run-loop">Run One Healing Cycle</button>
+          <button id="explain-last">Explain Last Incident With Gemini</button>
+          <button id="refresh">Refresh Dashboard</button>
+        </div>
+        <p id="refresh-status" class="refresh-status">Auto-refresh every 5 seconds</p>
+        <p id="message" class="message"></p>
+      </article>
+
+      <article class="panel">
+        <h2>Gemini AI Brain</h2>
+        <div id="automation-status" class="automation-status">
+          <p>Loading Gemini status...</p>
+        </div>
+      </article>
+
+      <article class="panel">
+        <h2>Simulate Incident</h2>
+        <form id="simulate-form">
+          <label>
+            Scenario
+            <select name="scenario">
+              <option value="crashloop">crashloop</option>
+              <option value="oomkill">oomkill</option>
+              <option value="high-latency">high-latency</option>
+              <option value="dependency-down">dependency-down</option>
+              <option value="failed-rollout">failed-rollout</option>
+            </select>
+          </label>
+          <label>
+            Service
+            <input type="text" name="service" value="checkout" />
+          </label>
+          <label>
+            Namespace
+            <input type="text" name="namespace" value="demo" />
+          </label>
+          <button type="submit">Queue Simulated Incident</button>
+        </form>
+      </article>
+
+      <article class="panel">
+        <h2>Collect Live Telemetry</h2>
+        <form id="live-form">
+          <label>
+            Service
+            <input type="text" name="service" value="checkout" />
+          </label>
+          <label>
+            Namespace
+            <input type="text" name="namespace" value="demo" />
+          </label>
+          <button type="submit">Pull From Prometheus/Loki</button>
+        </form>
+      </article>
+    </section>
+
+    <section class="grid stats-grid" id="stats"></section>
+
+    <section class="grid">
+      <article class="panel panel-wide">
+        <h2>Recovery Metrics</h2>
+        <div id="mttr-report" class="mttr-report">
+          <p>Recovery metrics will appear after incidents are processed.</p>
+        </div>
+      </article>
+    </section>
+
+    <section class="grid">
+      <article class="panel panel-wide">
+        <h2>Benchmark Report</h2>
+        <div id="benchmark-report" class="benchmark-report">
+          <p>Benchmark data will appear after a few incidents are processed.</p>
+        </div>
+      </article>
+    </section>
+
+    <section class="grid">
+      <article class="panel">
+        <h2>Monitoring Status</h2>
+        <div id="monitor-status" class="monitor-status"></div>
+      </article>
+
+      <article class="panel panel-span-2">
+        <h2>Dependency Graph</h2>
+        <div id="dependencies" class="dependency-list"></div>
+      </article>
+    </section>
+
+    <section class="grid">
+      <article class="panel panel-span-2">
+        <h2>Queue Overview</h2>
+        <div id="queue-overview" class="queue-overview">
+          <p>Queue details will appear after telemetry is queued.</p>
+        </div>
+      </article>
+
+      <article class="panel">
+        <h2>Approvals</h2>
+        <div id="approvals" class="approvals">
+          <p>No approval requests are pending.</p>
+        </div>
+      </article>
+    </section>
+
+    <section class="grid">
+      <article class="panel panel-wide">
+        <h2>Impact View</h2>
+        <div id="impact-view" class="impact-view">
+          <p>Run a healing cycle to see what workload was affected.</p>
+        </div>
+      </article>
+    </section>
+
+    <section class="grid">
+      <article class="panel">
+        <h2>Cluster Workloads</h2>
+        <div id="workloads" class="table-shell"></div>
+      </article>
+
+      <article class="panel panel-span-2">
+        <div class="panel-header">
+          <h2>Incidents</h2>
+          <p class="panel-hint">Newest first</p>
+        </div>
+        <div id="incidents" class="incident-list"></div>
+      </article>
+    </section>
+
+    <section class="grid">
+      <article class="panel panel-wide">
+        <h2>Gemini Incident Explanation</h2>
+        <div id="gemini-explanation" class="gemini-explanation">
+          <p>Run a healing cycle, then click "Explain Last Incident With Gemini".</p>
+        </div>
+      </article>
+    </section>
+
+    <section class="grid">
+      <article class="panel panel-wide">
+        <h2>Activity Feed</h2>
+        <div id="activity" class="activity-feed"></div>
+      </article>
+    </section>
+
+    <section class="grid">
+      <article class="panel panel-wide">
+        <h2>Backend Log Console</h2>
+        <div id="logs" class="log-console"></div>
+      </article>
+    </section>
+  </main>
+
+  <script src="/assets/app.js"></script>
+</body>
+</html>

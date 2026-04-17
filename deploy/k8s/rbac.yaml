@@ -1,0 +1,49 @@
+# ---------------------------------------------------------------
+# RBAC for the Self-Healing API
+# The app needs permissions to list, get, and patch Deployments
+# so it can restart and scale workloads across namespaces.
+# ---------------------------------------------------------------
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: selfheal-api
+  namespace: selfheal
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRole
+metadata:
+  name: selfheal-operator
+rules:
+  # Read and patch Deployments (restart via annotation, scale via replicas)
+  - apiGroups: ["apps"]
+    resources: ["deployments"]
+    verbs: ["get", "list", "patch"]
+  # Patch deployment scale sub-resource
+  - apiGroups: ["apps"]
+    resources: ["deployments/scale"]
+    verbs: ["get", "patch"]
+  # Read pods for monitoring
+  - apiGroups: [""]
+    resources: ["pods"]
+    verbs: ["get", "list"]
+  # Read events for impact view
+  - apiGroups: [""]
+    resources: ["events"]
+    verbs: ["get", "list"]
+  # List namespaces for workload discovery
+  - apiGroups: [""]
+    resources: ["namespaces"]
+    verbs: ["get", "list"]
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRoleBinding
+metadata:
+  name: selfheal-operator-binding
+subjects:
+  - kind: ServiceAccount
+    name: selfheal-api
+    namespace: selfheal
+roleRef:
+  kind: ClusterRole
+  name: selfheal-operator
+  apiGroup: rbac.authorization.k8s.io

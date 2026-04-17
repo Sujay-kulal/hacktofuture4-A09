@@ -1,0 +1,38 @@
+# ---------------------------------------------------------------
+# ConfigMap — non-sensitive configuration for the Self-Healing API
+# Adjust URLs to match your observability stack service names
+# ---------------------------------------------------------------
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: selfheal-config
+  namespace: selfheal
+data:
+  # Core mode settings
+  SELFHEAL_KUBE_MODE: "cluster"
+  SELFHEAL_TELEMETRY_MODE: "live"
+  SELFHEAL_NAMESPACE: "demo"
+
+  # Observability endpoints (cluster-internal DNS)
+  PROMETHEUS_URL: "http://kube-prom-stack-kube-prome-prometheus.monitoring.svc.cluster.local:9090"
+  LOKI_URL: "http://loki.monitoring.svc.cluster.local:3100"
+  TRACE_URL: "http://tempo.monitoring.svc.cluster.local:3200"
+  TRACE_BACKEND: "tempo"
+
+  # Background monitoring
+  SELFHEAL_BACKGROUND_MONITORING: "true"
+  SELFHEAL_MONITOR_INTERVAL_SECONDS: "30"
+  SELFHEAL_MONITOR_NAMESPACES: "demo,default"
+  SELFHEAL_MONITOR_MAX_EVENTS_PER_SCAN: "5"
+  SELFHEAL_MONITOR_MAX_QUEUE_DEPTH: "25"
+
+  # OpenTelemetry tracing
+  OTEL_TRACING_ENABLED: "true"
+  OTEL_SERVICE_NAME: "selfheal-api"
+  OTEL_EXPORTER_OTLP_ENDPOINT: "http://tempo.monitoring.svc.cluster.local:4318"
+
+  # Gemini AI settings (API key is in secrets.yaml)
+  GEMINI_MODEL: "gemini-2.5-flash"
+  GEMINI_FALLBACK_MODELS: "gemini-2.0-flash"
+  GEMINI_MAX_RETRIES: "3"
+  SELFHEAL_AUTOMATION_MODE: "hybrid"

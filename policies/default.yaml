@@ -1,0 +1,22 @@
+allowed_actions:
+  - restart_deployment
+  - scale_deployment
+  - rollback_deployment
+
+blocked_actions:
+  - delete_pod
+  - drain_node
+  - delete_namespace
+
+max_scale_replicas: 5
+approval_required_actions:
+  - rollback_deployment
+protected_namespaces:
+  - kube-system
+  - monitoring
+rbac_allowed_namespaces:
+  - demo
+  - default
+  - monitoring
+max_blast_radius_without_approval: 3
+rollback_requires_approval: true

@@ -1,0 +1,31 @@
+# ---------------------------------------------------------------
+# Ingress — external access to the Self-Healing dashboard
+# Uses the NGINX Ingress Controller (install separately via Helm)
+# For AWS EKS: the NGINX controller creates an NLB automatically
+# ---------------------------------------------------------------
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: selfheal-api
+  namespace: selfheal
+  annotations:
+    nginx.ingress.kubernetes.io/rewrite-target: /
+    nginx.ingress.kubernetes.io/proxy-read-timeout: "60"
+    nginx.ingress.kubernetes.io/proxy-send-timeout: "60"
+spec:
+  ingressClassName: nginx
+  rules:
+    - http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: selfheal-api
+                port:
+                  number: 80
+  # Uncomment and configure for TLS:
+  # tls:
+  #   - hosts:
+  #       - selfheal.your-domain.com
+  #     secretName: selfheal-tls

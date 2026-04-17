@@ -1,0 +1,1968 @@
+[2026-04-16T04:32:42.862743+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174588 logged in successfully.
+[2026-04-16T04:32:42.884496+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.3479
+[2026-04-16T04:32:42.900509+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174572 logged in successfully.
+[2026-04-16T04:32:42.946354+00:00] [DEBUG] [worker] Processed payload sized 5659 bytes.
+[2026-04-16T04:32:42.989641+00:00] [DEBUG] [worker] Processed payload sized 5880 bytes.
+[2026-04-16T04:32:43.030979+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174782
+[2026-04-16T04:32:43.062797+00:00] [INFO] [health-check] Service is healthy. Uptime: 9863 minutes.
+[2026-04-16T04:32:43.078749+00:00] [INFO] [health-check] Service is healthy. Uptime: 5521 minutes.
+[2026-04-16T04:32:43.110296+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174784 logged in successfully.
+[2026-04-16T04:32:43.138227+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174921 logged in successfully.
+[2026-04-16T04:32:43.173529+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174818
+[2026-04-16T04:32:43.214085+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174992 logged in successfully.
+[2026-04-16T04:32:43.230619+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174171 logged in successfully.
+[2026-04-16T04:32:43.276771+00:00] [INFO] [health-check] Service is healthy. Uptime: 1614 minutes.
+[2026-04-16T04:32:43.289195+00:00] [INFO] [health-check] Service is healthy. Uptime: 6497 minutes.
+[2026-04-16T04:32:43.315940+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174326 logged in successfully.
+[2026-04-16T04:32:43.355216+00:00] [DEBUG] [worker] Processed payload sized 7639 bytes.
+[2026-04-16T04:32:43.403824+00:00] [INFO] [health-check] Service is healthy. Uptime: 4499 minutes.
+[2026-04-16T04:32:43.427681+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174224 logged in successfully.
+[2026-04-16T04:32:43.447830+00:00] [INFO] [health-check] Service is healthy. Uptime: 1488 minutes.
+[2026-04-16T04:32:43.468242+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174834 logged in successfully.
+[2026-04-16T04:32:43.490897+00:00] [ERROR] [payment] Database timeout reading transaction 6634
+[2026-04-16T04:32:43.521226+00:00] [DEBUG] [worker] Processed payload sized 1518 bytes.
+[2026-04-16T04:32:43.536069+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174574 logged in successfully.
+[2026-04-16T04:32:43.575995+00:00] [ERROR] [api] 500 Internal Server error on route /users/9780
+[2026-04-16T04:32:43.592293+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174842 logged in successfully.
+[2026-04-16T04:32:43.608001+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174912
+[2026-04-16T04:32:43.623061+00:00] [DEBUG] [worker] Processed payload sized 3022 bytes.
+[2026-04-16T04:32:43.640210+00:00] [DEBUG] [worker] Processed payload sized 7511 bytes.
+[2026-04-16T04:32:43.683481+00:00] [INFO] [health-check] Service is healthy. Uptime: 5632 minutes.
+[2026-04-16T04:32:43.714947+00:00] [DEBUG] [worker] Processed payload sized 6116 bytes.
+[2026-04-16T04:32:43.761272+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.2183
+[2026-04-16T04:32:43.790907+00:00] [ERROR] [api] 500 Internal Server error on route /users/6462
+[2026-04-16T04:32:43.802111+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174911
+[2026-04-16T04:32:43.841529+00:00] [INFO] [health-check] Service is healthy. Uptime: 5991 minutes.
+[2026-04-16T04:32:43.855047+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.5646
+[2026-04-16T04:32:43.902177+00:00] [INFO] [health-check] Service is healthy. Uptime: 842 minutes.
+[2026-04-16T04:32:43.953375+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:43.974092+00:00] [DEBUG] [worker] Processed payload sized 2427 bytes.
+[2026-04-16T04:32:43.988156+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174759
+[2026-04-16T04:32:44.016887+00:00] [ERROR] [payment] Database timeout reading transaction 2990
+[2026-04-16T04:32:44.037901+00:00] [ERROR] [api] 500 Internal Server error on route /users/8675
+[2026-04-16T04:32:44.082884+00:00] [INFO] [health-check] Service is healthy. Uptime: 8955 minutes.
+[2026-04-16T04:32:44.094318+00:00] [DEBUG] [worker] Processed payload sized 5378 bytes.
+[2026-04-16T04:32:44.106381+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174204 logged in successfully.
+[2026-04-16T04:32:44.127300+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174800
+[2026-04-16T04:32:44.154600+00:00] [DEBUG] [worker] Processed payload sized 8515 bytes.
+[2026-04-16T04:32:44.168459+00:00] [DEBUG] [worker] Processed payload sized 2723 bytes.
+[2026-04-16T04:32:44.215543+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.5705
+[2026-04-16T04:32:44.252128+00:00] [INFO] [health-check] Service is healthy. Uptime: 2434 minutes.
+[2026-04-16T04:32:44.284718+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174818
+[2026-04-16T04:32:44.323733+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174921 logged in successfully.
+[2026-04-16T04:32:44.364908+00:00] [INFO] [health-check] Service is healthy. Uptime: 2790 minutes.
+[2026-04-16T04:32:44.410262+00:00] [ERROR] [api] 500 Internal Server error on route /users/8849
+[2026-04-16T04:32:44.453828+00:00] [DEBUG] [worker] Processed payload sized 3095 bytes.
+[2026-04-16T04:32:44.469307+00:00] [INFO] [health-check] Service is healthy. Uptime: 5129 minutes.
+[2026-04-16T04:32:44.518249+00:00] [INFO] [health-check] Service is healthy. Uptime: 6920 minutes.
+[2026-04-16T04:32:44.559281+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174269 logged in successfully.
+[2026-04-16T04:32:44.601254+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174108 logged in successfully.
+[2026-04-16T04:32:44.633652+00:00] [INFO] [health-check] Service is healthy. Uptime: 7606 minutes.
+[2026-04-16T04:32:44.677833+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:44.689195+00:00] [ERROR] [processing] OOM killer terminated process 290
+[2026-04-16T04:32:44.709572+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174839 logged in successfully.
+[2026-04-16T04:32:44.759021+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174312 logged in successfully.
+[2026-04-16T04:32:44.781593+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174437
+[2026-04-16T04:32:44.810796+00:00] [INFO] [health-check] Service is healthy. Uptime: 7639 minutes.
+[2026-04-16T04:32:44.829222+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:44.849226+00:00] [DEBUG] [worker] Processed payload sized 9810 bytes.
+[2026-04-16T04:32:44.896926+00:00] [INFO] [health-check] Service is healthy. Uptime: 5866 minutes.
+[2026-04-16T04:32:44.930192+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174666 logged in successfully.
+[2026-04-16T04:32:44.971033+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174238 logged in successfully.
+[2026-04-16T04:32:45.015387+00:00] [DEBUG] [worker] Processed payload sized 1392 bytes.
+[2026-04-16T04:32:45.053831+00:00] [ERROR] [processing] OOM killer terminated process 2074
+[2026-04-16T04:32:45.088620+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174679 logged in successfully.
+[2026-04-16T04:32:45.134986+00:00] [INFO] [health-check] Service is healthy. Uptime: 7337 minutes.
+[2026-04-16T04:32:45.174367+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174339 logged in successfully.
+[2026-04-16T04:32:45.193123+00:00] [ERROR] [payment] Database timeout reading transaction 2448
+[2026-04-16T04:32:45.237100+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174488 logged in successfully.
+[2026-04-16T04:32:45.268415+00:00] [ERROR] [processing] OOM killer terminated process 7902
+[2026-04-16T04:32:45.311948+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174583 logged in successfully.
+[2026-04-16T04:32:45.343041+00:00] [INFO] [health-check] Service is healthy. Uptime: 818 minutes.
+[2026-04-16T04:32:45.354021+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.1201
+[2026-04-16T04:32:45.380551+00:00] [INFO] [health-check] Service is healthy. Uptime: 4209 minutes.
+[2026-04-16T04:32:45.427525+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174421
+[2026-04-16T04:32:45.438294+00:00] [INFO] [health-check] Service is healthy. Uptime: 8104 minutes.
+[2026-04-16T04:32:45.451329+00:00] [INFO] [health-check] Service is healthy. Uptime: 5663 minutes.
+[2026-04-16T04:32:45.472555+00:00] [ERROR] [payment] Database timeout reading transaction 1544
+[2026-04-16T04:32:45.497186+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.8058
+[2026-04-16T04:32:45.514042+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:45.538176+00:00] [INFO] [health-check] Service is healthy. Uptime: 74 minutes.
+[2026-04-16T04:32:45.570237+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174126 logged in successfully.
+[2026-04-16T04:32:45.582193+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174568 logged in successfully.
+[2026-04-16T04:32:45.610858+00:00] [ERROR] [payment] Database timeout reading transaction 8339
+[2026-04-16T04:32:45.651777+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:45.664192+00:00] [INFO] [health-check] Service is healthy. Uptime: 945 minutes.
+[2026-04-16T04:32:45.705019+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174172 logged in successfully.
+[2026-04-16T04:32:45.735205+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174721 logged in successfully.
+[2026-04-16T04:32:45.752162+00:00] [DEBUG] [worker] Processed payload sized 875 bytes.
+[2026-04-16T04:32:45.781148+00:00] [INFO] [health-check] Service is healthy. Uptime: 4441 minutes.
+[2026-04-16T04:32:45.824264+00:00] [ERROR] [processing] OOM killer terminated process 8922
+[2026-04-16T04:32:45.841037+00:00] [INFO] [health-check] Service is healthy. Uptime: 3759 minutes.
+[2026-04-16T04:32:45.870570+00:00] [DEBUG] [worker] Processed payload sized 2895 bytes.
+[2026-04-16T04:32:45.898040+00:00] [DEBUG] [worker] Processed payload sized 8538 bytes.
+[2026-04-16T04:32:45.922406+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174489 logged in successfully.
+[2026-04-16T04:32:45.944148+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174435 logged in successfully.
+[2026-04-16T04:32:45.959349+00:00] [INFO] [health-check] Service is healthy. Uptime: 6071 minutes.
+[2026-04-16T04:32:45.972958+00:00] [DEBUG] [worker] Processed payload sized 4505 bytes.
+[2026-04-16T04:32:45.984896+00:00] [INFO] [health-check] Service is healthy. Uptime: 488 minutes.
+[2026-04-16T04:32:45.997249+00:00] [INFO] [health-check] Service is healthy. Uptime: 3434 minutes.
+[2026-04-16T04:32:46.019520+00:00] [ERROR] [api] 500 Internal Server error on route /users/6495
+[2026-04-16T04:32:46.058037+00:00] [ERROR] [processing] OOM killer terminated process 8997
+[2026-04-16T04:32:46.083683+00:00] [INFO] [health-check] Service is healthy. Uptime: 5721 minutes.
+[2026-04-16T04:32:46.108825+00:00] [DEBUG] [worker] Processed payload sized 4423 bytes.
+[2026-04-16T04:32:46.142909+00:00] [INFO] [health-check] Service is healthy. Uptime: 844 minutes.
+[2026-04-16T04:32:46.165811+00:00] [ERROR] [api] 500 Internal Server error on route /users/4496
+[2026-04-16T04:32:46.185819+00:00] [DEBUG] [worker] Processed payload sized 8924 bytes.
+[2026-04-16T04:32:46.215880+00:00] [ERROR] [processing] OOM killer terminated process 4972
+[2026-04-16T04:32:46.242399+00:00] [INFO] [health-check] Service is healthy. Uptime: 7870 minutes.
+[2026-04-16T04:32:46.261461+00:00] [INFO] [health-check] Service is healthy. Uptime: 7121 minutes.
+[2026-04-16T04:32:46.303081+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.9807
+[2026-04-16T04:32:46.335015+00:00] [DEBUG] [worker] Processed payload sized 1158 bytes.
+[2026-04-16T04:32:46.381776+00:00] [INFO] [health-check] Service is healthy. Uptime: 5825 minutes.
+[2026-04-16T04:32:46.423918+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:46.435830+00:00] [INFO] [health-check] Service is healthy. Uptime: 1432 minutes.
+[2026-04-16T04:32:46.475463+00:00] [DEBUG] [worker] Processed payload sized 2670 bytes.
+[2026-04-16T04:32:46.520031+00:00] [ERROR] [processing] OOM killer terminated process 867
+[2026-04-16T04:32:46.559401+00:00] [DEBUG] [worker] Processed payload sized 3089 bytes.
+[2026-04-16T04:32:46.591162+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174928
+[2026-04-16T04:32:46.627317+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:46.670235+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174859 logged in successfully.
+[2026-04-16T04:32:46.715628+00:00] [DEBUG] [worker] Processed payload sized 226 bytes.
+[2026-04-16T04:32:46.761769+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174458 logged in successfully.
+[2026-04-16T04:32:46.782956+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174351 logged in successfully.
+[2026-04-16T04:32:46.795986+00:00] [INFO] [health-check] Service is healthy. Uptime: 2190 minutes.
+[2026-04-16T04:32:46.839265+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174354 logged in successfully.
+[2026-04-16T04:32:46.850877+00:00] [INFO] [health-check] Service is healthy. Uptime: 7541 minutes.
+[2026-04-16T04:32:46.900827+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.1349
+[2026-04-16T04:32:46.918333+00:00] [ERROR] [processing] OOM killer terminated process 3959
+[2026-04-16T04:32:46.944019+00:00] [INFO] [health-check] Service is healthy. Uptime: 8422 minutes.
+[2026-04-16T04:32:46.979072+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174580
+[2026-04-16T04:32:46.998058+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174872 logged in successfully.
+[2026-04-16T04:32:47.040901+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174475 logged in successfully.
+[2026-04-16T04:32:47.056960+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174874 logged in successfully.
+[2026-04-16T04:32:47.074881+00:00] [DEBUG] [worker] Processed payload sized 3547 bytes.
+[2026-04-16T04:32:47.113867+00:00] [DEBUG] [worker] Processed payload sized 3693 bytes.
+[2026-04-16T04:32:47.149452+00:00] [INFO] [health-check] Service is healthy. Uptime: 2397 minutes.
+[2026-04-16T04:32:47.191844+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174953 logged in successfully.
+[2026-04-16T04:32:47.218318+00:00] [DEBUG] [worker] Processed payload sized 4305 bytes.
+[2026-04-16T04:32:47.261829+00:00] [ERROR] [api] 500 Internal Server error on route /users/7143
+[2026-04-16T04:32:47.277716+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174183 logged in successfully.
+[2026-04-16T04:32:47.288479+00:00] [ERROR] [payment] Database timeout reading transaction 634
+[2026-04-16T04:32:47.302928+00:00] [INFO] [health-check] Service is healthy. Uptime: 3570 minutes.
+[2026-04-16T04:32:47.338149+00:00] [INFO] [health-check] Service is healthy. Uptime: 8303 minutes.
+[2026-04-16T04:32:47.380909+00:00] [INFO] [health-check] Service is healthy. Uptime: 2393 minutes.
+[2026-04-16T04:32:47.399226+00:00] [DEBUG] [worker] Processed payload sized 4681 bytes.
+[2026-04-16T04:32:47.418315+00:00] [INFO] [health-check] Service is healthy. Uptime: 5721 minutes.
+[2026-04-16T04:32:47.457289+00:00] [INFO] [health-check] Service is healthy. Uptime: 6162 minutes.
+[2026-04-16T04:32:47.501945+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174814 logged in successfully.
+[2026-04-16T04:32:47.549217+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174691 logged in successfully.
+[2026-04-16T04:32:47.596636+00:00] [INFO] [health-check] Service is healthy. Uptime: 2629 minutes.
+[2026-04-16T04:32:47.612487+00:00] [INFO] [health-check] Service is healthy. Uptime: 2625 minutes.
+[2026-04-16T04:32:47.624691+00:00] [ERROR] [payment] Database timeout reading transaction 3281
+[2026-04-16T04:32:47.660530+00:00] [DEBUG] [worker] Processed payload sized 9612 bytes.
+[2026-04-16T04:32:47.689316+00:00] [INFO] [health-check] Service is healthy. Uptime: 3230 minutes.
+[2026-04-16T04:32:47.716395+00:00] [ERROR] [processing] OOM killer terminated process 6775
+[2026-04-16T04:32:47.729039+00:00] [DEBUG] [worker] Processed payload sized 3140 bytes.
+[2026-04-16T04:32:47.753104+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174816 logged in successfully.
+[2026-04-16T04:32:47.772263+00:00] [DEBUG] [worker] Processed payload sized 8320 bytes.
+[2026-04-16T04:32:47.800065+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174383 logged in successfully.
+[2026-04-16T04:32:47.826159+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174866
+[2026-04-16T04:32:47.860154+00:00] [DEBUG] [worker] Processed payload sized 5657 bytes.
+[2026-04-16T04:32:47.903177+00:00] [INFO] [health-check] Service is healthy. Uptime: 1056 minutes.
+[2026-04-16T04:32:47.925213+00:00] [INFO] [health-check] Service is healthy. Uptime: 4463 minutes.
+[2026-04-16T04:32:47.935735+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:47.976505+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174506 logged in successfully.
+[2026-04-16T04:32:48.023772+00:00] [INFO] [health-check] Service is healthy. Uptime: 6462 minutes.
+[2026-04-16T04:32:48.072328+00:00] [INFO] [health-check] Service is healthy. Uptime: 1013 minutes.
+[2026-04-16T04:32:48.117732+00:00] [DEBUG] [worker] Processed payload sized 4276 bytes.
+[2026-04-16T04:32:48.142783+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:48.185623+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.207
+[2026-04-16T04:32:48.212538+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174530 logged in successfully.
+[2026-04-16T04:32:48.248888+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174177 logged in successfully.
+[2026-04-16T04:32:48.278828+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174770 logged in successfully.
+[2026-04-16T04:32:48.307817+00:00] [DEBUG] [worker] Processed payload sized 2323 bytes.
+[2026-04-16T04:32:48.329699+00:00] [DEBUG] [worker] Processed payload sized 6148 bytes.
+[2026-04-16T04:32:48.347933+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174593 logged in successfully.
+[2026-04-16T04:32:48.384629+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174351 logged in successfully.
+[2026-04-16T04:32:48.400584+00:00] [DEBUG] [worker] Processed payload sized 4925 bytes.
+[2026-04-16T04:32:48.435573+00:00] [DEBUG] [worker] Processed payload sized 8376 bytes.
+[2026-04-16T04:32:48.467752+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174481 logged in successfully.
+[2026-04-16T04:32:48.480591+00:00] [DEBUG] [worker] Processed payload sized 9003 bytes.
+[2026-04-16T04:32:48.505605+00:00] [INFO] [health-check] Service is healthy. Uptime: 7371 minutes.
+[2026-04-16T04:32:48.541916+00:00] [DEBUG] [worker] Processed payload sized 1136 bytes.
+[2026-04-16T04:32:48.557412+00:00] [INFO] [health-check] Service is healthy. Uptime: 289 minutes.
+[2026-04-16T04:32:48.594049+00:00] [INFO] [health-check] Service is healthy. Uptime: 876 minutes.
+[2026-04-16T04:32:48.614586+00:00] [ERROR] [payment] Database timeout reading transaction 3765
+[2026-04-16T04:32:48.631689+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174750 logged in successfully.
+[2026-04-16T04:32:48.651386+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174709 logged in successfully.
+[2026-04-16T04:32:48.686033+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174447
+[2026-04-16T04:32:48.713906+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:48.737572+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174280 logged in successfully.
+[2026-04-16T04:32:48.762906+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.1834
+[2026-04-16T04:32:48.805957+00:00] [DEBUG] [worker] Processed payload sized 5256 bytes.
+[2026-04-16T04:32:48.850096+00:00] [DEBUG] [worker] Processed payload sized 4874 bytes.
+[2026-04-16T04:32:48.878350+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174702 logged in successfully.
+[2026-04-16T04:32:48.919547+00:00] [INFO] [health-check] Service is healthy. Uptime: 1628 minutes.
+[2026-04-16T04:32:48.962862+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.5219
+[2026-04-16T04:32:49.001813+00:00] [INFO] [health-check] Service is healthy. Uptime: 500 minutes.
+[2026-04-16T04:32:49.018245+00:00] [INFO] [health-check] Service is healthy. Uptime: 1596 minutes.
+[2026-04-16T04:32:49.045129+00:00] [INFO] [health-check] Service is healthy. Uptime: 871 minutes.
+[2026-04-16T04:32:49.084143+00:00] [INFO] [health-check] Service is healthy. Uptime: 2026 minutes.
+[2026-04-16T04:32:49.131315+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174849 logged in successfully.
+[2026-04-16T04:32:49.159223+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174985 logged in successfully.
+[2026-04-16T04:32:49.191649+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174756
+[2026-04-16T04:32:49.203774+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174419 logged in successfully.
+[2026-04-16T04:32:49.221406+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174714 logged in successfully.
+[2026-04-16T04:32:49.255553+00:00] [ERROR] [processing] OOM killer terminated process 3559
+[2026-04-16T04:32:49.304826+00:00] [DEBUG] [worker] Processed payload sized 1230 bytes.
+[2026-04-16T04:32:49.344834+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:49.358617+00:00] [ERROR] [api] 500 Internal Server error on route /users/2120
+[2026-04-16T04:32:49.375155+00:00] [INFO] [health-check] Service is healthy. Uptime: 1427 minutes.
+[2026-04-16T04:32:49.414791+00:00] [DEBUG] [worker] Processed payload sized 8579 bytes.
+[2026-04-16T04:32:49.434860+00:00] [DEBUG] [worker] Processed payload sized 4063 bytes.
+[2026-04-16T04:32:49.478012+00:00] [ERROR] [api] 500 Internal Server error on route /users/6370
+[2026-04-16T04:32:49.525961+00:00] [INFO] [health-check] Service is healthy. Uptime: 985 minutes.
+[2026-04-16T04:32:49.566409+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:49.607957+00:00] [DEBUG] [worker] Processed payload sized 6714 bytes.
+[2026-04-16T04:32:49.638859+00:00] [INFO] [health-check] Service is healthy. Uptime: 2817 minutes.
+[2026-04-16T04:32:49.685667+00:00] [INFO] [health-check] Service is healthy. Uptime: 5505 minutes.
+[2026-04-16T04:32:49.730403+00:00] [ERROR] [api] 500 Internal Server error on route /users/1593
+[2026-04-16T04:32:49.771407+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174601 logged in successfully.
+[2026-04-16T04:32:49.789608+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174466 logged in successfully.
+[2026-04-16T04:32:49.818054+00:00] [ERROR] [processing] OOM killer terminated process 8306
+[2026-04-16T04:32:49.849657+00:00] [ERROR] [payment] Database timeout reading transaction 4758
+[2026-04-16T04:32:49.872774+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174675 logged in successfully.
+[2026-04-16T04:32:49.906212+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174558 logged in successfully.
+[2026-04-16T04:32:49.934271+00:00] [ERROR] [processing] OOM killer terminated process 9710
+[2026-04-16T04:32:49.978596+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174679 logged in successfully.
+[2026-04-16T04:32:50.015747+00:00] [ERROR] [processing] OOM killer terminated process 1031
+[2026-04-16T04:32:50.037217+00:00] [INFO] [health-check] Service is healthy. Uptime: 6311 minutes.
+[2026-04-16T04:32:50.082089+00:00] [INFO] [health-check] Service is healthy. Uptime: 4426 minutes.
+[2026-04-16T04:32:50.113741+00:00] [DEBUG] [worker] Processed payload sized 5498 bytes.
+[2026-04-16T04:32:50.128778+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.2968
+[2026-04-16T04:32:50.158929+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174901 logged in successfully.
+[2026-04-16T04:32:50.173930+00:00] [INFO] [health-check] Service is healthy. Uptime: 232 minutes.
+[2026-04-16T04:32:50.195142+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174162
+[2026-04-16T04:32:50.206873+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174816
+[2026-04-16T04:32:50.256645+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.5438
+[2026-04-16T04:32:50.277360+00:00] [DEBUG] [worker] Processed payload sized 1354 bytes.
+[2026-04-16T04:32:50.290915+00:00] [DEBUG] [worker] Processed payload sized 546 bytes.
+[2026-04-16T04:32:50.303185+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174454 logged in successfully.
+[2026-04-16T04:32:50.348876+00:00] [INFO] [health-check] Service is healthy. Uptime: 6246 minutes.
+[2026-04-16T04:32:50.369640+00:00] [INFO] [health-check] Service is healthy. Uptime: 8858 minutes.
+[2026-04-16T04:32:50.401301+00:00] [DEBUG] [worker] Processed payload sized 2280 bytes.
+[2026-04-16T04:32:50.451583+00:00] [INFO] [health-check] Service is healthy. Uptime: 4085 minutes.
+[2026-04-16T04:32:50.499369+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174451
+[2026-04-16T04:32:50.540862+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174424 logged in successfully.
+[2026-04-16T04:32:50.571712+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174602 logged in successfully.
+[2026-04-16T04:32:50.596777+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174699
+[2026-04-16T04:32:50.633505+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174701 logged in successfully.
+[2026-04-16T04:32:50.654747+00:00] [INFO] [health-check] Service is healthy. Uptime: 5917 minutes.
+[2026-04-16T04:32:50.687112+00:00] [DEBUG] [worker] Processed payload sized 2759 bytes.
+[2026-04-16T04:32:50.724059+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174545 logged in successfully.
+[2026-04-16T04:32:50.748717+00:00] [DEBUG] [worker] Processed payload sized 1964 bytes.
+[2026-04-16T04:32:50.780509+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174873
+[2026-04-16T04:32:50.804231+00:00] [INFO] [health-check] Service is healthy. Uptime: 3441 minutes.
+[2026-04-16T04:32:50.819924+00:00] [DEBUG] [worker] Processed payload sized 3032 bytes.
+[2026-04-16T04:32:50.832404+00:00] [DEBUG] [worker] Processed payload sized 7641 bytes.
+[2026-04-16T04:32:50.868364+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174883 logged in successfully.
+[2026-04-16T04:32:50.896896+00:00] [ERROR] [processing] OOM killer terminated process 3256
+[2026-04-16T04:32:50.934528+00:00] [DEBUG] [worker] Processed payload sized 4039 bytes.
+[2026-04-16T04:32:50.973177+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174155 logged in successfully.
+[2026-04-16T04:32:50.998758+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174966 logged in successfully.
+[2026-04-16T04:32:51.033270+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174439 logged in successfully.
+[2026-04-16T04:32:51.048684+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174117
+[2026-04-16T04:32:51.087942+00:00] [INFO] [health-check] Service is healthy. Uptime: 3882 minutes.
+[2026-04-16T04:32:51.114897+00:00] [DEBUG] [worker] Processed payload sized 5273 bytes.
+[2026-04-16T04:32:51.141694+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174404
+[2026-04-16T04:32:51.158511+00:00] [INFO] [health-check] Service is healthy. Uptime: 1423 minutes.
+[2026-04-16T04:32:51.193090+00:00] [DEBUG] [worker] Processed payload sized 5737 bytes.
+[2026-04-16T04:32:51.232440+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174448 logged in successfully.
+[2026-04-16T04:32:51.276586+00:00] [DEBUG] [worker] Processed payload sized 2166 bytes.
+[2026-04-16T04:32:51.301766+00:00] [INFO] [health-check] Service is healthy. Uptime: 3153 minutes.
+[2026-04-16T04:32:51.351999+00:00] [ERROR] [processing] OOM killer terminated process 6867
+[2026-04-16T04:32:51.399636+00:00] [DEBUG] [worker] Processed payload sized 7379 bytes.
+[2026-04-16T04:32:51.432575+00:00] [DEBUG] [worker] Processed payload sized 9357 bytes.
+[2026-04-16T04:32:51.443171+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174345
+[2026-04-16T04:32:51.469107+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.8613
+[2026-04-16T04:32:51.495892+00:00] [ERROR] [api] 500 Internal Server error on route /users/9281
+[2026-04-16T04:32:51.532369+00:00] [INFO] [health-check] Service is healthy. Uptime: 6726 minutes.
+[2026-04-16T04:32:51.546503+00:00] [ERROR] [payment] Database timeout reading transaction 9153
+[2026-04-16T04:32:51.573618+00:00] [DEBUG] [worker] Processed payload sized 6865 bytes.
+[2026-04-16T04:32:51.592083+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174902 logged in successfully.
+[2026-04-16T04:32:51.626254+00:00] [DEBUG] [worker] Processed payload sized 7976 bytes.
+[2026-04-16T04:32:51.653279+00:00] [INFO] [health-check] Service is healthy. Uptime: 1324 minutes.
+[2026-04-16T04:32:51.684293+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174748
+[2026-04-16T04:32:51.698695+00:00] [INFO] [health-check] Service is healthy. Uptime: 1431 minutes.
+[2026-04-16T04:32:51.742801+00:00] [DEBUG] [worker] Processed payload sized 2122 bytes.
+[2026-04-16T04:32:51.776947+00:00] [ERROR] [payment] Database timeout reading transaction 3223
+[2026-04-16T04:32:51.807385+00:00] [DEBUG] [worker] Processed payload sized 5884 bytes.
+[2026-04-16T04:32:51.856245+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174665 logged in successfully.
+[2026-04-16T04:32:51.882361+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:51.906340+00:00] [INFO] [health-check] Service is healthy. Uptime: 9891 minutes.
+[2026-04-16T04:32:51.921478+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:51.969971+00:00] [ERROR] [processing] OOM killer terminated process 7641
+[2026-04-16T04:32:51.981085+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:52.006247+00:00] [DEBUG] [worker] Processed payload sized 6611 bytes.
+[2026-04-16T04:32:52.045434+00:00] [DEBUG] [worker] Processed payload sized 9529 bytes.
+[2026-04-16T04:32:52.061316+00:00] [DEBUG] [worker] Processed payload sized 6510 bytes.
+[2026-04-16T04:32:52.074710+00:00] [INFO] [health-check] Service is healthy. Uptime: 2679 minutes.
+[2026-04-16T04:32:52.090154+00:00] [ERROR] [payment] Database timeout reading transaction 2647
+[2026-04-16T04:32:52.129207+00:00] [ERROR] [api] 500 Internal Server error on route /users/8142
+[2026-04-16T04:32:52.161368+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.3481
+[2026-04-16T04:32:52.196710+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174882
+[2026-04-16T04:32:52.224869+00:00] [ERROR] [api] 500 Internal Server error on route /users/6294
+[2026-04-16T04:32:52.257802+00:00] [INFO] [health-check] Service is healthy. Uptime: 9736 minutes.
+[2026-04-16T04:32:52.301124+00:00] [DEBUG] [worker] Processed payload sized 6139 bytes.
+[2026-04-16T04:32:52.328378+00:00] [ERROR] [payment] Database timeout reading transaction 4960
+[2026-04-16T04:32:52.366415+00:00] [INFO] [health-check] Service is healthy. Uptime: 257 minutes.
+[2026-04-16T04:32:52.401836+00:00] [DEBUG] [worker] Processed payload sized 7340 bytes.
+[2026-04-16T04:32:52.436104+00:00] [INFO] [health-check] Service is healthy. Uptime: 2576 minutes.
+[2026-04-16T04:32:52.471487+00:00] [INFO] [health-check] Service is healthy. Uptime: 4596 minutes.
+[2026-04-16T04:32:52.498084+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174620
+[2026-04-16T04:32:52.544327+00:00] [INFO] [health-check] Service is healthy. Uptime: 4972 minutes.
+[2026-04-16T04:32:52.563749+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174921
+[2026-04-16T04:32:52.582145+00:00] [DEBUG] [worker] Processed payload sized 1049 bytes.
+[2026-04-16T04:32:52.599654+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174733 logged in successfully.
+[2026-04-16T04:32:52.614593+00:00] [INFO] [health-check] Service is healthy. Uptime: 3931 minutes.
+[2026-04-16T04:32:52.625706+00:00] [DEBUG] [worker] Processed payload sized 6621 bytes.
+[2026-04-16T04:32:52.671574+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174237 logged in successfully.
+[2026-04-16T04:32:52.700810+00:00] [INFO] [health-check] Service is healthy. Uptime: 9789 minutes.
+[2026-04-16T04:32:52.714360+00:00] [ERROR] [api] 500 Internal Server error on route /users/6461
+[2026-04-16T04:32:52.735353+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174916 logged in successfully.
+[2026-04-16T04:32:52.776391+00:00] [INFO] [health-check] Service is healthy. Uptime: 8497 minutes.
+[2026-04-16T04:32:52.825440+00:00] [ERROR] [api] 500 Internal Server error on route /users/7621
+[2026-04-16T04:32:52.853983+00:00] [DEBUG] [worker] Processed payload sized 4494 bytes.
+[2026-04-16T04:32:52.865810+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:52.880558+00:00] [INFO] [health-check] Service is healthy. Uptime: 7158 minutes.
+[2026-04-16T04:32:52.923470+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174430 logged in successfully.
+[2026-04-16T04:32:52.946988+00:00] [ERROR] [processing] OOM killer terminated process 1484
+[2026-04-16T04:32:52.991034+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174327 logged in successfully.
+[2026-04-16T04:32:53.004450+00:00] [INFO] [health-check] Service is healthy. Uptime: 1561 minutes.
+[2026-04-16T04:32:53.035076+00:00] [INFO] [health-check] Service is healthy. Uptime: 632 minutes.
+[2026-04-16T04:32:53.053102+00:00] [INFO] [health-check] Service is healthy. Uptime: 7180 minutes.
+[2026-04-16T04:32:53.072337+00:00] [DEBUG] [worker] Processed payload sized 2711 bytes.
+[2026-04-16T04:32:53.110145+00:00] [DEBUG] [worker] Processed payload sized 2833 bytes.
+[2026-04-16T04:32:53.144215+00:00] [INFO] [health-check] Service is healthy. Uptime: 7211 minutes.
+[2026-04-16T04:32:53.182212+00:00] [DEBUG] [worker] Processed payload sized 6423 bytes.
+[2026-04-16T04:32:53.201925+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.7476
+[2026-04-16T04:32:53.251556+00:00] [DEBUG] [worker] Processed payload sized 6559 bytes.
+[2026-04-16T04:32:53.263932+00:00] [ERROR] [payment] Database timeout reading transaction 1339
+[2026-04-16T04:32:53.295070+00:00] [INFO] [health-check] Service is healthy. Uptime: 7452 minutes.
+[2026-04-16T04:32:53.312006+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174854 logged in successfully.
+[2026-04-16T04:32:53.351265+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.6160
+[2026-04-16T04:32:53.387090+00:00] [INFO] [health-check] Service is healthy. Uptime: 5759 minutes.
+[2026-04-16T04:32:53.421841+00:00] [INFO] [health-check] Service is healthy. Uptime: 6870 minutes.
+[2026-04-16T04:32:53.454185+00:00] [ERROR] [api] 500 Internal Server error on route /users/6170
+[2026-04-16T04:32:53.470253+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174569
+[2026-04-16T04:32:53.508231+00:00] [DEBUG] [worker] Processed payload sized 6572 bytes.
+[2026-04-16T04:32:53.551078+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174497
+[2026-04-16T04:32:53.568674+00:00] [DEBUG] [worker] Processed payload sized 9016 bytes.
+[2026-04-16T04:32:53.603888+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174226 logged in successfully.
+[2026-04-16T04:32:53.643339+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174290
+[2026-04-16T04:32:53.681196+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174163 logged in successfully.
+[2026-04-16T04:32:53.714953+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174242
+[2026-04-16T04:32:53.761915+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174937 logged in successfully.
+[2026-04-16T04:32:53.809898+00:00] [DEBUG] [worker] Processed payload sized 5835 bytes.
+[2026-04-16T04:32:53.835376+00:00] [ERROR] [payment] Database timeout reading transaction 8031
+[2026-04-16T04:32:53.877962+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174788 logged in successfully.
+[2026-04-16T04:32:53.919173+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174847 logged in successfully.
+[2026-04-16T04:32:53.951346+00:00] [INFO] [health-check] Service is healthy. Uptime: 4761 minutes.
+[2026-04-16T04:32:53.979072+00:00] [INFO] [health-check] Service is healthy. Uptime: 6751 minutes.
+[2026-04-16T04:32:54.020084+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174812 logged in successfully.
+[2026-04-16T04:32:54.064228+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.6862
+[2026-04-16T04:32:54.094945+00:00] [INFO] [health-check] Service is healthy. Uptime: 923 minutes.
+[2026-04-16T04:32:54.121788+00:00] [DEBUG] [worker] Processed payload sized 9388 bytes.
+[2026-04-16T04:32:54.163109+00:00] [INFO] [health-check] Service is healthy. Uptime: 7411 minutes.
+[2026-04-16T04:32:54.189123+00:00] [DEBUG] [worker] Processed payload sized 3121 bytes.
+[2026-04-16T04:32:54.218396+00:00] [INFO] [health-check] Service is healthy. Uptime: 8453 minutes.
+[2026-04-16T04:32:54.247002+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174809 logged in successfully.
+[2026-04-16T04:32:54.277594+00:00] [ERROR] [processing] OOM killer terminated process 6675
+[2026-04-16T04:32:54.292605+00:00] [DEBUG] [worker] Processed payload sized 9660 bytes.
+[2026-04-16T04:32:54.315518+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174641 logged in successfully.
+[2026-04-16T04:32:54.348570+00:00] [INFO] [health-check] Service is healthy. Uptime: 7375 minutes.
+[2026-04-16T04:32:54.385931+00:00] [DEBUG] [worker] Processed payload sized 3760 bytes.
+[2026-04-16T04:32:54.406300+00:00] [INFO] [health-check] Service is healthy. Uptime: 6631 minutes.
+[2026-04-16T04:32:54.430723+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174522 logged in successfully.
+[2026-04-16T04:32:54.466162+00:00] [DEBUG] [worker] Processed payload sized 1654 bytes.
+[2026-04-16T04:32:54.512022+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.4019
+[2026-04-16T04:32:54.550745+00:00] [ERROR] [processing] OOM killer terminated process 9882
+[2026-04-16T04:32:54.589300+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174573 logged in successfully.
+[2026-04-16T04:32:54.600219+00:00] [INFO] [health-check] Service is healthy. Uptime: 494 minutes.
+[2026-04-16T04:32:54.649832+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174194 logged in successfully.
+[2026-04-16T04:32:54.699729+00:00] [DEBUG] [worker] Processed payload sized 7769 bytes.
+[2026-04-16T04:32:54.732871+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174164 logged in successfully.
+[2026-04-16T04:32:54.745747+00:00] [INFO] [health-check] Service is healthy. Uptime: 9320 minutes.
+[2026-04-16T04:32:54.791430+00:00] [ERROR] [processing] OOM killer terminated process 7018
+[2026-04-16T04:32:54.833573+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174825
+[2026-04-16T04:32:54.876814+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174361 logged in successfully.
+[2026-04-16T04:32:54.900573+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174891 logged in successfully.
+[2026-04-16T04:32:54.913951+00:00] [DEBUG] [worker] Processed payload sized 5764 bytes.
+[2026-04-16T04:32:54.952610+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174595
+[2026-04-16T04:32:54.992185+00:00] [DEBUG] [worker] Processed payload sized 8918 bytes.
+[2026-04-16T04:32:55.035940+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174139
+[2026-04-16T04:32:55.064486+00:00] [DEBUG] [worker] Processed payload sized 4174 bytes.
+[2026-04-16T04:32:55.113902+00:00] [DEBUG] [worker] Processed payload sized 8865 bytes.
+[2026-04-16T04:32:55.154806+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174681 logged in successfully.
+[2026-04-16T04:32:55.185449+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174123 logged in successfully.
+[2026-04-16T04:32:55.199185+00:00] [DEBUG] [worker] Processed payload sized 3328 bytes.
+[2026-04-16T04:32:55.211245+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174225
+[2026-04-16T04:32:55.248288+00:00] [INFO] [health-check] Service is healthy. Uptime: 3412 minutes.
+[2026-04-16T04:32:55.259577+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174624 logged in successfully.
+[2026-04-16T04:32:55.296651+00:00] [INFO] [health-check] Service is healthy. Uptime: 1211 minutes.
+[2026-04-16T04:32:55.323418+00:00] [DEBUG] [worker] Processed payload sized 2734 bytes.
+[2026-04-16T04:32:55.343643+00:00] [ERROR] [api] 500 Internal Server error on route /users/7385
+[2026-04-16T04:32:55.368020+00:00] [DEBUG] [worker] Processed payload sized 9157 bytes.
+[2026-04-16T04:32:55.406094+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.7130
+[2026-04-16T04:32:55.439277+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174974 logged in successfully.
+[2026-04-16T04:32:55.463952+00:00] [INFO] [health-check] Service is healthy. Uptime: 2075 minutes.
+[2026-04-16T04:32:55.491841+00:00] [DEBUG] [worker] Processed payload sized 3626 bytes.
+[2026-04-16T04:32:55.509862+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174334 logged in successfully.
+[2026-04-16T04:32:55.532504+00:00] [DEBUG] [worker] Processed payload sized 14 bytes.
+[2026-04-16T04:32:55.578865+00:00] [DEBUG] [worker] Processed payload sized 7033 bytes.
+[2026-04-16T04:32:55.617484+00:00] [ERROR] [payment] Database timeout reading transaction 6928
+[2026-04-16T04:32:55.646320+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:55.685503+00:00] [INFO] [health-check] Service is healthy. Uptime: 7194 minutes.
+[2026-04-16T04:32:55.715406+00:00] [DEBUG] [worker] Processed payload sized 6573 bytes.
+[2026-04-16T04:32:55.751960+00:00] [ERROR] [processing] OOM killer terminated process 997
+[2026-04-16T04:32:55.784183+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.7939
+[2026-04-16T04:32:55.815513+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:55.827891+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174629 logged in successfully.
+[2026-04-16T04:32:55.867411+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174413
+[2026-04-16T04:32:55.902944+00:00] [INFO] [health-check] Service is healthy. Uptime: 3730 minutes.
+[2026-04-16T04:32:55.920672+00:00] [ERROR] [processing] OOM killer terminated process 3985
+[2026-04-16T04:32:55.932109+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174166 logged in successfully.
+[2026-04-16T04:32:55.951890+00:00] [ERROR] [api] 500 Internal Server error on route /users/1456
+[2026-04-16T04:32:55.998772+00:00] [INFO] [health-check] Service is healthy. Uptime: 7575 minutes.
+[2026-04-16T04:32:56.019247+00:00] [ERROR] [processing] OOM killer terminated process 8338
+[2026-04-16T04:32:56.036676+00:00] [DEBUG] [worker] Processed payload sized 6310 bytes.
+[2026-04-16T04:32:56.086485+00:00] [DEBUG] [worker] Processed payload sized 3804 bytes.
+[2026-04-16T04:32:56.133843+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174620 logged in successfully.
+[2026-04-16T04:32:56.145458+00:00] [ERROR] [payment] Database timeout reading transaction 213
+[2026-04-16T04:32:56.178297+00:00] [DEBUG] [worker] Processed payload sized 8328 bytes.
+[2026-04-16T04:32:56.222481+00:00] [ERROR] [api] 500 Internal Server error on route /users/7418
+[2026-04-16T04:32:56.261893+00:00] [DEBUG] [worker] Processed payload sized 2465 bytes.
+[2026-04-16T04:32:56.311309+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.9787
+[2026-04-16T04:32:56.350688+00:00] [INFO] [health-check] Service is healthy. Uptime: 6221 minutes.
+[2026-04-16T04:32:56.391411+00:00] [DEBUG] [worker] Processed payload sized 978 bytes.
+[2026-04-16T04:32:56.414818+00:00] [INFO] [health-check] Service is healthy. Uptime: 2962 minutes.
+[2026-04-16T04:32:56.447160+00:00] [DEBUG] [worker] Processed payload sized 9782 bytes.
+[2026-04-16T04:32:56.480717+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174194 logged in successfully.
+[2026-04-16T04:32:56.521994+00:00] [DEBUG] [worker] Processed payload sized 5924 bytes.
+[2026-04-16T04:32:56.557392+00:00] [DEBUG] [worker] Processed payload sized 1068 bytes.
+[2026-04-16T04:32:56.595910+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174577
+[2026-04-16T04:32:56.617401+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174848 logged in successfully.
+[2026-04-16T04:32:56.644738+00:00] [INFO] [health-check] Service is healthy. Uptime: 7384 minutes.
+[2026-04-16T04:32:56.684346+00:00] [DEBUG] [worker] Processed payload sized 3574 bytes.
+[2026-04-16T04:32:56.717774+00:00] [INFO] [health-check] Service is healthy. Uptime: 1340 minutes.
+[2026-04-16T04:32:56.757601+00:00] [DEBUG] [worker] Processed payload sized 4661 bytes.
+[2026-04-16T04:32:56.789081+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174501
+[2026-04-16T04:32:56.826633+00:00] [ERROR] [payment] Database timeout reading transaction 3922
+[2026-04-16T04:32:56.868444+00:00] [INFO] [health-check] Service is healthy. Uptime: 7060 minutes.
+[2026-04-16T04:32:56.906292+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174659 logged in successfully.
+[2026-04-16T04:32:56.948508+00:00] [ERROR] [payment] Database timeout reading transaction 3299
+[2026-04-16T04:32:56.969433+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174732 logged in successfully.
+[2026-04-16T04:32:56.985648+00:00] [DEBUG] [worker] Processed payload sized 8011 bytes.
+[2026-04-16T04:32:57.011157+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174802 logged in successfully.
+[2026-04-16T04:32:57.027128+00:00] [ERROR] [payment] Database timeout reading transaction 8583
+[2026-04-16T04:32:57.049019+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174946 logged in successfully.
+[2026-04-16T04:32:57.078254+00:00] [DEBUG] [worker] Processed payload sized 7757 bytes.
+[2026-04-16T04:32:57.116125+00:00] [DEBUG] [worker] Processed payload sized 5310 bytes.
+[2026-04-16T04:32:57.143896+00:00] [INFO] [health-check] Service is healthy. Uptime: 1389 minutes.
+[2026-04-16T04:32:57.165534+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174136
+[2026-04-16T04:32:57.193112+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174448
+[2026-04-16T04:32:57.242735+00:00] [DEBUG] [worker] Processed payload sized 64 bytes.
+[2026-04-16T04:32:57.266930+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174458 logged in successfully.
+[2026-04-16T04:32:57.316027+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174161
+[2026-04-16T04:32:57.331628+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174942
+[2026-04-16T04:32:57.357289+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174119 logged in successfully.
+[2026-04-16T04:32:57.398172+00:00] [ERROR] [api] 500 Internal Server error on route /users/3828
+[2026-04-16T04:32:57.445887+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174481
+[2026-04-16T04:32:57.464065+00:00] [DEBUG] [worker] Processed payload sized 9492 bytes.
+[2026-04-16T04:32:57.501798+00:00] [INFO] [health-check] Service is healthy. Uptime: 2793 minutes.
+[2026-04-16T04:32:57.543713+00:00] [INFO] [health-check] Service is healthy. Uptime: 2858 minutes.
+[2026-04-16T04:32:57.566815+00:00] [DEBUG] [worker] Processed payload sized 4611 bytes.
+[2026-04-16T04:32:57.584944+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:57.604904+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.9377
+[2026-04-16T04:32:57.633096+00:00] [ERROR] [api] 500 Internal Server error on route /users/1026
+[2026-04-16T04:32:57.663228+00:00] [DEBUG] [worker] Processed payload sized 8062 bytes.
+[2026-04-16T04:32:57.677928+00:00] [INFO] [health-check] Service is healthy. Uptime: 9015 minutes.
+[2026-04-16T04:32:57.715075+00:00] [DEBUG] [worker] Processed payload sized 7312 bytes.
+[2026-04-16T04:32:57.731522+00:00] [DEBUG] [worker] Processed payload sized 4952 bytes.
+[2026-04-16T04:32:57.745319+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174717 logged in successfully.
+[2026-04-16T04:32:57.756202+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:57.787445+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174976
+[2026-04-16T04:32:57.831070+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174156 logged in successfully.
+[2026-04-16T04:32:57.862780+00:00] [INFO] [health-check] Service is healthy. Uptime: 7368 minutes.
+[2026-04-16T04:32:57.888963+00:00] [DEBUG] [worker] Processed payload sized 7675 bytes.
+[2026-04-16T04:32:57.902348+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174976 logged in successfully.
+[2026-04-16T04:32:57.916846+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174942 logged in successfully.
+[2026-04-16T04:32:57.932117+00:00] [INFO] [health-check] Service is healthy. Uptime: 2521 minutes.
+[2026-04-16T04:32:57.958751+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174287 logged in successfully.
+[2026-04-16T04:32:57.988615+00:00] [DEBUG] [worker] Processed payload sized 6542 bytes.
+[2026-04-16T04:32:58.037024+00:00] [INFO] [health-check] Service is healthy. Uptime: 6186 minutes.
+[2026-04-16T04:32:58.053231+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174997 logged in successfully.
+[2026-04-16T04:32:58.084778+00:00] [INFO] [health-check] Service is healthy. Uptime: 8866 minutes.
+[2026-04-16T04:32:58.109355+00:00] [INFO] [health-check] Service is healthy. Uptime: 8708 minutes.
+[2026-04-16T04:32:58.155780+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174902
+[2026-04-16T04:32:58.196490+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174167
+[2026-04-16T04:32:58.238115+00:00] [INFO] [health-check] Service is healthy. Uptime: 7560 minutes.
+[2026-04-16T04:32:58.277143+00:00] [INFO] [health-check] Service is healthy. Uptime: 9789 minutes.
+[2026-04-16T04:32:58.292999+00:00] [ERROR] [api] 500 Internal Server error on route /users/2734
+[2026-04-16T04:32:58.315308+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:58.356506+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174179
+[2026-04-16T04:32:58.408139+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174690 logged in successfully.
+[2026-04-16T04:32:58.453676+00:00] [ERROR] [processing] OOM killer terminated process 3107
+[2026-04-16T04:32:58.468459+00:00] [INFO] [health-check] Service is healthy. Uptime: 4552 minutes.
+[2026-04-16T04:32:58.482505+00:00] [INFO] [health-check] Service is healthy. Uptime: 8705 minutes.
+[2026-04-16T04:32:58.512986+00:00] [INFO] [health-check] Service is healthy. Uptime: 2839 minutes.
+[2026-04-16T04:32:58.560021+00:00] [INFO] [health-check] Service is healthy. Uptime: 6804 minutes.
+[2026-04-16T04:32:58.596810+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.7210
+[2026-04-16T04:32:58.610440+00:00] [ERROR] [api] 500 Internal Server error on route /users/5649
+[2026-04-16T04:32:58.659459+00:00] [INFO] [health-check] Service is healthy. Uptime: 8992 minutes.
+[2026-04-16T04:32:58.702441+00:00] [ERROR] [processing] OOM killer terminated process 7212
+[2026-04-16T04:32:58.743161+00:00] [INFO] [health-check] Service is healthy. Uptime: 449 minutes.
+[2026-04-16T04:32:58.785551+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174659 logged in successfully.
+[2026-04-16T04:32:58.801895+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174991
+[2026-04-16T04:32:58.844219+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174656 logged in successfully.
+[2026-04-16T04:32:58.857959+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174904 logged in successfully.
+[2026-04-16T04:32:58.908061+00:00] [INFO] [health-check] Service is healthy. Uptime: 7159 minutes.
+[2026-04-16T04:32:58.954623+00:00] [INFO] [health-check] Service is healthy. Uptime: 2770 minutes.
+[2026-04-16T04:32:58.970944+00:00] [DEBUG] [worker] Processed payload sized 7675 bytes.
+[2026-04-16T04:32:58.997397+00:00] [DEBUG] [worker] Processed payload sized 9614 bytes.
+[2026-04-16T04:32:59.030945+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174101
+[2026-04-16T04:32:59.052200+00:00] [DEBUG] [worker] Processed payload sized 5565 bytes.
+[2026-04-16T04:32:59.084312+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174448 logged in successfully.
+[2026-04-16T04:32:59.099163+00:00] [INFO] [health-check] Service is healthy. Uptime: 4061 minutes.
+[2026-04-16T04:32:59.145391+00:00] [INFO] [health-check] Service is healthy. Uptime: 4064 minutes.
+[2026-04-16T04:32:59.188664+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:32:59.213959+00:00] [DEBUG] [worker] Processed payload sized 1584 bytes.
+[2026-04-16T04:32:59.242949+00:00] [ERROR] [processing] OOM killer terminated process 7969
+[2026-04-16T04:32:59.272501+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174106 logged in successfully.
+[2026-04-16T04:32:59.309810+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174595
+[2026-04-16T04:32:59.353577+00:00] [DEBUG] [worker] Processed payload sized 4826 bytes.
+[2026-04-16T04:32:59.395281+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.1698
+[2026-04-16T04:32:59.443479+00:00] [ERROR] [payment] Database timeout reading transaction 68
+[2026-04-16T04:32:59.485157+00:00] [ERROR] [api] 500 Internal Server error on route /users/9920
+[2026-04-16T04:32:59.514525+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174778 logged in successfully.
+[2026-04-16T04:32:59.540047+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174140
+[2026-04-16T04:32:59.581916+00:00] [INFO] [health-check] Service is healthy. Uptime: 2051 minutes.
+[2026-04-16T04:32:59.599450+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174976
+[2026-04-16T04:32:59.625499+00:00] [INFO] [health-check] Service is healthy. Uptime: 7200 minutes.
+[2026-04-16T04:32:59.646598+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174109 logged in successfully.
+[2026-04-16T04:32:59.688041+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174387 logged in successfully.
+[2026-04-16T04:32:59.728048+00:00] [DEBUG] [worker] Processed payload sized 9681 bytes.
+[2026-04-16T04:32:59.774695+00:00] [INFO] [health-check] Service is healthy. Uptime: 5215 minutes.
+[2026-04-16T04:32:59.787229+00:00] [INFO] [health-check] Service is healthy. Uptime: 470 minutes.
+[2026-04-16T04:32:59.818468+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174222 logged in successfully.
+[2026-04-16T04:32:59.842677+00:00] [DEBUG] [worker] Processed payload sized 3351 bytes.
+[2026-04-16T04:32:59.868286+00:00] [INFO] [health-check] Service is healthy. Uptime: 7039 minutes.
+[2026-04-16T04:32:59.915461+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174723
+[2026-04-16T04:32:59.931980+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174305 logged in successfully.
+[2026-04-16T04:32:59.975517+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.1896
+[2026-04-16T04:33:00.024307+00:00] [DEBUG] [worker] Processed payload sized 231 bytes.
+[2026-04-16T04:33:00.059217+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.3891
+[2026-04-16T04:33:00.094101+00:00] [ERROR] [api] 500 Internal Server error on route /users/7716
+[2026-04-16T04:33:00.132886+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:00.159875+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174177
+[2026-04-16T04:33:00.180271+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174534 logged in successfully.
+[2026-04-16T04:33:00.212255+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174219
+[2026-04-16T04:33:00.232201+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174834 logged in successfully.
+[2026-04-16T04:33:00.244230+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174457
+[2026-04-16T04:33:00.269511+00:00] [INFO] [health-check] Service is healthy. Uptime: 850 minutes.
+[2026-04-16T04:33:00.282946+00:00] [INFO] [health-check] Service is healthy. Uptime: 5160 minutes.
+[2026-04-16T04:33:00.331572+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:00.374908+00:00] [INFO] [health-check] Service is healthy. Uptime: 8262 minutes.
+[2026-04-16T04:33:00.405011+00:00] [DEBUG] [worker] Processed payload sized 1115 bytes.
+[2026-04-16T04:33:00.441205+00:00] [INFO] [health-check] Service is healthy. Uptime: 5130 minutes.
+[2026-04-16T04:33:00.478486+00:00] [ERROR] [processing] OOM killer terminated process 217
+[2026-04-16T04:33:00.508850+00:00] [DEBUG] [worker] Processed payload sized 338 bytes.
+[2026-04-16T04:33:00.546864+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.4529
+[2026-04-16T04:33:00.592580+00:00] [INFO] [health-check] Service is healthy. Uptime: 1926 minutes.
+[2026-04-16T04:33:00.626939+00:00] [ERROR] [processing] OOM killer terminated process 921
+[2026-04-16T04:33:00.650425+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174153
+[2026-04-16T04:33:00.677628+00:00] [ERROR] [api] 500 Internal Server error on route /users/3597
+[2026-04-16T04:33:00.709427+00:00] [INFO] [health-check] Service is healthy. Uptime: 9842 minutes.
+[2026-04-16T04:33:00.739638+00:00] [DEBUG] [worker] Processed payload sized 2664 bytes.
+[2026-04-16T04:33:00.769770+00:00] [ERROR] [processing] OOM killer terminated process 9103
+[2026-04-16T04:33:00.813856+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174999
+[2026-04-16T04:33:00.841651+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174105
+[2026-04-16T04:33:00.856442+00:00] [DEBUG] [worker] Processed payload sized 3428 bytes.
+[2026-04-16T04:33:00.903605+00:00] [INFO] [health-check] Service is healthy. Uptime: 372 minutes.
+[2026-04-16T04:33:00.947575+00:00] [DEBUG] [worker] Processed payload sized 8904 bytes.
+[2026-04-16T04:33:00.997587+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174726
+[2026-04-16T04:33:01.028584+00:00] [DEBUG] [worker] Processed payload sized 40 bytes.
+[2026-04-16T04:33:01.054136+00:00] [INFO] [health-check] Service is healthy. Uptime: 5276 minutes.
+[2026-04-16T04:33:01.077210+00:00] [DEBUG] [worker] Processed payload sized 6221 bytes.
+[2026-04-16T04:33:01.118618+00:00] [DEBUG] [worker] Processed payload sized 6942 bytes.
+[2026-04-16T04:33:01.134501+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174252 logged in successfully.
+[2026-04-16T04:33:01.150856+00:00] [ERROR] [processing] OOM killer terminated process 6454
+[2026-04-16T04:33:01.191988+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174343 logged in successfully.
+[2026-04-16T04:33:01.204067+00:00] [DEBUG] [worker] Processed payload sized 6183 bytes.
+[2026-04-16T04:33:01.223494+00:00] [INFO] [health-check] Service is healthy. Uptime: 7358 minutes.
+[2026-04-16T04:33:01.257744+00:00] [INFO] [health-check] Service is healthy. Uptime: 2270 minutes.
+[2026-04-16T04:33:01.290110+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174228 logged in successfully.
+[2026-04-16T04:33:01.307357+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174960 logged in successfully.
+[2026-04-16T04:33:01.324089+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174376 logged in successfully.
+[2026-04-16T04:33:01.344437+00:00] [INFO] [health-check] Service is healthy. Uptime: 9817 minutes.
+[2026-04-16T04:33:01.371046+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174875 logged in successfully.
+[2026-04-16T04:33:01.421158+00:00] [DEBUG] [worker] Processed payload sized 3842 bytes.
+[2026-04-16T04:33:01.466795+00:00] [ERROR] [processing] OOM killer terminated process 929
+[2026-04-16T04:33:01.493845+00:00] [ERROR] [payment] Database timeout reading transaction 5440
+[2026-04-16T04:33:01.531246+00:00] [DEBUG] [worker] Processed payload sized 9635 bytes.
+[2026-04-16T04:33:01.573257+00:00] [DEBUG] [worker] Processed payload sized 9950 bytes.
+[2026-04-16T04:33:01.604061+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174623
+[2026-04-16T04:33:01.643430+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174478 logged in successfully.
+[2026-04-16T04:33:01.685043+00:00] [ERROR] [processing] OOM killer terminated process 6769
+[2026-04-16T04:33:01.713325+00:00] [INFO] [health-check] Service is healthy. Uptime: 4808 minutes.
+[2026-04-16T04:33:01.732881+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174967
+[2026-04-16T04:33:01.766620+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174851 logged in successfully.
+[2026-04-16T04:33:01.807797+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174511 logged in successfully.
+[2026-04-16T04:33:01.837524+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174831 logged in successfully.
+[2026-04-16T04:33:01.852725+00:00] [INFO] [health-check] Service is healthy. Uptime: 8536 minutes.
+[2026-04-16T04:33:01.870158+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174243
+[2026-04-16T04:33:01.894806+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174390
+[2026-04-16T04:33:01.932638+00:00] [ERROR] [payment] Database timeout reading transaction 2972
+[2026-04-16T04:33:01.951436+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174538
+[2026-04-16T04:33:01.980520+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174535 logged in successfully.
+[2026-04-16T04:33:02.016592+00:00] [DEBUG] [worker] Processed payload sized 9572 bytes.
+[2026-04-16T04:33:02.048083+00:00] [ERROR] [payment] Database timeout reading transaction 818
+[2026-04-16T04:33:02.062870+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174714 logged in successfully.
+[2026-04-16T04:33:02.107566+00:00] [DEBUG] [worker] Processed payload sized 8762 bytes.
+[2026-04-16T04:33:02.125978+00:00] [INFO] [health-check] Service is healthy. Uptime: 2032 minutes.
+[2026-04-16T04:33:02.145591+00:00] [DEBUG] [worker] Processed payload sized 484 bytes.
+[2026-04-16T04:33:02.183146+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174669 logged in successfully.
+[2026-04-16T04:33:02.201667+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:02.242078+00:00] [DEBUG] [worker] Processed payload sized 9711 bytes.
+[2026-04-16T04:33:02.266598+00:00] [INFO] [health-check] Service is healthy. Uptime: 8185 minutes.
+[2026-04-16T04:33:02.293421+00:00] [INFO] [health-check] Service is healthy. Uptime: 7236 minutes.
+[2026-04-16T04:33:02.312218+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174861 logged in successfully.
+[2026-04-16T04:33:02.333259+00:00] [DEBUG] [worker] Processed payload sized 6827 bytes.
+[2026-04-16T04:33:02.359548+00:00] [INFO] [health-check] Service is healthy. Uptime: 9423 minutes.
+[2026-04-16T04:33:02.407803+00:00] [DEBUG] [worker] Processed payload sized 236 bytes.
+[2026-04-16T04:33:02.432098+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174575 logged in successfully.
+[2026-04-16T04:33:02.445834+00:00] [ERROR] [api] 500 Internal Server error on route /users/6947
+[2026-04-16T04:33:02.470876+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174865
+[2026-04-16T04:33:02.503261+00:00] [DEBUG] [worker] Processed payload sized 4119 bytes.
+[2026-04-16T04:33:02.544625+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:02.567316+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174423 logged in successfully.
+[2026-04-16T04:33:02.578732+00:00] [INFO] [health-check] Service is healthy. Uptime: 5754 minutes.
+[2026-04-16T04:33:02.599674+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:02.614278+00:00] [DEBUG] [worker] Processed payload sized 1382 bytes.
+[2026-04-16T04:33:02.644628+00:00] [INFO] [health-check] Service is healthy. Uptime: 9813 minutes.
+[2026-04-16T04:33:02.676100+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174591 logged in successfully.
+[2026-04-16T04:33:02.692379+00:00] [DEBUG] [worker] Processed payload sized 8534 bytes.
+[2026-04-16T04:33:02.709213+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.3066
+[2026-04-16T04:33:02.749007+00:00] [DEBUG] [worker] Processed payload sized 421 bytes.
+[2026-04-16T04:33:02.761149+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.6968
+[2026-04-16T04:33:02.810140+00:00] [DEBUG] [worker] Processed payload sized 4396 bytes.
+[2026-04-16T04:33:02.846116+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174487 logged in successfully.
+[2026-04-16T04:33:02.865528+00:00] [DEBUG] [worker] Processed payload sized 3530 bytes.
+[2026-04-16T04:33:02.914091+00:00] [INFO] [health-check] Service is healthy. Uptime: 5521 minutes.
+[2026-04-16T04:33:02.942705+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:02.985025+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174957 logged in successfully.
+[2026-04-16T04:33:03.005750+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174539 logged in successfully.
+[2026-04-16T04:33:03.048829+00:00] [INFO] [health-check] Service is healthy. Uptime: 9619 minutes.
+[2026-04-16T04:33:03.094952+00:00] [INFO] [health-check] Service is healthy. Uptime: 5182 minutes.
+[2026-04-16T04:33:03.108783+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:03.144218+00:00] [DEBUG] [worker] Processed payload sized 3191 bytes.
+[2026-04-16T04:33:03.185754+00:00] [ERROR] [processing] OOM killer terminated process 9659
+[2026-04-16T04:33:03.220190+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.6180
+[2026-04-16T04:33:03.264514+00:00] [INFO] [health-check] Service is healthy. Uptime: 3218 minutes.
+[2026-04-16T04:33:03.282483+00:00] [DEBUG] [worker] Processed payload sized 343 bytes.
+[2026-04-16T04:33:03.320032+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174343 logged in successfully.
+[2026-04-16T04:33:03.374688+00:00] [DEBUG] [worker] Processed payload sized 9503 bytes.
+[2026-04-16T04:33:03.396176+00:00] [DEBUG] [worker] Processed payload sized 2513 bytes.
+[2026-04-16T04:33:03.429858+00:00] [INFO] [health-check] Service is healthy. Uptime: 3227 minutes.
+[2026-04-16T04:33:03.445065+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:03.482265+00:00] [DEBUG] [worker] Processed payload sized 1586 bytes.
+[2026-04-16T04:33:03.506811+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:03.540293+00:00] [INFO] [health-check] Service is healthy. Uptime: 5342 minutes.
+[2026-04-16T04:33:03.587442+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174639 logged in successfully.
+[2026-04-16T04:33:03.604582+00:00] [DEBUG] [worker] Processed payload sized 2988 bytes.
+[2026-04-16T04:33:03.632926+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174578 logged in successfully.
+[2026-04-16T04:33:03.643412+00:00] [INFO] [health-check] Service is healthy. Uptime: 7803 minutes.
+[2026-04-16T04:33:03.687704+00:00] [ERROR] [payment] Database timeout reading transaction 9602
+[2026-04-16T04:33:03.713874+00:00] [INFO] [health-check] Service is healthy. Uptime: 7683 minutes.
+[2026-04-16T04:33:03.735112+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174545 logged in successfully.
+[2026-04-16T04:33:03.784510+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174866 logged in successfully.
+[2026-04-16T04:33:03.825251+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.7101
+[2026-04-16T04:33:03.851641+00:00] [INFO] [health-check] Service is healthy. Uptime: 8889 minutes.
+[2026-04-16T04:33:03.895707+00:00] [DEBUG] [worker] Processed payload sized 6772 bytes.
+[2026-04-16T04:33:03.918756+00:00] [INFO] [health-check] Service is healthy. Uptime: 7824 minutes.
+[2026-04-16T04:33:03.945140+00:00] [DEBUG] [worker] Processed payload sized 1864 bytes.
+[2026-04-16T04:33:03.988325+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174775
+[2026-04-16T04:33:04.023349+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174236 logged in successfully.
+[2026-04-16T04:33:04.054391+00:00] [INFO] [health-check] Service is healthy. Uptime: 8674 minutes.
+[2026-04-16T04:33:04.105261+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174322 logged in successfully.
+[2026-04-16T04:33:04.127796+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174287
+[2026-04-16T04:33:04.138486+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174916 logged in successfully.
+[2026-04-16T04:33:04.151683+00:00] [INFO] [health-check] Service is healthy. Uptime: 9818 minutes.
+[2026-04-16T04:33:04.196369+00:00] [DEBUG] [worker] Processed payload sized 4703 bytes.
+[2026-04-16T04:33:04.221147+00:00] [DEBUG] [worker] Processed payload sized 6399 bytes.
+[2026-04-16T04:33:04.255709+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174245
+[2026-04-16T04:33:04.275828+00:00] [DEBUG] [worker] Processed payload sized 7860 bytes.
+[2026-04-16T04:33:04.305449+00:00] [ERROR] [processing] OOM killer terminated process 981
+[2026-04-16T04:33:04.324200+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174599 logged in successfully.
+[2026-04-16T04:33:04.350521+00:00] [INFO] [health-check] Service is healthy. Uptime: 9343 minutes.
+[2026-04-16T04:33:04.396378+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174492 logged in successfully.
+[2026-04-16T04:33:04.435902+00:00] [DEBUG] [worker] Processed payload sized 2194 bytes.
+[2026-04-16T04:33:04.469178+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:04.482358+00:00] [INFO] [health-check] Service is healthy. Uptime: 4183 minutes.
+[2026-04-16T04:33:04.518298+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174837 logged in successfully.
+[2026-04-16T04:33:04.570198+00:00] [INFO] [health-check] Service is healthy. Uptime: 33 minutes.
+[2026-04-16T04:33:04.611268+00:00] [DEBUG] [worker] Processed payload sized 9513 bytes.
+[2026-04-16T04:33:04.650134+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:04.670070+00:00] [INFO] [health-check] Service is healthy. Uptime: 5371 minutes.
+[2026-04-16T04:33:04.704682+00:00] [INFO] [health-check] Service is healthy. Uptime: 1565 minutes.
+[2026-04-16T04:33:04.737127+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174725 logged in successfully.
+[2026-04-16T04:33:04.755484+00:00] [INFO] [health-check] Service is healthy. Uptime: 1956 minutes.
+[2026-04-16T04:33:04.779535+00:00] [INFO] [health-check] Service is healthy. Uptime: 5777 minutes.
+[2026-04-16T04:33:04.821459+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174805 logged in successfully.
+[2026-04-16T04:33:04.840481+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174206 logged in successfully.
+[2026-04-16T04:33:04.859935+00:00] [DEBUG] [worker] Processed payload sized 182 bytes.
+[2026-04-16T04:33:04.883957+00:00] [INFO] [health-check] Service is healthy. Uptime: 4113 minutes.
+[2026-04-16T04:33:04.912663+00:00] [INFO] [health-check] Service is healthy. Uptime: 8922 minutes.
+[2026-04-16T04:33:04.949176+00:00] [DEBUG] [worker] Processed payload sized 992 bytes.
+[2026-04-16T04:33:04.987242+00:00] [INFO] [health-check] Service is healthy. Uptime: 7294 minutes.
+[2026-04-16T04:33:05.005825+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:05.018802+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174707
+[2026-04-16T04:33:05.036927+00:00] [DEBUG] [worker] Processed payload sized 5544 bytes.
+[2026-04-16T04:33:05.076779+00:00] [INFO] [health-check] Service is healthy. Uptime: 6011 minutes.
+[2026-04-16T04:33:05.093912+00:00] [DEBUG] [worker] Processed payload sized 590 bytes.
+[2026-04-16T04:33:05.137259+00:00] [DEBUG] [worker] Processed payload sized 3970 bytes.
+[2026-04-16T04:33:05.169762+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174658 logged in successfully.
+[2026-04-16T04:33:05.187959+00:00] [DEBUG] [worker] Processed payload sized 2085 bytes.
+[2026-04-16T04:33:05.233063+00:00] [INFO] [health-check] Service is healthy. Uptime: 5603 minutes.
+[2026-04-16T04:33:05.244642+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174282 logged in successfully.
+[2026-04-16T04:33:05.275305+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174418 logged in successfully.
+[2026-04-16T04:33:05.322794+00:00] [DEBUG] [worker] Processed payload sized 9918 bytes.
+[2026-04-16T04:33:05.343083+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174310 logged in successfully.
+[2026-04-16T04:33:05.364530+00:00] [ERROR] [processing] OOM killer terminated process 6179
+[2026-04-16T04:33:05.404724+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174976
+[2026-04-16T04:33:05.441604+00:00] [DEBUG] [worker] Processed payload sized 1160 bytes.
+[2026-04-16T04:33:05.477212+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174228
+[2026-04-16T04:33:05.525089+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:05.542412+00:00] [ERROR] [processing] OOM killer terminated process 2661
+[2026-04-16T04:33:05.574059+00:00] [INFO] [health-check] Service is healthy. Uptime: 8024 minutes.
+[2026-04-16T04:33:05.621704+00:00] [DEBUG] [worker] Processed payload sized 7978 bytes.
+[2026-04-16T04:33:05.662699+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174542 logged in successfully.
+[2026-04-16T04:33:05.676786+00:00] [ERROR] [payment] Database timeout reading transaction 1751
+[2026-04-16T04:33:05.698162+00:00] [DEBUG] [worker] Processed payload sized 4573 bytes.
+[2026-04-16T04:33:05.742683+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174866 logged in successfully.
+[2026-04-16T04:33:05.761469+00:00] [DEBUG] [worker] Processed payload sized 2588 bytes.
+[2026-04-16T04:33:05.789624+00:00] [DEBUG] [worker] Processed payload sized 9390 bytes.
+[2026-04-16T04:33:05.801218+00:00] [ERROR] [api] 500 Internal Server error on route /users/351
+[2026-04-16T04:33:05.830677+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174269
+[2026-04-16T04:33:05.874601+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174598 logged in successfully.
+[2026-04-16T04:33:05.897819+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174415 logged in successfully.
+[2026-04-16T04:33:05.932890+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174817 logged in successfully.
+[2026-04-16T04:33:05.957612+00:00] [INFO] [health-check] Service is healthy. Uptime: 3019 minutes.
+[2026-04-16T04:33:05.998996+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174172 logged in successfully.
+[2026-04-16T04:33:06.047393+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174198
+[2026-04-16T04:33:06.091677+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:06.105918+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.4722
+[2026-04-16T04:33:06.153059+00:00] [INFO] [health-check] Service is healthy. Uptime: 5871 minutes.
+[2026-04-16T04:33:06.166342+00:00] [INFO] [health-check] Service is healthy. Uptime: 5534 minutes.
+[2026-04-16T04:33:06.202915+00:00] [DEBUG] [worker] Processed payload sized 1378 bytes.
+[2026-04-16T04:33:06.224671+00:00] [DEBUG] [worker] Processed payload sized 3159 bytes.
+[2026-04-16T04:33:06.252200+00:00] [DEBUG] [worker] Processed payload sized 8006 bytes.
+[2026-04-16T04:33:06.294670+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174433 logged in successfully.
+[2026-04-16T04:33:06.331199+00:00] [DEBUG] [worker] Processed payload sized 5483 bytes.
+[2026-04-16T04:33:06.365804+00:00] [DEBUG] [worker] Processed payload sized 6929 bytes.
+[2026-04-16T04:33:06.412374+00:00] [ERROR] [processing] OOM killer terminated process 3216
+[2026-04-16T04:33:06.439352+00:00] [DEBUG] [worker] Processed payload sized 521 bytes.
+[2026-04-16T04:33:06.469140+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174571 logged in successfully.
+[2026-04-16T04:33:06.498077+00:00] [DEBUG] [worker] Processed payload sized 1254 bytes.
+[2026-04-16T04:33:06.525751+00:00] [ERROR] [processing] OOM killer terminated process 3162
+[2026-04-16T04:33:06.554936+00:00] [ERROR] [payment] Database timeout reading transaction 8018
+[2026-04-16T04:33:06.574665+00:00] [DEBUG] [worker] Processed payload sized 5748 bytes.
+[2026-04-16T04:33:06.593767+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174191 logged in successfully.
+[2026-04-16T04:33:06.609529+00:00] [DEBUG] [worker] Processed payload sized 7587 bytes.
+[2026-04-16T04:33:06.639167+00:00] [DEBUG] [worker] Processed payload sized 246 bytes.
+[2026-04-16T04:33:06.672132+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:06.705693+00:00] [DEBUG] [worker] Processed payload sized 3655 bytes.
+[2026-04-16T04:33:06.742088+00:00] [INFO] [health-check] Service is healthy. Uptime: 7755 minutes.
+[2026-04-16T04:33:06.766641+00:00] [DEBUG] [worker] Processed payload sized 3339 bytes.
+[2026-04-16T04:33:06.800218+00:00] [DEBUG] [worker] Processed payload sized 4240 bytes.
+[2026-04-16T04:33:06.847682+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174375
+[2026-04-16T04:33:06.874381+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.1966
+[2026-04-16T04:33:06.887873+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174833 logged in successfully.
+[2026-04-16T04:33:06.928541+00:00] [INFO] [health-check] Service is healthy. Uptime: 4467 minutes.
+[2026-04-16T04:33:06.941661+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.8959
+[2026-04-16T04:33:06.969767+00:00] [ERROR] [api] 500 Internal Server error on route /users/6338
+[2026-04-16T04:33:06.989509+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174149 logged in successfully.
+[2026-04-16T04:33:07.026736+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174120 logged in successfully.
+[2026-04-16T04:33:07.076614+00:00] [DEBUG] [worker] Processed payload sized 3990 bytes.
+[2026-04-16T04:33:07.091780+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174860 logged in successfully.
+[2026-04-16T04:33:07.104505+00:00] [DEBUG] [worker] Processed payload sized 5335 bytes.
+[2026-04-16T04:33:07.118065+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:07.135298+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174567
+[2026-04-16T04:33:07.157643+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174112 logged in successfully.
+[2026-04-16T04:33:07.189190+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:07.239285+00:00] [ERROR] [payment] Database timeout reading transaction 3426
+[2026-04-16T04:33:07.270933+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174207 logged in successfully.
+[2026-04-16T04:33:07.287898+00:00] [INFO] [health-check] Service is healthy. Uptime: 5777 minutes.
+[2026-04-16T04:33:07.312338+00:00] [DEBUG] [worker] Processed payload sized 8506 bytes.
+[2026-04-16T04:33:07.333052+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174471
+[2026-04-16T04:33:07.359386+00:00] [DEBUG] [worker] Processed payload sized 4999 bytes.
+[2026-04-16T04:33:07.389940+00:00] [DEBUG] [worker] Processed payload sized 8593 bytes.
+[2026-04-16T04:33:07.438267+00:00] [INFO] [health-check] Service is healthy. Uptime: 7513 minutes.
+[2026-04-16T04:33:07.463185+00:00] [INFO] [health-check] Service is healthy. Uptime: 644 minutes.
+[2026-04-16T04:33:07.487770+00:00] [INFO] [health-check] Service is healthy. Uptime: 4107 minutes.
+[2026-04-16T04:33:07.518969+00:00] [INFO] [health-check] Service is healthy. Uptime: 8882 minutes.
+[2026-04-16T04:33:07.559625+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.3724
+[2026-04-16T04:33:07.570229+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174722 logged in successfully.
+[2026-04-16T04:33:07.592448+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174738
+[2026-04-16T04:33:07.620749+00:00] [ERROR] [payment] Database timeout reading transaction 5639
+[2026-04-16T04:33:07.648690+00:00] [ERROR] [api] 500 Internal Server error on route /users/370
+[2026-04-16T04:33:07.679171+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174460 logged in successfully.
+[2026-04-16T04:33:07.714743+00:00] [DEBUG] [worker] Processed payload sized 433 bytes.
+[2026-04-16T04:33:07.737541+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174381 logged in successfully.
+[2026-04-16T04:33:07.774650+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174647 logged in successfully.
+[2026-04-16T04:33:07.809909+00:00] [INFO] [health-check] Service is healthy. Uptime: 6552 minutes.
+[2026-04-16T04:33:07.838293+00:00] [INFO] [health-check] Service is healthy. Uptime: 353 minutes.
+[2026-04-16T04:33:07.869447+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174683
+[2026-04-16T04:33:07.919637+00:00] [INFO] [health-check] Service is healthy. Uptime: 7836 minutes.
+[2026-04-16T04:33:07.943830+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:07.987474+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.650
+[2026-04-16T04:33:08.002985+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174640
+[2026-04-16T04:33:08.026486+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174502 logged in successfully.
+[2026-04-16T04:33:08.077144+00:00] [INFO] [health-check] Service is healthy. Uptime: 952 minutes.
+[2026-04-16T04:33:08.107438+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:08.142964+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174896 logged in successfully.
+[2026-04-16T04:33:08.185475+00:00] [INFO] [health-check] Service is healthy. Uptime: 1738 minutes.
+[2026-04-16T04:33:08.210344+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.855
+[2026-04-16T04:33:08.224741+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174250 logged in successfully.
+[2026-04-16T04:33:08.240678+00:00] [DEBUG] [worker] Processed payload sized 8948 bytes.
+[2026-04-16T04:33:08.252667+00:00] [ERROR] [processing] OOM killer terminated process 2524
+[2026-04-16T04:33:08.300160+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174113 logged in successfully.
+[2026-04-16T04:33:08.312854+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174647
+[2026-04-16T04:33:08.337144+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174261
+[2026-04-16T04:33:08.350042+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:08.393185+00:00] [INFO] [health-check] Service is healthy. Uptime: 8658 minutes.
+[2026-04-16T04:33:08.433774+00:00] [DEBUG] [worker] Processed payload sized 5742 bytes.
+[2026-04-16T04:33:08.485603+00:00] [ERROR] [api] 500 Internal Server error on route /users/782
+[2026-04-16T04:33:08.522937+00:00] [INFO] [health-check] Service is healthy. Uptime: 5046 minutes.
+[2026-04-16T04:33:08.553453+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174715
+[2026-04-16T04:33:08.565004+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174120 logged in successfully.
+[2026-04-16T04:33:08.582354+00:00] [INFO] [health-check] Service is healthy. Uptime: 7720 minutes.
+[2026-04-16T04:33:08.600617+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174904 logged in successfully.
+[2026-04-16T04:33:08.628966+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174588
+[2026-04-16T04:33:08.645992+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174222 logged in successfully.
+[2026-04-16T04:33:08.660807+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174667 logged in successfully.
+[2026-04-16T04:33:08.700178+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174696 logged in successfully.
+[2026-04-16T04:33:08.727439+00:00] [INFO] [health-check] Service is healthy. Uptime: 9389 minutes.
+[2026-04-16T04:33:08.753133+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174487 logged in successfully.
+[2026-04-16T04:33:08.774208+00:00] [ERROR] [processing] OOM killer terminated process 5171
+[2026-04-16T04:33:08.810551+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174858 logged in successfully.
+[2026-04-16T04:33:08.843774+00:00] [INFO] [health-check] Service is healthy. Uptime: 6180 minutes.
+[2026-04-16T04:33:08.880589+00:00] [INFO] [health-check] Service is healthy. Uptime: 9568 minutes.
+[2026-04-16T04:33:08.928217+00:00] [ERROR] [api] 500 Internal Server error on route /users/6916
+[2026-04-16T04:33:08.978262+00:00] [INFO] [health-check] Service is healthy. Uptime: 2396 minutes.
+[2026-04-16T04:33:09.018312+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.8386
+[2026-04-16T04:33:09.060854+00:00] [INFO] [health-check] Service is healthy. Uptime: 6168 minutes.
+[2026-04-16T04:33:09.108473+00:00] [INFO] [health-check] Service is healthy. Uptime: 3921 minutes.
+[2026-04-16T04:33:09.122519+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174367 logged in successfully.
+[2026-04-16T04:33:09.135705+00:00] [ERROR] [processing] OOM killer terminated process 4854
+[2026-04-16T04:33:09.177427+00:00] [ERROR] [payment] Database timeout reading transaction 9247
+[2026-04-16T04:33:09.188496+00:00] [DEBUG] [worker] Processed payload sized 9994 bytes.
+[2026-04-16T04:33:09.233457+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174229 logged in successfully.
+[2026-04-16T04:33:09.263527+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174733 logged in successfully.
+[2026-04-16T04:33:09.293551+00:00] [DEBUG] [worker] Processed payload sized 2499 bytes.
+[2026-04-16T04:33:09.314310+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174597 logged in successfully.
+[2026-04-16T04:33:09.330923+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174630 logged in successfully.
+[2026-04-16T04:33:09.346009+00:00] [INFO] [health-check] Service is healthy. Uptime: 5656 minutes.
+[2026-04-16T04:33:09.382594+00:00] [DEBUG] [worker] Processed payload sized 962 bytes.
+[2026-04-16T04:33:09.424867+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174454 logged in successfully.
+[2026-04-16T04:33:09.449200+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174291 logged in successfully.
+[2026-04-16T04:33:09.463047+00:00] [ERROR] [processing] OOM killer terminated process 2194
+[2026-04-16T04:33:09.511694+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174831 logged in successfully.
+[2026-04-16T04:33:09.554102+00:00] [ERROR] [payment] Database timeout reading transaction 4166
+[2026-04-16T04:33:09.599592+00:00] [INFO] [health-check] Service is healthy. Uptime: 676 minutes.
+[2026-04-16T04:33:09.616212+00:00] [INFO] [health-check] Service is healthy. Uptime: 1651 minutes.
+[2026-04-16T04:33:09.667141+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:09.698619+00:00] [INFO] [health-check] Service is healthy. Uptime: 7072 minutes.
+[2026-04-16T04:33:09.738698+00:00] [INFO] [health-check] Service is healthy. Uptime: 344 minutes.
+[2026-04-16T04:33:09.760389+00:00] [INFO] [health-check] Service is healthy. Uptime: 3151 minutes.
+[2026-04-16T04:33:09.801749+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174162 logged in successfully.
+[2026-04-16T04:33:09.825403+00:00] [INFO] [health-check] Service is healthy. Uptime: 7954 minutes.
+[2026-04-16T04:33:09.863072+00:00] [INFO] [health-check] Service is healthy. Uptime: 2064 minutes.
+[2026-04-16T04:33:09.907420+00:00] [DEBUG] [worker] Processed payload sized 7486 bytes.
+[2026-04-16T04:33:09.935559+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.3888
+[2026-04-16T04:33:09.974396+00:00] [ERROR] [payment] Database timeout reading transaction 5487
+[2026-04-16T04:33:09.987029+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:10.030531+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174411 logged in successfully.
+[2026-04-16T04:33:10.044234+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174839 logged in successfully.
+[2026-04-16T04:33:10.094539+00:00] [DEBUG] [worker] Processed payload sized 3557 bytes.
+[2026-04-16T04:33:10.133798+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174984
+[2026-04-16T04:33:10.151806+00:00] [ERROR] [processing] OOM killer terminated process 3838
+[2026-04-16T04:33:10.200176+00:00] [ERROR] [payment] Database timeout reading transaction 8669
+[2026-04-16T04:33:10.222581+00:00] [DEBUG] [worker] Processed payload sized 4927 bytes.
+[2026-04-16T04:33:10.235051+00:00] [INFO] [health-check] Service is healthy. Uptime: 2621 minutes.
+[2026-04-16T04:33:10.273818+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174900 logged in successfully.
+[2026-04-16T04:33:10.286370+00:00] [ERROR] [payment] Database timeout reading transaction 9672
+[2026-04-16T04:33:10.316109+00:00] [DEBUG] [worker] Processed payload sized 5733 bytes.
+[2026-04-16T04:33:10.352638+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174236 logged in successfully.
+[2026-04-16T04:33:10.381176+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174611 logged in successfully.
+[2026-04-16T04:33:10.431820+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174809
+[2026-04-16T04:33:10.446651+00:00] [DEBUG] [worker] Processed payload sized 312 bytes.
+[2026-04-16T04:33:10.489021+00:00] [ERROR] [api] 500 Internal Server error on route /users/2209
+[2026-04-16T04:33:10.522143+00:00] [DEBUG] [worker] Processed payload sized 2994 bytes.
+[2026-04-16T04:33:10.551076+00:00] [DEBUG] [worker] Processed payload sized 3422 bytes.
+[2026-04-16T04:33:10.568084+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174661 logged in successfully.
+[2026-04-16T04:33:10.580511+00:00] [ERROR] [api] 500 Internal Server error on route /users/5215
+[2026-04-16T04:33:10.599212+00:00] [DEBUG] [worker] Processed payload sized 8509 bytes.
+[2026-04-16T04:33:10.642697+00:00] [ERROR] [payment] Database timeout reading transaction 9370
+[2026-04-16T04:33:10.681432+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174553 logged in successfully.
+[2026-04-16T04:33:10.724862+00:00] [ERROR] [api] 500 Internal Server error on route /users/9043
+[2026-04-16T04:33:10.751573+00:00] [DEBUG] [worker] Processed payload sized 7923 bytes.
+[2026-04-16T04:33:10.768966+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174442 logged in successfully.
+[2026-04-16T04:33:10.791260+00:00] [INFO] [health-check] Service is healthy. Uptime: 9232 minutes.
+[2026-04-16T04:33:10.822246+00:00] [ERROR] [payment] Database timeout reading transaction 2410
+[2026-04-16T04:33:10.836486+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174514 logged in successfully.
+[2026-04-16T04:33:10.869935+00:00] [INFO] [health-check] Service is healthy. Uptime: 9320 minutes.
+[2026-04-16T04:33:10.887838+00:00] [ERROR] [payment] Database timeout reading transaction 2067
+[2026-04-16T04:33:10.900324+00:00] [INFO] [health-check] Service is healthy. Uptime: 5617 minutes.
+[2026-04-16T04:33:10.925856+00:00] [INFO] [health-check] Service is healthy. Uptime: 1186 minutes.
+[2026-04-16T04:33:10.973798+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174421 logged in successfully.
+[2026-04-16T04:33:11.011541+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174746 logged in successfully.
+[2026-04-16T04:33:11.035567+00:00] [DEBUG] [worker] Processed payload sized 7074 bytes.
+[2026-04-16T04:33:11.080892+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174174
+[2026-04-16T04:33:11.119446+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174444
+[2026-04-16T04:33:11.158680+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174471 logged in successfully.
+[2026-04-16T04:33:11.191854+00:00] [ERROR] [api] 500 Internal Server error on route /users/4197
+[2026-04-16T04:33:11.237470+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174927 logged in successfully.
+[2026-04-16T04:33:11.284461+00:00] [INFO] [health-check] Service is healthy. Uptime: 633 minutes.
+[2026-04-16T04:33:11.315624+00:00] [DEBUG] [worker] Processed payload sized 8138 bytes.
+[2026-04-16T04:33:11.335879+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174364
+[2026-04-16T04:33:11.347458+00:00] [ERROR] [processing] OOM killer terminated process 826
+[2026-04-16T04:33:11.381684+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174215 logged in successfully.
+[2026-04-16T04:33:11.420328+00:00] [DEBUG] [worker] Processed payload sized 4455 bytes.
+[2026-04-16T04:33:11.443773+00:00] [INFO] [health-check] Service is healthy. Uptime: 4870 minutes.
+[2026-04-16T04:33:11.488144+00:00] [DEBUG] [worker] Processed payload sized 3315 bytes.
+[2026-04-16T04:33:11.506106+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.435
+[2026-04-16T04:33:11.552328+00:00] [ERROR] [processing] OOM killer terminated process 4307
+[2026-04-16T04:33:11.601650+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174826 logged in successfully.
+[2026-04-16T04:33:11.647798+00:00] [INFO] [health-check] Service is healthy. Uptime: 284 minutes.
+[2026-04-16T04:33:11.678905+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174202 logged in successfully.
+[2026-04-16T04:33:11.721928+00:00] [ERROR] [processing] OOM killer terminated process 6791
+[2026-04-16T04:33:11.759494+00:00] [INFO] [health-check] Service is healthy. Uptime: 5342 minutes.
+[2026-04-16T04:33:11.781573+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174598 logged in successfully.
+[2026-04-16T04:33:11.826992+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174635 logged in successfully.
+[2026-04-16T04:33:11.870303+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174352
+[2026-04-16T04:33:11.902439+00:00] [DEBUG] [worker] Processed payload sized 2010 bytes.
+[2026-04-16T04:33:11.923382+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174940 logged in successfully.
+[2026-04-16T04:33:11.963722+00:00] [DEBUG] [worker] Processed payload sized 1523 bytes.
+[2026-04-16T04:33:11.974690+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.4419
+[2026-04-16T04:33:12.022873+00:00] [ERROR] [payment] Database timeout reading transaction 4030
+[2026-04-16T04:33:12.065867+00:00] [DEBUG] [worker] Processed payload sized 836 bytes.
+[2026-04-16T04:33:12.090061+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174831 logged in successfully.
+[2026-04-16T04:33:12.113854+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.1287
+[2026-04-16T04:33:12.157434+00:00] [DEBUG] [worker] Processed payload sized 3124 bytes.
+[2026-04-16T04:33:12.197183+00:00] [ERROR] [processing] OOM killer terminated process 4732
+[2026-04-16T04:33:12.244843+00:00] [DEBUG] [worker] Processed payload sized 4831 bytes.
+[2026-04-16T04:33:12.284031+00:00] [INFO] [health-check] Service is healthy. Uptime: 9219 minutes.
+[2026-04-16T04:33:12.296148+00:00] [DEBUG] [worker] Processed payload sized 9291 bytes.
+[2026-04-16T04:33:12.308720+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174454
+[2026-04-16T04:33:12.336180+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174191
+[2026-04-16T04:33:12.357139+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174303
+[2026-04-16T04:33:12.396712+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174441 logged in successfully.
+[2026-04-16T04:33:12.444883+00:00] [DEBUG] [worker] Processed payload sized 1927 bytes.
+[2026-04-16T04:33:12.483067+00:00] [INFO] [health-check] Service is healthy. Uptime: 890 minutes.
+[2026-04-16T04:33:12.499210+00:00] [DEBUG] [worker] Processed payload sized 106 bytes.
+[2026-04-16T04:33:12.548866+00:00] [INFO] [health-check] Service is healthy. Uptime: 352 minutes.
+[2026-04-16T04:33:12.563331+00:00] [DEBUG] [worker] Processed payload sized 7934 bytes.
+[2026-04-16T04:33:12.614494+00:00] [DEBUG] [worker] Processed payload sized 3640 bytes.
+[2026-04-16T04:33:12.636584+00:00] [DEBUG] [worker] Processed payload sized 7221 bytes.
+[2026-04-16T04:33:12.665713+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.8552
+[2026-04-16T04:33:12.706340+00:00] [DEBUG] [worker] Processed payload sized 1870 bytes.
+[2026-04-16T04:33:12.721312+00:00] [ERROR] [payment] Database timeout reading transaction 3737
+[2026-04-16T04:33:12.739446+00:00] [INFO] [health-check] Service is healthy. Uptime: 3660 minutes.
+[2026-04-16T04:33:12.787866+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174396 logged in successfully.
+[2026-04-16T04:33:12.825607+00:00] [ERROR] [payment] Database timeout reading transaction 6804
+[2026-04-16T04:33:12.842283+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174192 logged in successfully.
+[2026-04-16T04:33:12.882276+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.1987
+[2026-04-16T04:33:12.921996+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174804
+[2026-04-16T04:33:12.944290+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174730
+[2026-04-16T04:33:12.978757+00:00] [INFO] [health-check] Service is healthy. Uptime: 5178 minutes.
+[2026-04-16T04:33:13.028889+00:00] [INFO] [health-check] Service is healthy. Uptime: 5916 minutes.
+[2026-04-16T04:33:13.055205+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174255 logged in successfully.
+[2026-04-16T04:33:13.073563+00:00] [INFO] [health-check] Service is healthy. Uptime: 8108 minutes.
+[2026-04-16T04:33:13.093793+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.9285
+[2026-04-16T04:33:13.134360+00:00] [DEBUG] [worker] Processed payload sized 932 bytes.
+[2026-04-16T04:33:13.175738+00:00] [DEBUG] [worker] Processed payload sized 6124 bytes.
+[2026-04-16T04:33:13.189379+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174203 logged in successfully.
+[2026-04-16T04:33:13.222495+00:00] [ERROR] [processing] OOM killer terminated process 5194
+[2026-04-16T04:33:13.268644+00:00] [ERROR] [processing] OOM killer terminated process 3922
+[2026-04-16T04:33:13.314105+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:13.343318+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174271 logged in successfully.
+[2026-04-16T04:33:13.361580+00:00] [DEBUG] [worker] Processed payload sized 8995 bytes.
+[2026-04-16T04:33:13.401790+00:00] [INFO] [health-check] Service is healthy. Uptime: 4671 minutes.
+[2026-04-16T04:33:13.417174+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174554
+[2026-04-16T04:33:13.467259+00:00] [ERROR] [processing] OOM killer terminated process 3180
+[2026-04-16T04:33:13.506620+00:00] [DEBUG] [worker] Processed payload sized 2712 bytes.
+[2026-04-16T04:33:13.517804+00:00] [DEBUG] [worker] Processed payload sized 1875 bytes.
+[2026-04-16T04:33:13.567985+00:00] [DEBUG] [worker] Processed payload sized 9174 bytes.
+[2026-04-16T04:33:13.581625+00:00] [DEBUG] [worker] Processed payload sized 2679 bytes.
+[2026-04-16T04:33:13.610260+00:00] [INFO] [health-check] Service is healthy. Uptime: 3089 minutes.
+[2026-04-16T04:33:13.627732+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174718 logged in successfully.
+[2026-04-16T04:33:13.677122+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174615 logged in successfully.
+[2026-04-16T04:33:13.712889+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174828 logged in successfully.
+[2026-04-16T04:33:13.734429+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174873
+[2026-04-16T04:33:13.745467+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174517
+[2026-04-16T04:33:13.756037+00:00] [INFO] [health-check] Service is healthy. Uptime: 189 minutes.
+[2026-04-16T04:33:13.778604+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174648
+[2026-04-16T04:33:13.814419+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.2658
+[2026-04-16T04:33:13.825379+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174186 logged in successfully.
+[2026-04-16T04:33:13.860317+00:00] [DEBUG] [worker] Processed payload sized 389 bytes.
+[2026-04-16T04:33:13.886232+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174807
+[2026-04-16T04:33:13.915779+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.4381
+[2026-04-16T04:33:13.954167+00:00] [DEBUG] [worker] Processed payload sized 7069 bytes.
+[2026-04-16T04:33:13.972166+00:00] [DEBUG] [worker] Processed payload sized 4472 bytes.
+[2026-04-16T04:33:14.021059+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174260 logged in successfully.
+[2026-04-16T04:33:14.065191+00:00] [INFO] [health-check] Service is healthy. Uptime: 6479 minutes.
+[2026-04-16T04:33:14.089860+00:00] [INFO] [health-check] Service is healthy. Uptime: 5299 minutes.
+[2026-04-16T04:33:14.109329+00:00] [INFO] [health-check] Service is healthy. Uptime: 7703 minutes.
+[2026-04-16T04:33:14.129424+00:00] [INFO] [health-check] Service is healthy. Uptime: 9766 minutes.
+[2026-04-16T04:33:14.145556+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174166 logged in successfully.
+[2026-04-16T04:33:14.189188+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174524 logged in successfully.
+[2026-04-16T04:33:14.204666+00:00] [ERROR] [payment] Database timeout reading transaction 5556
+[2026-04-16T04:33:14.218742+00:00] [INFO] [health-check] Service is healthy. Uptime: 8047 minutes.
+[2026-04-16T04:33:14.242150+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174380 logged in successfully.
+[2026-04-16T04:33:14.265342+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174663 logged in successfully.
+[2026-04-16T04:33:14.291323+00:00] [INFO] [health-check] Service is healthy. Uptime: 7364 minutes.
+[2026-04-16T04:33:14.338623+00:00] [DEBUG] [worker] Processed payload sized 9228 bytes.
+[2026-04-16T04:33:14.355147+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174119 logged in successfully.
+[2026-04-16T04:33:14.396537+00:00] [DEBUG] [worker] Processed payload sized 1496 bytes.
+[2026-04-16T04:33:14.445853+00:00] [DEBUG] [worker] Processed payload sized 7745 bytes.
+[2026-04-16T04:33:14.492612+00:00] [ERROR] [payment] Database timeout reading transaction 5791
+[2026-04-16T04:33:14.516813+00:00] [DEBUG] [worker] Processed payload sized 3884 bytes.
+[2026-04-16T04:33:14.548111+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.963
+[2026-04-16T04:33:14.573297+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174869
+[2026-04-16T04:33:14.612298+00:00] [DEBUG] [worker] Processed payload sized 4523 bytes.
+[2026-04-16T04:33:14.628044+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174560 logged in successfully.
+[2026-04-16T04:33:14.653652+00:00] [ERROR] [payment] Database timeout reading transaction 6433
+[2026-04-16T04:33:14.695860+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174522 logged in successfully.
+[2026-04-16T04:33:14.716256+00:00] [DEBUG] [worker] Processed payload sized 8052 bytes.
+[2026-04-16T04:33:14.743658+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174732
+[2026-04-16T04:33:14.756742+00:00] [DEBUG] [worker] Processed payload sized 4354 bytes.
+[2026-04-16T04:33:14.789546+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.5586
+[2026-04-16T04:33:14.814107+00:00] [ERROR] [payment] Database timeout reading transaction 4257
+[2026-04-16T04:33:14.851796+00:00] [DEBUG] [worker] Processed payload sized 1084 bytes.
+[2026-04-16T04:33:14.875727+00:00] [DEBUG] [worker] Processed payload sized 1419 bytes.
+[2026-04-16T04:33:14.925126+00:00] [ERROR] [payment] Database timeout reading transaction 7061
+[2026-04-16T04:33:14.968955+00:00] [ERROR] [processing] OOM killer terminated process 8932
+[2026-04-16T04:33:14.990405+00:00] [DEBUG] [worker] Processed payload sized 2698 bytes.
+[2026-04-16T04:33:15.027882+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174338 logged in successfully.
+[2026-04-16T04:33:15.043723+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174296 logged in successfully.
+[2026-04-16T04:33:15.063371+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174682 logged in successfully.
+[2026-04-16T04:33:15.099200+00:00] [INFO] [health-check] Service is healthy. Uptime: 8318 minutes.
+[2026-04-16T04:33:15.119719+00:00] [ERROR] [api] 500 Internal Server error on route /users/7397
+[2026-04-16T04:33:15.162038+00:00] [ERROR] [api] 500 Internal Server error on route /users/312
+[2026-04-16T04:33:15.179148+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174305
+[2026-04-16T04:33:15.225280+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174583 logged in successfully.
+[2026-04-16T04:33:15.245245+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.8487
+[2026-04-16T04:33:15.291651+00:00] [DEBUG] [worker] Processed payload sized 971 bytes.
+[2026-04-16T04:33:15.342008+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174321 logged in successfully.
+[2026-04-16T04:33:15.362123+00:00] [INFO] [health-check] Service is healthy. Uptime: 1046 minutes.
+[2026-04-16T04:33:15.392605+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174474
+[2026-04-16T04:33:15.441248+00:00] [ERROR] [payment] Database timeout reading transaction 3933
+[2026-04-16T04:33:15.469867+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174972 logged in successfully.
+[2026-04-16T04:33:15.495838+00:00] [INFO] [health-check] Service is healthy. Uptime: 2694 minutes.
+[2026-04-16T04:33:15.511669+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174585 logged in successfully.
+[2026-04-16T04:33:15.552605+00:00] [INFO] [health-check] Service is healthy. Uptime: 118 minutes.
+[2026-04-16T04:33:15.575154+00:00] [ERROR] [processing] OOM killer terminated process 5779
+[2026-04-16T04:33:15.608883+00:00] [ERROR] [payment] Database timeout reading transaction 8380
+[2026-04-16T04:33:15.628226+00:00] [INFO] [health-check] Service is healthy. Uptime: 5390 minutes.
+[2026-04-16T04:33:15.667313+00:00] [DEBUG] [worker] Processed payload sized 6235 bytes.
+[2026-04-16T04:33:15.695936+00:00] [ERROR] [processing] OOM killer terminated process 829
+[2026-04-16T04:33:15.737997+00:00] [DEBUG] [worker] Processed payload sized 8235 bytes.
+[2026-04-16T04:33:15.778524+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174432 logged in successfully.
+[2026-04-16T04:33:15.818594+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174325 logged in successfully.
+[2026-04-16T04:33:15.849819+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174350
+[2026-04-16T04:33:15.873299+00:00] [DEBUG] [worker] Processed payload sized 2161 bytes.
+[2026-04-16T04:33:15.889596+00:00] [ERROR] [payment] Database timeout reading transaction 5237
+[2026-04-16T04:33:15.912359+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174169 logged in successfully.
+[2026-04-16T04:33:15.924386+00:00] [INFO] [health-check] Service is healthy. Uptime: 3430 minutes.
+[2026-04-16T04:33:15.957540+00:00] [ERROR] [api] 500 Internal Server error on route /users/6845
+[2026-04-16T04:33:15.991188+00:00] [DEBUG] [worker] Processed payload sized 2619 bytes.
+[2026-04-16T04:33:16.040817+00:00] [INFO] [health-check] Service is healthy. Uptime: 6346 minutes.
+[2026-04-16T04:33:16.077905+00:00] [DEBUG] [worker] Processed payload sized 4030 bytes.
+[2026-04-16T04:33:16.111489+00:00] [INFO] [health-check] Service is healthy. Uptime: 8016 minutes.
+[2026-04-16T04:33:16.143359+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174534 logged in successfully.
+[2026-04-16T04:33:16.166381+00:00] [DEBUG] [worker] Processed payload sized 8294 bytes.
+[2026-04-16T04:33:16.205192+00:00] [INFO] [health-check] Service is healthy. Uptime: 3213 minutes.
+[2026-04-16T04:33:16.244288+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:16.268230+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174231 logged in successfully.
+[2026-04-16T04:33:16.305482+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:16.318510+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174986 logged in successfully.
+[2026-04-16T04:33:16.342667+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174552
+[2026-04-16T04:33:16.360697+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174177 logged in successfully.
+[2026-04-16T04:33:16.401015+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174830 logged in successfully.
+[2026-04-16T04:33:16.419166+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174289 logged in successfully.
+[2026-04-16T04:33:16.435744+00:00] [INFO] [health-check] Service is healthy. Uptime: 3948 minutes.
+[2026-04-16T04:33:16.456818+00:00] [INFO] [health-check] Service is healthy. Uptime: 5591 minutes.
+[2026-04-16T04:33:16.500387+00:00] [DEBUG] [worker] Processed payload sized 3656 bytes.
+[2026-04-16T04:33:16.514723+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174457 logged in successfully.
+[2026-04-16T04:33:16.542847+00:00] [DEBUG] [worker] Processed payload sized 8419 bytes.
+[2026-04-16T04:33:16.559562+00:00] [INFO] [health-check] Service is healthy. Uptime: 2160 minutes.
+[2026-04-16T04:33:16.589553+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174262 logged in successfully.
+[2026-04-16T04:33:16.629768+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174592 logged in successfully.
+[2026-04-16T04:33:16.666301+00:00] [INFO] [health-check] Service is healthy. Uptime: 1514 minutes.
+[2026-04-16T04:33:16.711111+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:16.737827+00:00] [DEBUG] [worker] Processed payload sized 1226 bytes.
+[2026-04-16T04:33:16.760851+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174571
+[2026-04-16T04:33:16.797676+00:00] [INFO] [health-check] Service is healthy. Uptime: 7082 minutes.
+[2026-04-16T04:33:16.822109+00:00] [DEBUG] [worker] Processed payload sized 3180 bytes.
+[2026-04-16T04:33:16.849507+00:00] [DEBUG] [worker] Processed payload sized 7038 bytes.
+[2026-04-16T04:33:16.892156+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174941
+[2026-04-16T04:33:16.919440+00:00] [DEBUG] [worker] Processed payload sized 501 bytes.
+[2026-04-16T04:33:16.947386+00:00] [DEBUG] [worker] Processed payload sized 7158 bytes.
+[2026-04-16T04:33:16.989668+00:00] [INFO] [health-check] Service is healthy. Uptime: 6484 minutes.
+[2026-04-16T04:33:17.032130+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174287
+[2026-04-16T04:33:17.045565+00:00] [DEBUG] [worker] Processed payload sized 1946 bytes.
+[2026-04-16T04:33:17.087148+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174708 logged in successfully.
+[2026-04-16T04:33:17.097503+00:00] [ERROR] [api] 500 Internal Server error on route /users/4032
+[2026-04-16T04:33:17.109650+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174433
+[2026-04-16T04:33:17.150711+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174221 logged in successfully.
+[2026-04-16T04:33:17.196899+00:00] [DEBUG] [worker] Processed payload sized 9635 bytes.
+[2026-04-16T04:33:17.225325+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:17.255581+00:00] [INFO] [health-check] Service is healthy. Uptime: 3293 minutes.
+[2026-04-16T04:33:17.284622+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174357 logged in successfully.
+[2026-04-16T04:33:17.298210+00:00] [ERROR] [processing] OOM killer terminated process 6932
+[2026-04-16T04:33:17.318595+00:00] [DEBUG] [worker] Processed payload sized 9638 bytes.
+[2026-04-16T04:33:17.333243+00:00] [DEBUG] [worker] Processed payload sized 8261 bytes.
+[2026-04-16T04:33:17.360015+00:00] [INFO] [health-check] Service is healthy. Uptime: 625 minutes.
+[2026-04-16T04:33:17.387345+00:00] [ERROR] [processing] OOM killer terminated process 8463
+[2026-04-16T04:33:17.436568+00:00] [INFO] [health-check] Service is healthy. Uptime: 214 minutes.
+[2026-04-16T04:33:17.462850+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174374 logged in successfully.
+[2026-04-16T04:33:17.502928+00:00] [DEBUG] [worker] Processed payload sized 9652 bytes.
+[2026-04-16T04:33:17.549032+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:17.576090+00:00] [DEBUG] [worker] Processed payload sized 5786 bytes.
+[2026-04-16T04:33:17.618274+00:00] [DEBUG] [worker] Processed payload sized 9319 bytes.
+[2026-04-16T04:33:17.661163+00:00] [DEBUG] [worker] Processed payload sized 3695 bytes.
+[2026-04-16T04:33:17.683212+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174789 logged in successfully.
+[2026-04-16T04:33:17.701982+00:00] [DEBUG] [worker] Processed payload sized 9944 bytes.
+[2026-04-16T04:33:17.746641+00:00] [ERROR] [payment] Database timeout reading transaction 345
+[2026-04-16T04:33:17.786031+00:00] [INFO] [health-check] Service is healthy. Uptime: 4784 minutes.
+[2026-04-16T04:33:17.815673+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.9689
+[2026-04-16T04:33:17.853674+00:00] [DEBUG] [worker] Processed payload sized 2845 bytes.
+[2026-04-16T04:33:17.895655+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:17.943765+00:00] [INFO] [health-check] Service is healthy. Uptime: 2558 minutes.
+[2026-04-16T04:33:17.988327+00:00] [DEBUG] [worker] Processed payload sized 5865 bytes.
+[2026-04-16T04:33:18.036627+00:00] [DEBUG] [worker] Processed payload sized 2391 bytes.
+[2026-04-16T04:33:18.061361+00:00] [DEBUG] [worker] Processed payload sized 2173 bytes.
+[2026-04-16T04:33:18.107176+00:00] [DEBUG] [worker] Processed payload sized 5908 bytes.
+[2026-04-16T04:33:18.136026+00:00] [INFO] [health-check] Service is healthy. Uptime: 8376 minutes.
+[2026-04-16T04:33:18.148527+00:00] [INFO] [health-check] Service is healthy. Uptime: 7914 minutes.
+[2026-04-16T04:33:18.174423+00:00] [DEBUG] [worker] Processed payload sized 1005 bytes.
+[2026-04-16T04:33:18.214659+00:00] [DEBUG] [worker] Processed payload sized 9945 bytes.
+[2026-04-16T04:33:18.247610+00:00] [DEBUG] [worker] Processed payload sized 1653 bytes.
+[2026-04-16T04:33:18.275569+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174151 logged in successfully.
+[2026-04-16T04:33:18.298117+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174368 logged in successfully.
+[2026-04-16T04:33:18.323788+00:00] [INFO] [health-check] Service is healthy. Uptime: 3089 minutes.
+[2026-04-16T04:33:18.361683+00:00] [DEBUG] [worker] Processed payload sized 3410 bytes.
+[2026-04-16T04:33:18.408698+00:00] [INFO] [health-check] Service is healthy. Uptime: 7435 minutes.
+[2026-04-16T04:33:18.459203+00:00] [INFO] [health-check] Service is healthy. Uptime: 4222 minutes.
+[2026-04-16T04:33:18.506433+00:00] [DEBUG] [worker] Processed payload sized 5584 bytes.
+[2026-04-16T04:33:18.553780+00:00] [ERROR] [processing] OOM killer terminated process 5499
+[2026-04-16T04:33:18.593241+00:00] [DEBUG] [worker] Processed payload sized 6331 bytes.
+[2026-04-16T04:33:18.640755+00:00] [ERROR] [api] 500 Internal Server error on route /users/1731
+[2026-04-16T04:33:18.683295+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:18.715919+00:00] [DEBUG] [worker] Processed payload sized 5637 bytes.
+[2026-04-16T04:33:18.736529+00:00] [DEBUG] [worker] Processed payload sized 1213 bytes.
+[2026-04-16T04:33:18.763396+00:00] [INFO] [health-check] Service is healthy. Uptime: 3598 minutes.
+[2026-04-16T04:33:18.788200+00:00] [ERROR] [api] 500 Internal Server error on route /users/513
+[2026-04-16T04:33:18.806974+00:00] [DEBUG] [worker] Processed payload sized 2435 bytes.
+[2026-04-16T04:33:18.828351+00:00] [INFO] [health-check] Service is healthy. Uptime: 9138 minutes.
+[2026-04-16T04:33:18.863912+00:00] [DEBUG] [worker] Processed payload sized 2252 bytes.
+[2026-04-16T04:33:18.899110+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:18.913785+00:00] [DEBUG] [worker] Processed payload sized 6515 bytes.
+[2026-04-16T04:33:18.935558+00:00] [INFO] [health-check] Service is healthy. Uptime: 7336 minutes.
+[2026-04-16T04:33:18.955580+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174493 logged in successfully.
+[2026-04-16T04:33:18.967635+00:00] [DEBUG] [worker] Processed payload sized 7794 bytes.
+[2026-04-16T04:33:18.979655+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174555
+[2026-04-16T04:33:18.998263+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174182 logged in successfully.
+[2026-04-16T04:33:19.020596+00:00] [DEBUG] [worker] Processed payload sized 3281 bytes.
+[2026-04-16T04:33:19.057827+00:00] [INFO] [health-check] Service is healthy. Uptime: 6430 minutes.
+[2026-04-16T04:33:19.086101+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:19.107661+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174120 logged in successfully.
+[2026-04-16T04:33:19.140547+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174398 logged in successfully.
+[2026-04-16T04:33:19.174677+00:00] [DEBUG] [worker] Processed payload sized 1190 bytes.
+[2026-04-16T04:33:19.203883+00:00] [INFO] [health-check] Service is healthy. Uptime: 3144 minutes.
+[2026-04-16T04:33:19.226758+00:00] [INFO] [health-check] Service is healthy. Uptime: 1356 minutes.
+[2026-04-16T04:33:19.273033+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174537
+[2026-04-16T04:33:19.314050+00:00] [ERROR] [payment] Database timeout reading transaction 1645
+[2026-04-16T04:33:19.333772+00:00] [INFO] [health-check] Service is healthy. Uptime: 8771 minutes.
+[2026-04-16T04:33:19.351607+00:00] [DEBUG] [worker] Processed payload sized 6470 bytes.
+[2026-04-16T04:33:19.381937+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174871 logged in successfully.
+[2026-04-16T04:33:19.392940+00:00] [DEBUG] [worker] Processed payload sized 4874 bytes.
+[2026-04-16T04:33:19.412739+00:00] [INFO] [health-check] Service is healthy. Uptime: 8198 minutes.
+[2026-04-16T04:33:19.455357+00:00] [INFO] [health-check] Service is healthy. Uptime: 7178 minutes.
+[2026-04-16T04:33:19.470700+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174767 logged in successfully.
+[2026-04-16T04:33:19.505697+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174126 logged in successfully.
+[2026-04-16T04:33:19.518326+00:00] [DEBUG] [worker] Processed payload sized 1565 bytes.
+[2026-04-16T04:33:19.547916+00:00] [ERROR] [payment] Database timeout reading transaction 8198
+[2026-04-16T04:33:19.575224+00:00] [ERROR] [api] 500 Internal Server error on route /users/7698
+[2026-04-16T04:33:19.608276+00:00] [DEBUG] [worker] Processed payload sized 4585 bytes.
+[2026-04-16T04:33:19.658134+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174238 logged in successfully.
+[2026-04-16T04:33:19.685507+00:00] [DEBUG] [worker] Processed payload sized 264 bytes.
+[2026-04-16T04:33:19.729463+00:00] [INFO] [health-check] Service is healthy. Uptime: 807 minutes.
+[2026-04-16T04:33:19.761138+00:00] [INFO] [health-check] Service is healthy. Uptime: 2497 minutes.
+[2026-04-16T04:33:19.779465+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174792 logged in successfully.
+[2026-04-16T04:33:19.821613+00:00] [DEBUG] [worker] Processed payload sized 9866 bytes.
+[2026-04-16T04:33:19.862946+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.3397
+[2026-04-16T04:33:19.905276+00:00] [DEBUG] [worker] Processed payload sized 9632 bytes.
+[2026-04-16T04:33:19.939095+00:00] [DEBUG] [worker] Processed payload sized 3882 bytes.
+[2026-04-16T04:33:19.975842+00:00] [INFO] [health-check] Service is healthy. Uptime: 8607 minutes.
+[2026-04-16T04:33:20.008578+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:20.043164+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174549 logged in successfully.
+[2026-04-16T04:33:20.086086+00:00] [INFO] [health-check] Service is healthy. Uptime: 8409 minutes.
+[2026-04-16T04:33:20.131398+00:00] [INFO] [health-check] Service is healthy. Uptime: 9519 minutes.
+[2026-04-16T04:33:20.158808+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174384 logged in successfully.
+[2026-04-16T04:33:20.191771+00:00] [INFO] [health-check] Service is healthy. Uptime: 1776 minutes.
+[2026-04-16T04:33:20.210387+00:00] [DEBUG] [worker] Processed payload sized 2577 bytes.
+[2026-04-16T04:33:20.242413+00:00] [INFO] [health-check] Service is healthy. Uptime: 9602 minutes.
+[2026-04-16T04:33:20.287534+00:00] [ERROR] [payment] Database timeout reading transaction 2811
+[2026-04-16T04:33:20.330449+00:00] [DEBUG] [worker] Processed payload sized 6076 bytes.
+[2026-04-16T04:33:20.361880+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:20.395968+00:00] [INFO] [health-check] Service is healthy. Uptime: 741 minutes.
+[2026-04-16T04:33:20.440658+00:00] [DEBUG] [worker] Processed payload sized 6758 bytes.
+[2026-04-16T04:33:20.472952+00:00] [DEBUG] [worker] Processed payload sized 5380 bytes.
+[2026-04-16T04:33:20.514446+00:00] [INFO] [health-check] Service is healthy. Uptime: 2486 minutes.
+[2026-04-16T04:33:20.540645+00:00] [INFO] [health-check] Service is healthy. Uptime: 1049 minutes.
+[2026-04-16T04:33:20.577722+00:00] [ERROR] [payment] Database timeout reading transaction 3201
+[2026-04-16T04:33:20.600975+00:00] [ERROR] [payment] Database timeout reading transaction 9774
+[2026-04-16T04:33:20.647649+00:00] [ERROR] [api] 500 Internal Server error on route /users/9609
+[2026-04-16T04:33:20.679284+00:00] [DEBUG] [worker] Processed payload sized 9140 bytes.
+[2026-04-16T04:33:20.695096+00:00] [DEBUG] [worker] Processed payload sized 8501 bytes.
+[2026-04-16T04:33:20.713474+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174287 logged in successfully.
+[2026-04-16T04:33:20.738496+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174849
+[2026-04-16T04:33:20.762108+00:00] [DEBUG] [worker] Processed payload sized 1352 bytes.
+[2026-04-16T04:33:20.809969+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174649 logged in successfully.
+[2026-04-16T04:33:20.840436+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174209 logged in successfully.
+[2026-04-16T04:33:20.880500+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174584 logged in successfully.
+[2026-04-16T04:33:20.916695+00:00] [INFO] [health-check] Service is healthy. Uptime: 8813 minutes.
+[2026-04-16T04:33:20.945031+00:00] [INFO] [health-check] Service is healthy. Uptime: 452 minutes.
+[2026-04-16T04:33:20.980746+00:00] [ERROR] [processing] OOM killer terminated process 5121
+[2026-04-16T04:33:21.025757+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174736 logged in successfully.
+[2026-04-16T04:33:21.039219+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.2203
+[2026-04-16T04:33:21.066900+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:21.099103+00:00] [DEBUG] [worker] Processed payload sized 1595 bytes.
+[2026-04-16T04:33:21.140834+00:00] [INFO] [health-check] Service is healthy. Uptime: 189 minutes.
+[2026-04-16T04:33:21.190898+00:00] [ERROR] [processing] OOM killer terminated process 9655
+[2026-04-16T04:33:21.233860+00:00] [ERROR] [api] 500 Internal Server error on route /users/4003
+[2026-04-16T04:33:21.248302+00:00] [DEBUG] [worker] Processed payload sized 2884 bytes.
+[2026-04-16T04:33:21.273277+00:00] [INFO] [health-check] Service is healthy. Uptime: 8140 minutes.
+[2026-04-16T04:33:21.316537+00:00] [ERROR] [processing] OOM killer terminated process 8629
+[2026-04-16T04:33:21.334628+00:00] [ERROR] [api] 500 Internal Server error on route /users/508
+[2026-04-16T04:33:21.358911+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174646 logged in successfully.
+[2026-04-16T04:33:21.390825+00:00] [DEBUG] [worker] Processed payload sized 1139 bytes.
+[2026-04-16T04:33:21.408405+00:00] [INFO] [health-check] Service is healthy. Uptime: 6052 minutes.
+[2026-04-16T04:33:21.455128+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174199 logged in successfully.
+[2026-04-16T04:33:21.477200+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.2440
+[2026-04-16T04:33:21.498387+00:00] [INFO] [health-check] Service is healthy. Uptime: 6563 minutes.
+[2026-04-16T04:33:21.531144+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174856 logged in successfully.
+[2026-04-16T04:33:21.548945+00:00] [INFO] [health-check] Service is healthy. Uptime: 1714 minutes.
+[2026-04-16T04:33:21.578403+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174819
+[2026-04-16T04:33:21.616544+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174428 logged in successfully.
+[2026-04-16T04:33:21.628938+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174338
+[2026-04-16T04:33:21.678799+00:00] [INFO] [health-check] Service is healthy. Uptime: 4898 minutes.
+[2026-04-16T04:33:21.718419+00:00] [INFO] [health-check] Service is healthy. Uptime: 5367 minutes.
+[2026-04-16T04:33:21.732374+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174359 logged in successfully.
+[2026-04-16T04:33:21.764971+00:00] [ERROR] [payment] Database timeout reading transaction 8358
+[2026-04-16T04:33:21.779101+00:00] [INFO] [health-check] Service is healthy. Uptime: 6510 minutes.
+[2026-04-16T04:33:21.816542+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174241 logged in successfully.
+[2026-04-16T04:33:21.832536+00:00] [DEBUG] [worker] Processed payload sized 1173 bytes.
+[2026-04-16T04:33:21.867650+00:00] [INFO] [health-check] Service is healthy. Uptime: 2995 minutes.
+[2026-04-16T04:33:21.885375+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174222 logged in successfully.
+[2026-04-16T04:33:21.897819+00:00] [DEBUG] [worker] Processed payload sized 1713 bytes.
+[2026-04-16T04:33:21.914952+00:00] [DEBUG] [worker] Processed payload sized 6631 bytes.
+[2026-04-16T04:33:21.957632+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174359 logged in successfully.
+[2026-04-16T04:33:22.005718+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174370 logged in successfully.
+[2026-04-16T04:33:22.036623+00:00] [DEBUG] [worker] Processed payload sized 9591 bytes.
+[2026-04-16T04:33:22.071010+00:00] [INFO] [health-check] Service is healthy. Uptime: 2842 minutes.
+[2026-04-16T04:33:22.106308+00:00] [ERROR] [processing] OOM killer terminated process 2604
+[2026-04-16T04:33:22.143741+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174945 logged in successfully.
+[2026-04-16T04:33:22.187110+00:00] [DEBUG] [worker] Processed payload sized 6919 bytes.
+[2026-04-16T04:33:22.211864+00:00] [INFO] [health-check] Service is healthy. Uptime: 4973 minutes.
+[2026-04-16T04:33:22.246961+00:00] [DEBUG] [worker] Processed payload sized 7381 bytes.
+[2026-04-16T04:33:22.293267+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174324 logged in successfully.
+[2026-04-16T04:33:22.342714+00:00] [DEBUG] [worker] Processed payload sized 6358 bytes.
+[2026-04-16T04:33:22.390002+00:00] [DEBUG] [worker] Processed payload sized 1635 bytes.
+[2026-04-16T04:33:22.414889+00:00] [DEBUG] [worker] Processed payload sized 4859 bytes.
+[2026-04-16T04:33:22.458899+00:00] [DEBUG] [worker] Processed payload sized 4926 bytes.
+[2026-04-16T04:33:22.476579+00:00] [INFO] [health-check] Service is healthy. Uptime: 6492 minutes.
+[2026-04-16T04:33:22.494962+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174877 logged in successfully.
+[2026-04-16T04:33:22.505784+00:00] [INFO] [health-check] Service is healthy. Uptime: 4118 minutes.
+[2026-04-16T04:33:22.525298+00:00] [ERROR] [payment] Database timeout reading transaction 2663
+[2026-04-16T04:33:22.558062+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174942 logged in successfully.
+[2026-04-16T04:33:22.582311+00:00] [DEBUG] [worker] Processed payload sized 6539 bytes.
+[2026-04-16T04:33:22.596764+00:00] [DEBUG] [worker] Processed payload sized 2143 bytes.
+[2026-04-16T04:33:22.630083+00:00] [DEBUG] [worker] Processed payload sized 2317 bytes.
+[2026-04-16T04:33:22.645699+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174480 logged in successfully.
+[2026-04-16T04:33:22.688435+00:00] [DEBUG] [worker] Processed payload sized 2905 bytes.
+[2026-04-16T04:33:22.704464+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174369 logged in successfully.
+[2026-04-16T04:33:22.739641+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174754 logged in successfully.
+[2026-04-16T04:33:22.749992+00:00] [ERROR] [processing] OOM killer terminated process 9064
+[2026-04-16T04:33:22.760541+00:00] [DEBUG] [worker] Processed payload sized 7725 bytes.
+[2026-04-16T04:33:22.781828+00:00] [DEBUG] [worker] Processed payload sized 4786 bytes.
+[2026-04-16T04:33:22.797509+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.408
+[2026-04-16T04:33:22.834668+00:00] [INFO] [health-check] Service is healthy. Uptime: 4960 minutes.
+[2026-04-16T04:33:22.856021+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.6212
+[2026-04-16T04:33:22.881790+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.4453
+[2026-04-16T04:33:22.916319+00:00] [DEBUG] [worker] Processed payload sized 3094 bytes.
+[2026-04-16T04:33:22.931786+00:00] [ERROR] [processing] OOM killer terminated process 1125
+[2026-04-16T04:33:22.966656+00:00] [DEBUG] [worker] Processed payload sized 3431 bytes.
+[2026-04-16T04:33:22.989301+00:00] [DEBUG] [worker] Processed payload sized 3612 bytes.
+[2026-04-16T04:33:23.004410+00:00] [DEBUG] [worker] Processed payload sized 5834 bytes.
+[2026-04-16T04:33:23.047816+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174814 logged in successfully.
+[2026-04-16T04:33:23.075514+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174685
+[2026-04-16T04:33:23.111711+00:00] [INFO] [health-check] Service is healthy. Uptime: 2230 minutes.
+[2026-04-16T04:33:23.130005+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174496 logged in successfully.
+[2026-04-16T04:33:23.155680+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174962 logged in successfully.
+[2026-04-16T04:33:23.192323+00:00] [ERROR] [processing] OOM killer terminated process 295
+[2026-04-16T04:33:23.212825+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174581 logged in successfully.
+[2026-04-16T04:33:23.255757+00:00] [INFO] [health-check] Service is healthy. Uptime: 9631 minutes.
+[2026-04-16T04:33:23.272532+00:00] [DEBUG] [worker] Processed payload sized 5177 bytes.
+[2026-04-16T04:33:23.308262+00:00] [INFO] [health-check] Service is healthy. Uptime: 7719 minutes.
+[2026-04-16T04:33:23.329043+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174461 logged in successfully.
+[2026-04-16T04:33:23.346414+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174448 logged in successfully.
+[2026-04-16T04:33:23.387700+00:00] [ERROR] [api] 500 Internal Server error on route /users/6848
+[2026-04-16T04:33:23.426334+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.6506
+[2026-04-16T04:33:23.456644+00:00] [INFO] [health-check] Service is healthy. Uptime: 4445 minutes.
+[2026-04-16T04:33:23.469234+00:00] [INFO] [health-check] Service is healthy. Uptime: 3661 minutes.
+[2026-04-16T04:33:23.488091+00:00] [INFO] [health-check] Service is healthy. Uptime: 3948 minutes.
+[2026-04-16T04:33:23.499720+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174375
+[2026-04-16T04:33:23.544687+00:00] [ERROR] [api] 500 Internal Server error on route /users/4457
+[2026-04-16T04:33:23.576467+00:00] [INFO] [health-check] Service is healthy. Uptime: 1497 minutes.
+[2026-04-16T04:33:23.627185+00:00] [DEBUG] [worker] Processed payload sized 2945 bytes.
+[2026-04-16T04:33:23.646147+00:00] [DEBUG] [worker] Processed payload sized 3189 bytes.
+[2026-04-16T04:33:23.682068+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174126 logged in successfully.
+[2026-04-16T04:33:23.705460+00:00] [DEBUG] [worker] Processed payload sized 7265 bytes.
+[2026-04-16T04:33:23.733375+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174402
+[2026-04-16T04:33:23.769205+00:00] [INFO] [health-check] Service is healthy. Uptime: 8381 minutes.
+[2026-04-16T04:33:23.783870+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174886 logged in successfully.
+[2026-04-16T04:33:23.825357+00:00] [INFO] [health-check] Service is healthy. Uptime: 92 minutes.
+[2026-04-16T04:33:23.860767+00:00] [DEBUG] [worker] Processed payload sized 855 bytes.
+[2026-04-16T04:33:23.879598+00:00] [ERROR] [payment] Database timeout reading transaction 1677
+[2026-04-16T04:33:23.914809+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:23.928981+00:00] [ERROR] [api] 500 Internal Server error on route /users/566
+[2026-04-16T04:33:23.977461+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174313 logged in successfully.
+[2026-04-16T04:33:23.988886+00:00] [ERROR] [payment] Database timeout reading transaction 757
+[2026-04-16T04:33:24.016372+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174819
+[2026-04-16T04:33:24.064714+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174721 logged in successfully.
+[2026-04-16T04:33:24.109739+00:00] [DEBUG] [worker] Processed payload sized 6745 bytes.
+[2026-04-16T04:33:24.150209+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174387 logged in successfully.
+[2026-04-16T04:33:24.199219+00:00] [INFO] [health-check] Service is healthy. Uptime: 3303 minutes.
+[2026-04-16T04:33:24.247614+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.6766
+[2026-04-16T04:33:24.287353+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:24.328657+00:00] [ERROR] [payment] Database timeout reading transaction 9873
+[2026-04-16T04:33:24.379368+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174345 logged in successfully.
+[2026-04-16T04:33:24.429907+00:00] [DEBUG] [worker] Processed payload sized 800 bytes.
+[2026-04-16T04:33:24.465382+00:00] [INFO] [health-check] Service is healthy. Uptime: 2656 minutes.
+[2026-04-16T04:33:24.486703+00:00] [DEBUG] [worker] Processed payload sized 7604 bytes.
+[2026-04-16T04:33:24.508838+00:00] [INFO] [health-check] Service is healthy. Uptime: 7642 minutes.
+[2026-04-16T04:33:24.544114+00:00] [ERROR] [processing] OOM killer terminated process 7334
+[2026-04-16T04:33:24.576427+00:00] [INFO] [health-check] Service is healthy. Uptime: 1513 minutes.
+[2026-04-16T04:33:24.587097+00:00] [INFO] [health-check] Service is healthy. Uptime: 8823 minutes.
+[2026-04-16T04:33:24.610978+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174525 logged in successfully.
+[2026-04-16T04:33:24.627936+00:00] [INFO] [health-check] Service is healthy. Uptime: 3715 minutes.
+[2026-04-16T04:33:24.659596+00:00] [DEBUG] [worker] Processed payload sized 6721 bytes.
+[2026-04-16T04:33:24.688324+00:00] [DEBUG] [worker] Processed payload sized 5726 bytes.
+[2026-04-16T04:33:24.707285+00:00] [INFO] [health-check] Service is healthy. Uptime: 6893 minutes.
+[2026-04-16T04:33:24.731597+00:00] [ERROR] [processing] OOM killer terminated process 7091
+[2026-04-16T04:33:24.771652+00:00] [DEBUG] [worker] Processed payload sized 6538 bytes.
+[2026-04-16T04:33:24.795257+00:00] [INFO] [health-check] Service is healthy. Uptime: 4835 minutes.
+[2026-04-16T04:33:24.810007+00:00] [DEBUG] [worker] Processed payload sized 2855 bytes.
+[2026-04-16T04:33:24.850425+00:00] [DEBUG] [worker] Processed payload sized 1970 bytes.
+[2026-04-16T04:33:24.896896+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174998 logged in successfully.
+[2026-04-16T04:33:24.917089+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:24.953367+00:00] [DEBUG] [worker] Processed payload sized 6244 bytes.
+[2026-04-16T04:33:24.972731+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174843 logged in successfully.
+[2026-04-16T04:33:24.995627+00:00] [INFO] [health-check] Service is healthy. Uptime: 6005 minutes.
+[2026-04-16T04:33:25.019955+00:00] [INFO] [health-check] Service is healthy. Uptime: 3015 minutes.
+[2026-04-16T04:33:25.064431+00:00] [ERROR] [payment] Database timeout reading transaction 188
+[2026-04-16T04:33:25.088782+00:00] [DEBUG] [worker] Processed payload sized 3345 bytes.
+[2026-04-16T04:33:25.134467+00:00] [ERROR] [payment] Database timeout reading transaction 1261
+[2026-04-16T04:33:25.150210+00:00] [INFO] [health-check] Service is healthy. Uptime: 8264 minutes.
+[2026-04-16T04:33:25.178014+00:00] [INFO] [health-check] Service is healthy. Uptime: 7856 minutes.
+[2026-04-16T04:33:25.222704+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174199 logged in successfully.
+[2026-04-16T04:33:25.243033+00:00] [DEBUG] [worker] Processed payload sized 8448 bytes.
+[2026-04-16T04:33:25.260729+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174474
+[2026-04-16T04:33:25.279736+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174789 logged in successfully.
+[2026-04-16T04:33:25.290358+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:25.316626+00:00] [ERROR] [payment] Database timeout reading transaction 4794
+[2026-04-16T04:33:25.339810+00:00] [DEBUG] [worker] Processed payload sized 6923 bytes.
+[2026-04-16T04:33:25.369481+00:00] [DEBUG] [worker] Processed payload sized 2031 bytes.
+[2026-04-16T04:33:25.401526+00:00] [INFO] [health-check] Service is healthy. Uptime: 2191 minutes.
+[2026-04-16T04:33:25.449342+00:00] [DEBUG] [worker] Processed payload sized 2460 bytes.
+[2026-04-16T04:33:25.488100+00:00] [INFO] [health-check] Service is healthy. Uptime: 6380 minutes.
+[2026-04-16T04:33:25.514985+00:00] [ERROR] [payment] Database timeout reading transaction 2254
+[2026-04-16T04:33:25.540064+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.6318
+[2026-04-16T04:33:25.552390+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174880 logged in successfully.
+[2026-04-16T04:33:25.581488+00:00] [INFO] [health-check] Service is healthy. Uptime: 9896 minutes.
+[2026-04-16T04:33:25.616908+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174337
+[2026-04-16T04:33:25.668350+00:00] [ERROR] [processing] OOM killer terminated process 1023
+[2026-04-16T04:33:25.692833+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174469 logged in successfully.
+[2026-04-16T04:33:25.733969+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174358 logged in successfully.
+[2026-04-16T04:33:25.754562+00:00] [DEBUG] [worker] Processed payload sized 584 bytes.
+[2026-04-16T04:33:25.794329+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174507 logged in successfully.
+[2026-04-16T04:33:25.829475+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174649
+[2026-04-16T04:33:25.872739+00:00] [INFO] [health-check] Service is healthy. Uptime: 8234 minutes.
+[2026-04-16T04:33:25.898123+00:00] [DEBUG] [worker] Processed payload sized 4515 bytes.
+[2026-04-16T04:33:25.940106+00:00] [INFO] [health-check] Service is healthy. Uptime: 4244 minutes.
+[2026-04-16T04:33:25.965333+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174348
+[2026-04-16T04:33:26.016396+00:00] [INFO] [health-check] Service is healthy. Uptime: 1735 minutes.
+[2026-04-16T04:33:26.041880+00:00] [DEBUG] [worker] Processed payload sized 4081 bytes.
+[2026-04-16T04:33:26.089151+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:26.138661+00:00] [INFO] [health-check] Service is healthy. Uptime: 515 minutes.
+[2026-04-16T04:33:26.168387+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174139 logged in successfully.
+[2026-04-16T04:33:26.186746+00:00] [DEBUG] [worker] Processed payload sized 3225 bytes.
+[2026-04-16T04:33:26.218717+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174768 logged in successfully.
+[2026-04-16T04:33:26.265707+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174263 logged in successfully.
+[2026-04-16T04:33:26.308656+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.2192
+[2026-04-16T04:33:26.346130+00:00] [INFO] [health-check] Service is healthy. Uptime: 1370 minutes.
+[2026-04-16T04:33:26.374451+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174255 logged in successfully.
+[2026-04-16T04:33:26.389967+00:00] [ERROR] [processing] OOM killer terminated process 1457
+[2026-04-16T04:33:26.433234+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174479 logged in successfully.
+[2026-04-16T04:33:26.464402+00:00] [DEBUG] [worker] Processed payload sized 1133 bytes.
+[2026-04-16T04:33:26.491465+00:00] [INFO] [health-check] Service is healthy. Uptime: 2410 minutes.
+[2026-04-16T04:33:26.525265+00:00] [INFO] [health-check] Service is healthy. Uptime: 226 minutes.
+[2026-04-16T04:33:26.542588+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174332
+[2026-04-16T04:33:26.589681+00:00] [INFO] [health-check] Service is healthy. Uptime: 5639 minutes.
+[2026-04-16T04:33:26.628508+00:00] [DEBUG] [worker] Processed payload sized 198 bytes.
+[2026-04-16T04:33:26.639234+00:00] [INFO] [health-check] Service is healthy. Uptime: 3459 minutes.
+[2026-04-16T04:33:26.655317+00:00] [INFO] [health-check] Service is healthy. Uptime: 9440 minutes.
+[2026-04-16T04:33:26.674695+00:00] [DEBUG] [worker] Processed payload sized 9983 bytes.
+[2026-04-16T04:33:26.695436+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174383 logged in successfully.
+[2026-04-16T04:33:26.716271+00:00] [INFO] [health-check] Service is healthy. Uptime: 7491 minutes.
+[2026-04-16T04:33:26.763276+00:00] [ERROR] [api] 500 Internal Server error on route /users/274
+[2026-04-16T04:33:26.783108+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174430 logged in successfully.
+[2026-04-16T04:33:26.825632+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174677
+[2026-04-16T04:33:26.860697+00:00] [INFO] [health-check] Service is healthy. Uptime: 6856 minutes.
+[2026-04-16T04:33:26.896887+00:00] [DEBUG] [worker] Processed payload sized 4216 bytes.
+[2026-04-16T04:33:26.940341+00:00] [INFO] [health-check] Service is healthy. Uptime: 7630 minutes.
+[2026-04-16T04:33:26.977928+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.5629
+[2026-04-16T04:33:27.005440+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.8992
+[2026-04-16T04:33:27.034975+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174798
+[2026-04-16T04:33:27.049888+00:00] [DEBUG] [worker] Processed payload sized 2662 bytes.
+[2026-04-16T04:33:27.085855+00:00] [INFO] [health-check] Service is healthy. Uptime: 9457 minutes.
+[2026-04-16T04:33:27.135235+00:00] [INFO] [health-check] Service is healthy. Uptime: 2322 minutes.
+[2026-04-16T04:33:27.170884+00:00] [INFO] [health-check] Service is healthy. Uptime: 4674 minutes.
+[2026-04-16T04:33:27.184300+00:00] [INFO] [health-check] Service is healthy. Uptime: 3549 minutes.
+[2026-04-16T04:33:27.202906+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174274 logged in successfully.
+[2026-04-16T04:33:27.217472+00:00] [DEBUG] [worker] Processed payload sized 9118 bytes.
+[2026-04-16T04:33:27.255233+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174158 logged in successfully.
+[2026-04-16T04:33:27.300896+00:00] [INFO] [health-check] Service is healthy. Uptime: 2801 minutes.
+[2026-04-16T04:33:27.319711+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174959 logged in successfully.
+[2026-04-16T04:33:27.341887+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174440 logged in successfully.
+[2026-04-16T04:33:27.360241+00:00] [INFO] [health-check] Service is healthy. Uptime: 1835 minutes.
+[2026-04-16T04:33:27.405512+00:00] [DEBUG] [worker] Processed payload sized 3843 bytes.
+[2026-04-16T04:33:27.423382+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174258 logged in successfully.
+[2026-04-16T04:33:27.456690+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174551 logged in successfully.
+[2026-04-16T04:33:27.467553+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.2686
+[2026-04-16T04:33:27.478265+00:00] [DEBUG] [worker] Processed payload sized 4072 bytes.
+[2026-04-16T04:33:27.493861+00:00] [INFO] [health-check] Service is healthy. Uptime: 7492 minutes.
+[2026-04-16T04:33:27.511330+00:00] [DEBUG] [worker] Processed payload sized 1539 bytes.
+[2026-04-16T04:33:27.560566+00:00] [DEBUG] [worker] Processed payload sized 2422 bytes.
+[2026-04-16T04:33:27.608102+00:00] [INFO] [health-check] Service is healthy. Uptime: 2968 minutes.
+[2026-04-16T04:33:27.637121+00:00] [INFO] [health-check] Service is healthy. Uptime: 3192 minutes.
+[2026-04-16T04:33:27.681342+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174286 logged in successfully.
+[2026-04-16T04:33:27.698963+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174125 logged in successfully.
+[2026-04-16T04:33:27.721522+00:00] [DEBUG] [worker] Processed payload sized 9414 bytes.
+[2026-04-16T04:33:27.766299+00:00] [DEBUG] [worker] Processed payload sized 9114 bytes.
+[2026-04-16T04:33:27.809933+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174261 logged in successfully.
+[2026-04-16T04:33:27.844779+00:00] [INFO] [health-check] Service is healthy. Uptime: 4648 minutes.
+[2026-04-16T04:33:27.857492+00:00] [DEBUG] [worker] Processed payload sized 2955 bytes.
+[2026-04-16T04:33:27.875615+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:27.906669+00:00] [ERROR] [payment] Database timeout reading transaction 4569
+[2026-04-16T04:33:27.930609+00:00] [ERROR] [payment] Database timeout reading transaction 2181
+[2026-04-16T04:33:27.944194+00:00] [ERROR] [processing] OOM killer terminated process 5570
+[2026-04-16T04:33:27.966555+00:00] [DEBUG] [worker] Processed payload sized 1664 bytes.
+[2026-04-16T04:33:28.011446+00:00] [DEBUG] [worker] Processed payload sized 4328 bytes.
+[2026-04-16T04:33:28.055445+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.4933
+[2026-04-16T04:33:28.091527+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174349 logged in successfully.
+[2026-04-16T04:33:28.118369+00:00] [ERROR] [api] 500 Internal Server error on route /users/9837
+[2026-04-16T04:33:28.142237+00:00] [INFO] [health-check] Service is healthy. Uptime: 114 minutes.
+[2026-04-16T04:33:28.167345+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174134
+[2026-04-16T04:33:28.197831+00:00] [INFO] [health-check] Service is healthy. Uptime: 6133 minutes.
+[2026-04-16T04:33:28.219822+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.312
+[2026-04-16T04:33:28.255043+00:00] [ERROR] [processing] OOM killer terminated process 8025
+[2026-04-16T04:33:28.299775+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174198
+[2026-04-16T04:33:28.322415+00:00] [INFO] [health-check] Service is healthy. Uptime: 3906 minutes.
+[2026-04-16T04:33:28.369105+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174668 logged in successfully.
+[2026-04-16T04:33:28.385380+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174394 logged in successfully.
+[2026-04-16T04:33:28.433714+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174310 logged in successfully.
+[2026-04-16T04:33:28.471022+00:00] [INFO] [health-check] Service is healthy. Uptime: 6756 minutes.
+[2026-04-16T04:33:28.508598+00:00] [DEBUG] [worker] Processed payload sized 6174 bytes.
+[2026-04-16T04:33:28.542690+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174483
+[2026-04-16T04:33:28.583255+00:00] [ERROR] [api] 500 Internal Server error on route /users/8638
+[2026-04-16T04:33:28.609779+00:00] [ERROR] [processing] OOM killer terminated process 5702
+[2026-04-16T04:33:28.636628+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174786
+[2026-04-16T04:33:28.666629+00:00] [ERROR] [api] 500 Internal Server error on route /users/9834
+[2026-04-16T04:33:28.695561+00:00] [INFO] [health-check] Service is healthy. Uptime: 4996 minutes.
+[2026-04-16T04:33:28.718042+00:00] [INFO] [health-check] Service is healthy. Uptime: 5467 minutes.
+[2026-04-16T04:33:28.743649+00:00] [INFO] [health-check] Service is healthy. Uptime: 7964 minutes.
+[2026-04-16T04:33:28.793100+00:00] [ERROR] [processing] OOM killer terminated process 1103
+[2026-04-16T04:33:28.831989+00:00] [INFO] [health-check] Service is healthy. Uptime: 1726 minutes.
+[2026-04-16T04:33:28.855975+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174206 logged in successfully.
+[2026-04-16T04:33:28.868692+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174391
+[2026-04-16T04:33:28.879810+00:00] [ERROR] [payment] Database timeout reading transaction 7098
+[2026-04-16T04:33:28.892061+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174285 logged in successfully.
+[2026-04-16T04:33:28.903801+00:00] [ERROR] [processing] OOM killer terminated process 2747
+[2026-04-16T04:33:28.936757+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.6098
+[2026-04-16T04:33:28.983432+00:00] [INFO] [health-check] Service is healthy. Uptime: 1607 minutes.
+[2026-04-16T04:33:29.014822+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174216 logged in successfully.
+[2026-04-16T04:33:29.061270+00:00] [INFO] [health-check] Service is healthy. Uptime: 8304 minutes.
+[2026-04-16T04:33:29.085616+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174994 logged in successfully.
+[2026-04-16T04:33:29.124583+00:00] [ERROR] [api] 500 Internal Server error on route /users/3688
+[2026-04-16T04:33:29.173714+00:00] [ERROR] [api] 500 Internal Server error on route /users/9029
+[2026-04-16T04:33:29.218030+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174472
+[2026-04-16T04:33:29.262136+00:00] [DEBUG] [worker] Processed payload sized 402 bytes.
+[2026-04-16T04:33:29.282139+00:00] [ERROR] [processing] OOM killer terminated process 8613
+[2026-04-16T04:33:29.294907+00:00] [DEBUG] [worker] Processed payload sized 3592 bytes.
+[2026-04-16T04:33:29.330596+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:29.343547+00:00] [INFO] [health-check] Service is healthy. Uptime: 6467 minutes.
+[2026-04-16T04:33:29.359192+00:00] [INFO] [health-check] Service is healthy. Uptime: 9143 minutes.
+[2026-04-16T04:33:29.385362+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174143
+[2026-04-16T04:33:29.431916+00:00] [DEBUG] [worker] Processed payload sized 2188 bytes.
+[2026-04-16T04:33:29.458421+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174397 logged in successfully.
+[2026-04-16T04:33:29.482219+00:00] [INFO] [health-check] Service is healthy. Uptime: 9179 minutes.
+[2026-04-16T04:33:29.526351+00:00] [ERROR] [payment] Database timeout reading transaction 1931
+[2026-04-16T04:33:29.556651+00:00] [INFO] [health-check] Service is healthy. Uptime: 6671 minutes.
+[2026-04-16T04:33:29.589548+00:00] [DEBUG] [worker] Processed payload sized 201 bytes.
+[2026-04-16T04:33:29.601204+00:00] [DEBUG] [worker] Processed payload sized 8380 bytes.
+[2026-04-16T04:33:29.616099+00:00] [INFO] [health-check] Service is healthy. Uptime: 4772 minutes.
+[2026-04-16T04:33:29.663107+00:00] [DEBUG] [worker] Processed payload sized 5929 bytes.
+[2026-04-16T04:33:29.706142+00:00] [DEBUG] [worker] Processed payload sized 577 bytes.
+[2026-04-16T04:33:29.730701+00:00] [ERROR] [processing] OOM killer terminated process 2701
+[2026-04-16T04:33:29.749741+00:00] [INFO] [health-check] Service is healthy. Uptime: 8589 minutes.
+[2026-04-16T04:33:29.766024+00:00] [INFO] [health-check] Service is healthy. Uptime: 6876 minutes.
+[2026-04-16T04:33:29.806017+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174484 logged in successfully.
+[2026-04-16T04:33:29.849622+00:00] [DEBUG] [worker] Processed payload sized 5441 bytes.
+[2026-04-16T04:33:29.899004+00:00] [INFO] [health-check] Service is healthy. Uptime: 2169 minutes.
+[2026-04-16T04:33:29.944633+00:00] [INFO] [health-check] Service is healthy. Uptime: 952 minutes.
+[2026-04-16T04:33:29.986861+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174333
+[2026-04-16T04:33:30.018002+00:00] [INFO] [health-check] Service is healthy. Uptime: 7710 minutes.
+[2026-04-16T04:33:30.054605+00:00] [INFO] [health-check] Service is healthy. Uptime: 1629 minutes.
+[2026-04-16T04:33:30.089192+00:00] [INFO] [health-check] Service is healthy. Uptime: 6959 minutes.
+[2026-04-16T04:33:30.128732+00:00] [DEBUG] [worker] Processed payload sized 3281 bytes.
+[2026-04-16T04:33:30.176441+00:00] [DEBUG] [worker] Processed payload sized 3774 bytes.
+[2026-04-16T04:33:30.212449+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174483 logged in successfully.
+[2026-04-16T04:33:30.234449+00:00] [INFO] [health-check] Service is healthy. Uptime: 6464 minutes.
+[2026-04-16T04:33:30.263021+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174295 logged in successfully.
+[2026-04-16T04:33:30.277763+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.6625
+[2026-04-16T04:33:30.317409+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.3728
+[2026-04-16T04:33:30.328480+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174586 logged in successfully.
+[2026-04-16T04:33:30.339682+00:00] [ERROR] [processing] OOM killer terminated process 4094
+[2026-04-16T04:33:30.376172+00:00] [DEBUG] [worker] Processed payload sized 5157 bytes.
+[2026-04-16T04:33:30.405518+00:00] [DEBUG] [worker] Processed payload sized 5024 bytes.
+[2026-04-16T04:33:30.427796+00:00] [DEBUG] [worker] Processed payload sized 2997 bytes.
+[2026-04-16T04:33:30.457645+00:00] [INFO] [health-check] Service is healthy. Uptime: 5999 minutes.
+[2026-04-16T04:33:30.477361+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174745 logged in successfully.
+[2026-04-16T04:33:30.489803+00:00] [ERROR] [api] 500 Internal Server error on route /users/340
+[2026-04-16T04:33:30.526565+00:00] [DEBUG] [worker] Processed payload sized 2455 bytes.
+[2026-04-16T04:33:30.563122+00:00] [INFO] [health-check] Service is healthy. Uptime: 6424 minutes.
+[2026-04-16T04:33:30.588776+00:00] [ERROR] [api] 500 Internal Server error on route /users/4146
+[2026-04-16T04:33:30.610404+00:00] [INFO] [health-check] Service is healthy. Uptime: 1124 minutes.
+[2026-04-16T04:33:30.650727+00:00] [INFO] [health-check] Service is healthy. Uptime: 9376 minutes.
+[2026-04-16T04:33:30.685749+00:00] [ERROR] [api] 500 Internal Server error on route /users/8863
+[2026-04-16T04:33:30.726624+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174761 logged in successfully.
+[2026-04-16T04:33:30.751731+00:00] [INFO] [health-check] Service is healthy. Uptime: 123 minutes.
+[2026-04-16T04:33:30.793537+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174754
+[2026-04-16T04:33:30.817427+00:00] [DEBUG] [worker] Processed payload sized 5056 bytes.
+[2026-04-16T04:33:30.866093+00:00] [DEBUG] [worker] Processed payload sized 8563 bytes.
+[2026-04-16T04:33:30.900720+00:00] [ERROR] [api] 500 Internal Server error on route /users/3783
+[2026-04-16T04:33:30.923621+00:00] [DEBUG] [worker] Processed payload sized 3573 bytes.
+[2026-04-16T04:33:30.939822+00:00] [INFO] [health-check] Service is healthy. Uptime: 8376 minutes.
+[2026-04-16T04:33:30.976297+00:00] [ERROR] [processing] OOM killer terminated process 2842
+[2026-04-16T04:33:30.995706+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174128 logged in successfully.
+[2026-04-16T04:33:31.031633+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174167 logged in successfully.
+[2026-04-16T04:33:31.045616+00:00] [DEBUG] [worker] Processed payload sized 4295 bytes.
+[2026-04-16T04:33:31.059785+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174369 logged in successfully.
+[2026-04-16T04:33:31.071054+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174195 logged in successfully.
+[2026-04-16T04:33:31.095545+00:00] [INFO] [health-check] Service is healthy. Uptime: 7950 minutes.
+[2026-04-16T04:33:31.117147+00:00] [ERROR] [api] 500 Internal Server error on route /users/1142
+[2026-04-16T04:33:31.130993+00:00] [ERROR] [api] 500 Internal Server error on route /users/3293
+[2026-04-16T04:33:31.158928+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:31.172178+00:00] [INFO] [health-check] Service is healthy. Uptime: 3014 minutes.
+[2026-04-16T04:33:31.221540+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174548 logged in successfully.
+[2026-04-16T04:33:31.246118+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:31.276639+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174777 logged in successfully.
+[2026-04-16T04:33:31.319389+00:00] [INFO] [health-check] Service is healthy. Uptime: 4555 minutes.
+[2026-04-16T04:33:31.366511+00:00] [INFO] [health-check] Service is healthy. Uptime: 1517 minutes.
+[2026-04-16T04:33:31.412838+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174725 logged in successfully.
+[2026-04-16T04:33:31.447391+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174787
+[2026-04-16T04:33:31.469061+00:00] [INFO] [health-check] Service is healthy. Uptime: 1281 minutes.
+[2026-04-16T04:33:31.507827+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:31.532553+00:00] [DEBUG] [worker] Processed payload sized 4526 bytes.
+[2026-04-16T04:33:31.580951+00:00] [DEBUG] [worker] Processed payload sized 1632 bytes.
+[2026-04-16T04:33:31.624931+00:00] [ERROR] [processing] OOM killer terminated process 9771
+[2026-04-16T04:33:31.650964+00:00] [DEBUG] [worker] Processed payload sized 7518 bytes.
+[2026-04-16T04:33:31.675037+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174394 logged in successfully.
+[2026-04-16T04:33:31.712351+00:00] [ERROR] [payment] Database timeout reading transaction 3006
+[2026-04-16T04:33:31.739501+00:00] [DEBUG] [worker] Processed payload sized 8913 bytes.
+[2026-04-16T04:33:31.761624+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174774 logged in successfully.
+[2026-04-16T04:33:31.786740+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174995
+[2026-04-16T04:33:31.827960+00:00] [ERROR] [api] 500 Internal Server error on route /users/1443
+[2026-04-16T04:33:31.848258+00:00] [DEBUG] [worker] Processed payload sized 7895 bytes.
+[2026-04-16T04:33:31.896746+00:00] [ERROR] [processing] OOM killer terminated process 8674
+[2026-04-16T04:33:31.941585+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174823 logged in successfully.
+[2026-04-16T04:33:31.964625+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174150 logged in successfully.
+[2026-04-16T04:33:32.000949+00:00] [INFO] [health-check] Service is healthy. Uptime: 591 minutes.
+[2026-04-16T04:33:32.027879+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174635 logged in successfully.
+[2026-04-16T04:33:32.067751+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.8554
+[2026-04-16T04:33:32.090718+00:00] [DEBUG] [worker] Processed payload sized 5296 bytes.
+[2026-04-16T04:33:32.115396+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174621 logged in successfully.
+[2026-04-16T04:33:32.139481+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174607 logged in successfully.
+[2026-04-16T04:33:32.158146+00:00] [INFO] [health-check] Service is healthy. Uptime: 72 minutes.
+[2026-04-16T04:33:32.205144+00:00] [INFO] [health-check] Service is healthy. Uptime: 6677 minutes.
+[2026-04-16T04:33:32.225563+00:00] [INFO] [health-check] Service is healthy. Uptime: 2736 minutes.
+[2026-04-16T04:33:32.261802+00:00] [INFO] [health-check] Service is healthy. Uptime: 753 minutes.
+[2026-04-16T04:33:32.284705+00:00] [ERROR] [processing] OOM killer terminated process 1626
+[2026-04-16T04:33:32.297414+00:00] [DEBUG] [worker] Processed payload sized 2878 bytes.
+[2026-04-16T04:33:32.313852+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.7476
+[2026-04-16T04:33:32.339364+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174246
+[2026-04-16T04:33:32.375081+00:00] [DEBUG] [worker] Processed payload sized 1439 bytes.
+[2026-04-16T04:33:32.399671+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174379 logged in successfully.
+[2026-04-16T04:33:32.413680+00:00] [DEBUG] [worker] Processed payload sized 2974 bytes.
+[2026-04-16T04:33:32.459444+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174157 logged in successfully.
+[2026-04-16T04:33:32.489433+00:00] [INFO] [health-check] Service is healthy. Uptime: 824 minutes.
+[2026-04-16T04:33:32.502517+00:00] [DEBUG] [worker] Processed payload sized 4461 bytes.
+[2026-04-16T04:33:32.518488+00:00] [DEBUG] [worker] Processed payload sized 2341 bytes.
+[2026-04-16T04:33:32.564989+00:00] [INFO] [health-check] Service is healthy. Uptime: 7263 minutes.
+[2026-04-16T04:33:32.586952+00:00] [ERROR] [api] 500 Internal Server error on route /users/4739
+[2026-04-16T04:33:32.630400+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174771 logged in successfully.
+[2026-04-16T04:33:32.676807+00:00] [DEBUG] [worker] Processed payload sized 6352 bytes.
+[2026-04-16T04:33:32.719853+00:00] [INFO] [health-check] Service is healthy. Uptime: 5743 minutes.
+[2026-04-16T04:33:32.760531+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.1125
+[2026-04-16T04:33:32.778414+00:00] [ERROR] [processing] OOM killer terminated process 7980
+[2026-04-16T04:33:32.794508+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174806 logged in successfully.
+[2026-04-16T04:33:32.808578+00:00] [DEBUG] [worker] Processed payload sized 3872 bytes.
+[2026-04-16T04:33:32.853097+00:00] [DEBUG] [worker] Processed payload sized 2874 bytes.
+[2026-04-16T04:33:32.890862+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174450
+[2026-04-16T04:33:32.933354+00:00] [ERROR] [payment] Database timeout reading transaction 1453
+[2026-04-16T04:33:32.960759+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174355 logged in successfully.
+[2026-04-16T04:33:32.985606+00:00] [INFO] [health-check] Service is healthy. Uptime: 4184 minutes.
+[2026-04-16T04:33:33.024528+00:00] [DEBUG] [worker] Processed payload sized 2296 bytes.
+[2026-04-16T04:33:33.036331+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174375 logged in successfully.
+[2026-04-16T04:33:33.065076+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.3544
+[2026-04-16T04:33:33.082464+00:00] [DEBUG] [worker] Processed payload sized 1928 bytes.
+[2026-04-16T04:33:33.101570+00:00] [DEBUG] [worker] Processed payload sized 2444 bytes.
+[2026-04-16T04:33:33.132915+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174530 logged in successfully.
+[2026-04-16T04:33:33.169735+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.2635
+[2026-04-16T04:33:33.220156+00:00] [DEBUG] [worker] Processed payload sized 4986 bytes.
+[2026-04-16T04:33:33.269684+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174742
+[2026-04-16T04:33:33.282475+00:00] [INFO] [health-check] Service is healthy. Uptime: 8992 minutes.
+[2026-04-16T04:33:33.324300+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:33.348998+00:00] [DEBUG] [worker] Processed payload sized 8846 bytes.
+[2026-04-16T04:33:33.393136+00:00] [ERROR] [processing] OOM killer terminated process 8527
+[2026-04-16T04:33:33.437488+00:00] [INFO] [health-check] Service is healthy. Uptime: 6123 minutes.
+[2026-04-16T04:33:33.479489+00:00] [DEBUG] [worker] Processed payload sized 9893 bytes.
+[2026-04-16T04:33:33.505743+00:00] [INFO] [health-check] Service is healthy. Uptime: 329 minutes.
+[2026-04-16T04:33:33.525940+00:00] [INFO] [health-check] Service is healthy. Uptime: 4990 minutes.
+[2026-04-16T04:33:33.565200+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174103 logged in successfully.
+[2026-04-16T04:33:33.576949+00:00] [INFO] [health-check] Service is healthy. Uptime: 9773 minutes.
+[2026-04-16T04:33:33.605005+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174705 logged in successfully.
+[2026-04-16T04:33:33.640284+00:00] [ERROR] [payment] Database timeout reading transaction 5238
+[2026-04-16T04:33:33.668265+00:00] [INFO] [health-check] Service is healthy. Uptime: 8968 minutes.
+[2026-04-16T04:33:33.716299+00:00] [DEBUG] [worker] Processed payload sized 229 bytes.
+[2026-04-16T04:33:33.749719+00:00] [ERROR] [payment] Database timeout reading transaction 8915
+[2026-04-16T04:33:33.778610+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174553 logged in successfully.
+[2026-04-16T04:33:33.824116+00:00] [DEBUG] [worker] Processed payload sized 5466 bytes.
+[2026-04-16T04:33:33.869782+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.356
+[2026-04-16T04:33:33.902068+00:00] [DEBUG] [worker] Processed payload sized 1309 bytes.
+[2026-04-16T04:33:33.924542+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:33.966061+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174965 logged in successfully.
+[2026-04-16T04:33:33.985571+00:00] [INFO] [health-check] Service is healthy. Uptime: 6982 minutes.
+[2026-04-16T04:33:34.014659+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174514
+[2026-04-16T04:33:34.039945+00:00] [DEBUG] [worker] Processed payload sized 9648 bytes.
+[2026-04-16T04:33:34.088331+00:00] [DEBUG] [worker] Processed payload sized 4355 bytes.
+[2026-04-16T04:33:34.128767+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174226 logged in successfully.
+[2026-04-16T04:33:34.171529+00:00] [INFO] [health-check] Service is healthy. Uptime: 2179 minutes.
+[2026-04-16T04:33:34.217860+00:00] [ERROR] [processing] OOM killer terminated process 6398
+[2026-04-16T04:33:34.231114+00:00] [DEBUG] [worker] Processed payload sized 3090 bytes.
+[2026-04-16T04:33:34.257249+00:00] [DEBUG] [worker] Processed payload sized 5552 bytes.
+[2026-04-16T04:33:34.281752+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174857 logged in successfully.
+[2026-04-16T04:33:34.318348+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174922 logged in successfully.
+[2026-04-16T04:33:34.330476+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174972 logged in successfully.
+[2026-04-16T04:33:34.353081+00:00] [INFO] [health-check] Service is healthy. Uptime: 7779 minutes.
+[2026-04-16T04:33:34.402452+00:00] [DEBUG] [worker] Processed payload sized 5434 bytes.
+[2026-04-16T04:33:34.421524+00:00] [INFO] [health-check] Service is healthy. Uptime: 7079 minutes.
+[2026-04-16T04:33:34.463108+00:00] [DEBUG] [worker] Processed payload sized 1764 bytes.
+[2026-04-16T04:33:34.504432+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174455 logged in successfully.
+[2026-04-16T04:33:34.550417+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174722 logged in successfully.
+[2026-04-16T04:33:34.588325+00:00] [DEBUG] [worker] Processed payload sized 9073 bytes.
+[2026-04-16T04:33:34.610506+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174612 logged in successfully.
+[2026-04-16T04:33:34.654619+00:00] [DEBUG] [worker] Processed payload sized 4969 bytes.
+[2026-04-16T04:33:34.681059+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:34.695604+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174185 logged in successfully.
+[2026-04-16T04:33:34.734522+00:00] [INFO] [health-check] Service is healthy. Uptime: 3212 minutes.
+[2026-04-16T04:33:34.780121+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174966 logged in successfully.
+[2026-04-16T04:33:34.807886+00:00] [INFO] [health-check] Service is healthy. Uptime: 6700 minutes.
+[2026-04-16T04:33:34.853076+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174714 logged in successfully.
+[2026-04-16T04:33:34.894177+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:34.906009+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174328 logged in successfully.
+[2026-04-16T04:33:34.929426+00:00] [INFO] [health-check] Service is healthy. Uptime: 3570 minutes.
+[2026-04-16T04:33:34.976768+00:00] [INFO] [health-check] Service is healthy. Uptime: 548 minutes.
+[2026-04-16T04:33:35.020010+00:00] [INFO] [health-check] Service is healthy. Uptime: 1665 minutes.
+[2026-04-16T04:33:35.050519+00:00] [ERROR] [api] 500 Internal Server error on route /users/5309
+[2026-04-16T04:33:35.092884+00:00] [DEBUG] [worker] Processed payload sized 5919 bytes.
+[2026-04-16T04:33:35.109866+00:00] [INFO] [health-check] Service is healthy. Uptime: 8242 minutes.
+[2026-04-16T04:33:35.157932+00:00] [DEBUG] [worker] Processed payload sized 7474 bytes.
+[2026-04-16T04:33:35.181052+00:00] [INFO] [health-check] Service is healthy. Uptime: 790 minutes.
+[2026-04-16T04:33:35.221418+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174868 logged in successfully.
+[2026-04-16T04:33:35.244821+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174649 logged in successfully.
+[2026-04-16T04:33:35.262320+00:00] [INFO] [health-check] Service is healthy. Uptime: 9890 minutes.
+[2026-04-16T04:33:35.309238+00:00] [DEBUG] [worker] Processed payload sized 7109 bytes.
+[2026-04-16T04:33:35.360948+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174829 logged in successfully.
+[2026-04-16T04:33:35.378561+00:00] [DEBUG] [worker] Processed payload sized 8779 bytes.
+[2026-04-16T04:33:35.407180+00:00] [ERROR] [api] 500 Internal Server error on route /users/3835
+[2026-04-16T04:33:35.440012+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174101 logged in successfully.
+[2026-04-16T04:33:35.451144+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174351 logged in successfully.
+[2026-04-16T04:33:35.486593+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174887 logged in successfully.
+[2026-04-16T04:33:35.534295+00:00] [DEBUG] [worker] Processed payload sized 6205 bytes.
+[2026-04-16T04:33:35.546601+00:00] [INFO] [health-check] Service is healthy. Uptime: 8450 minutes.
+[2026-04-16T04:33:35.591028+00:00] [DEBUG] [worker] Processed payload sized 7485 bytes.
+[2026-04-16T04:33:35.612202+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174626 logged in successfully.
+[2026-04-16T04:33:35.661328+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174790 logged in successfully.
+[2026-04-16T04:33:35.686306+00:00] [ERROR] [api] 500 Internal Server error on route /users/765
+[2026-04-16T04:33:35.703776+00:00] [DEBUG] [worker] Processed payload sized 8335 bytes.
+[2026-04-16T04:33:35.734729+00:00] [INFO] [health-check] Service is healthy. Uptime: 8428 minutes.
+[2026-04-16T04:33:35.749457+00:00] [INFO] [health-check] Service is healthy. Uptime: 3579 minutes.
+[2026-04-16T04:33:35.761828+00:00] [INFO] [health-check] Service is healthy. Uptime: 9232 minutes.
+[2026-04-16T04:33:35.807971+00:00] [INFO] [health-check] Service is healthy. Uptime: 104 minutes.
+[2026-04-16T04:33:35.821835+00:00] [INFO] [health-check] Service is healthy. Uptime: 1764 minutes.
+[2026-04-16T04:33:35.834216+00:00] [DEBUG] [worker] Processed payload sized 5058 bytes.
+[2026-04-16T04:33:35.848646+00:00] [INFO] [health-check] Service is healthy. Uptime: 4997 minutes.
+[2026-04-16T04:33:35.867229+00:00] [INFO] [health-check] Service is healthy. Uptime: 9182 minutes.
+[2026-04-16T04:33:35.894582+00:00] [DEBUG] [worker] Processed payload sized 187 bytes.
+[2026-04-16T04:33:35.932525+00:00] [INFO] [health-check] Service is healthy. Uptime: 8859 minutes.
+[2026-04-16T04:33:35.968340+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174132
+[2026-04-16T04:33:35.999026+00:00] [ERROR] [api] 500 Internal Server error on route /users/7613
+[2026-04-16T04:33:36.012014+00:00] [INFO] [health-check] Service is healthy. Uptime: 710 minutes.
+[2026-04-16T04:33:36.036037+00:00] [INFO] [health-check] Service is healthy. Uptime: 3767 minutes.
+[2026-04-16T04:33:36.080640+00:00] [INFO] [health-check] Service is healthy. Uptime: 5879 minutes.
+[2026-04-16T04:33:36.094690+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174173 logged in successfully.
+[2026-04-16T04:33:36.112978+00:00] [INFO] [health-check] Service is healthy. Uptime: 8778 minutes.
+[2026-04-16T04:33:36.159851+00:00] [INFO] [health-check] Service is healthy. Uptime: 6132 minutes.
+[2026-04-16T04:33:36.198149+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174596 logged in successfully.
+[2026-04-16T04:33:36.230510+00:00] [INFO] [health-check] Service is healthy. Uptime: 7887 minutes.
+[2026-04-16T04:33:36.275680+00:00] [INFO] [health-check] Service is healthy. Uptime: 8953 minutes.
+[2026-04-16T04:33:36.288392+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174571
+[2026-04-16T04:33:36.335389+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174237
+[2026-04-16T04:33:36.375850+00:00] [INFO] [health-check] Service is healthy. Uptime: 873 minutes.
+[2026-04-16T04:33:36.414063+00:00] [INFO] [health-check] Service is healthy. Uptime: 1910 minutes.
+[2026-04-16T04:33:36.431718+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174801 logged in successfully.
+[2026-04-16T04:33:36.460315+00:00] [INFO] [health-check] Service is healthy. Uptime: 5640 minutes.
+[2026-04-16T04:33:36.506956+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174896
+[2026-04-16T04:33:36.532130+00:00] [INFO] [health-check] Service is healthy. Uptime: 4512 minutes.
+[2026-04-16T04:33:36.561314+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174775
+[2026-04-16T04:33:36.605878+00:00] [ERROR] [payment] Database timeout reading transaction 4448
+[2026-04-16T04:33:36.624840+00:00] [INFO] [health-check] Service is healthy. Uptime: 7033 minutes.
+[2026-04-16T04:33:36.653800+00:00] [ERROR] [api] 500 Internal Server error on route /users/9347
+[2026-04-16T04:33:36.675096+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174849 logged in successfully.
+[2026-04-16T04:33:36.709866+00:00] [INFO] [health-check] Service is healthy. Uptime: 7830 minutes.
+[2026-04-16T04:33:36.737674+00:00] [ERROR] [processing] OOM killer terminated process 5371
+[2026-04-16T04:33:36.770719+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174602 logged in successfully.
+[2026-04-16T04:33:36.801794+00:00] [INFO] [health-check] Service is healthy. Uptime: 4633 minutes.
+[2026-04-16T04:33:36.821713+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174968
+[2026-04-16T04:33:36.849970+00:00] [INFO] [health-check] Service is healthy. Uptime: 4339 minutes.
+[2026-04-16T04:33:36.893956+00:00] [DEBUG] [worker] Processed payload sized 5234 bytes.
+[2026-04-16T04:33:36.924283+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174843
+[2026-04-16T04:33:36.965428+00:00] [DEBUG] [worker] Processed payload sized 612 bytes.
+[2026-04-16T04:33:36.995537+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174627 logged in successfully.
+[2026-04-16T04:33:37.052664+00:00] [ERROR] [processing] OOM killer terminated process 9442
+[2026-04-16T04:33:37.100493+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174754
+[2026-04-16T04:33:37.125672+00:00] [DEBUG] [worker] Processed payload sized 4102 bytes.
+[2026-04-16T04:33:37.177773+00:00] [ERROR] [api] 500 Internal Server error on route /users/2174
+[2026-04-16T04:33:37.209387+00:00] [DEBUG] [worker] Processed payload sized 607 bytes.
+[2026-04-16T04:33:37.233584+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174965
+[2026-04-16T04:33:37.264446+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174967 logged in successfully.
+[2026-04-16T04:33:37.300127+00:00] [DEBUG] [worker] Processed payload sized 8740 bytes.
+[2026-04-16T04:33:37.346112+00:00] [DEBUG] [worker] Processed payload sized 7382 bytes.
+[2026-04-16T04:33:37.395327+00:00] [INFO] [health-check] Service is healthy. Uptime: 1053 minutes.
+[2026-04-16T04:33:37.419063+00:00] [INFO] [health-check] Service is healthy. Uptime: 2280 minutes.
+[2026-04-16T04:33:37.434049+00:00] [INFO] [health-check] Service is healthy. Uptime: 207 minutes.
+[2026-04-16T04:33:37.467726+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.801
+[2026-04-16T04:33:37.489809+00:00] [ERROR] [api] 500 Internal Server error on route /users/7329
+[2026-04-16T04:33:37.510488+00:00] [INFO] [health-check] Service is healthy. Uptime: 5371 minutes.
+[2026-04-16T04:33:37.520927+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:37.532344+00:00] [DEBUG] [worker] Processed payload sized 292 bytes.
+[2026-04-16T04:33:37.568120+00:00] [ERROR] [processing] OOM killer terminated process 8269
+[2026-04-16T04:33:37.587009+00:00] [DEBUG] [worker] Processed payload sized 2964 bytes.
+[2026-04-16T04:33:37.633912+00:00] [ERROR] [api] 500 Internal Server error on route /users/8373
+[2026-04-16T04:33:37.670444+00:00] [DEBUG] [worker] Processed payload sized 7202 bytes.
+[2026-04-16T04:33:37.683750+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174210 logged in successfully.
+[2026-04-16T04:33:37.724339+00:00] [INFO] [health-check] Service is healthy. Uptime: 9143 minutes.
+[2026-04-16T04:33:37.750209+00:00] [DEBUG] [worker] Processed payload sized 2976 bytes.
+[2026-04-16T04:33:37.779470+00:00] [DEBUG] [worker] Processed payload sized 4024 bytes.
+[2026-04-16T04:33:37.803675+00:00] [INFO] [health-check] Service is healthy. Uptime: 1344 minutes.
+[2026-04-16T04:33:37.832579+00:00] [INFO] [health-check] Service is healthy. Uptime: 1864 minutes.
+[2026-04-16T04:33:37.863678+00:00] [DEBUG] [worker] Processed payload sized 8671 bytes.
+[2026-04-16T04:33:37.884553+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174372 logged in successfully.
+[2026-04-16T04:33:37.925764+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174615 logged in successfully.
+[2026-04-16T04:33:37.970637+00:00] [DEBUG] [worker] Processed payload sized 2339 bytes.
+[2026-04-16T04:33:38.009496+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174436 logged in successfully.
+[2026-04-16T04:33:38.050444+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174341 logged in successfully.
+[2026-04-16T04:33:38.084995+00:00] [DEBUG] [worker] Processed payload sized 2555 bytes.
+[2026-04-16T04:33:38.114249+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:38.141612+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174299
+[2026-04-16T04:33:38.163325+00:00] [INFO] [health-check] Service is healthy. Uptime: 127 minutes.
+[2026-04-16T04:33:38.182360+00:00] [INFO] [health-check] Service is healthy. Uptime: 5872 minutes.
+[2026-04-16T04:33:38.196486+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174504 logged in successfully.
+[2026-04-16T04:33:38.233355+00:00] [INFO] [health-check] Service is healthy. Uptime: 35 minutes.
+[2026-04-16T04:33:38.251698+00:00] [INFO] [health-check] Service is healthy. Uptime: 3660 minutes.
+[2026-04-16T04:33:38.270506+00:00] [DEBUG] [worker] Processed payload sized 317 bytes.
+[2026-04-16T04:33:38.298674+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174283 logged in successfully.
+[2026-04-16T04:33:38.314095+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174415 logged in successfully.
+[2026-04-16T04:33:38.358419+00:00] [INFO] [health-check] Service is healthy. Uptime: 7306 minutes.
+[2026-04-16T04:33:38.377568+00:00] [DEBUG] [worker] Processed payload sized 8963 bytes.
+[2026-04-16T04:33:38.422697+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174283 logged in successfully.
+[2026-04-16T04:33:38.450465+00:00] [INFO] [health-check] Service is healthy. Uptime: 4298 minutes.
+[2026-04-16T04:33:38.470561+00:00] [INFO] [health-check] Service is healthy. Uptime: 340 minutes.
+[2026-04-16T04:33:38.491390+00:00] [DEBUG] [worker] Processed payload sized 2027 bytes.
+[2026-04-16T04:33:38.512810+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174881 logged in successfully.
+[2026-04-16T04:33:38.524282+00:00] [ERROR] [payment] Database timeout reading transaction 4386
+[2026-04-16T04:33:38.559471+00:00] [INFO] [health-check] Service is healthy. Uptime: 5368 minutes.
+[2026-04-16T04:33:38.581396+00:00] [INFO] [health-check] Service is healthy. Uptime: 2012 minutes.
+[2026-04-16T04:33:38.604014+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174547 logged in successfully.
+[2026-04-16T04:33:38.619033+00:00] [INFO] [health-check] Service is healthy. Uptime: 7808 minutes.
+[2026-04-16T04:33:38.659322+00:00] [ERROR] [api] 500 Internal Server error on route /users/8923
+[2026-04-16T04:33:38.707017+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174957
+[2026-04-16T04:33:38.746619+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174929 logged in successfully.
+[2026-04-16T04:33:38.785423+00:00] [DEBUG] [worker] Processed payload sized 5073 bytes.
+[2026-04-16T04:33:38.813716+00:00] [ERROR] [payment] Database timeout reading transaction 5043
+[2026-04-16T04:33:38.831377+00:00] [INFO] [health-check] Service is healthy. Uptime: 68 minutes.
+[2026-04-16T04:33:38.865034+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174950
+[2026-04-16T04:33:38.896936+00:00] [ERROR] [api] 500 Internal Server error on route /users/3500
+[2026-04-16T04:33:38.909341+00:00] [INFO] [health-check] Service is healthy. Uptime: 9807 minutes.
+[2026-04-16T04:33:38.939429+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174952 logged in successfully.
+[2026-04-16T04:33:38.974407+00:00] [ERROR] [payment] Database timeout reading transaction 16
+[2026-04-16T04:33:39.012467+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174758 logged in successfully.
+[2026-04-16T04:33:39.039536+00:00] [INFO] [health-check] Service is healthy. Uptime: 1348 minutes.
+[2026-04-16T04:33:39.084704+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174112 logged in successfully.
+[2026-04-16T04:33:39.106730+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174779 logged in successfully.
+[2026-04-16T04:33:39.138399+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174673 logged in successfully.
+[2026-04-16T04:33:39.179328+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174931 logged in successfully.
+[2026-04-16T04:33:39.191977+00:00] [DEBUG] [worker] Processed payload sized 7906 bytes.
+[2026-04-16T04:33:39.238196+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174606 logged in successfully.
+[2026-04-16T04:33:39.259501+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:39.297056+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174774 logged in successfully.
+[2026-04-16T04:33:39.320083+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174240 logged in successfully.
+[2026-04-16T04:33:39.355965+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174189
+[2026-04-16T04:33:39.385082+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174836 logged in successfully.
+[2026-04-16T04:33:39.412942+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174858
+[2026-04-16T04:33:39.447488+00:00] [ERROR] [api] 500 Internal Server error on route /users/5720
+[2026-04-16T04:33:39.485528+00:00] [DEBUG] [worker] Processed payload sized 4612 bytes.
+[2026-04-16T04:33:39.530821+00:00] [DEBUG] [worker] Processed payload sized 7148 bytes.
+[2026-04-16T04:33:39.572483+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174194 logged in successfully.
+[2026-04-16T04:33:39.599442+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174866 logged in successfully.
+[2026-04-16T04:33:39.626396+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174124 logged in successfully.
+[2026-04-16T04:33:39.640396+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174855
+[2026-04-16T04:33:39.677357+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174197 logged in successfully.
+[2026-04-16T04:33:39.700950+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174779 logged in successfully.
+[2026-04-16T04:33:39.738050+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174212
+[2026-04-16T04:33:39.765890+00:00] [DEBUG] [worker] Processed payload sized 9693 bytes.
+[2026-04-16T04:33:39.814374+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.764
+[2026-04-16T04:33:39.825474+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174621
+[2026-04-16T04:33:39.851645+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174599 logged in successfully.
+[2026-04-16T04:33:39.884749+00:00] [INFO] [health-check] Service is healthy. Uptime: 7317 minutes.
+[2026-04-16T04:33:39.906717+00:00] [ERROR] [api] 500 Internal Server error on route /users/5574
+[2026-04-16T04:33:39.939553+00:00] [INFO] [health-check] Service is healthy. Uptime: 9392 minutes.
+[2026-04-16T04:33:39.986092+00:00] [DEBUG] [worker] Processed payload sized 6512 bytes.
+[2026-04-16T04:33:40.015233+00:00] [DEBUG] [worker] Processed payload sized 9375 bytes.
+[2026-04-16T04:33:40.051306+00:00] [DEBUG] [worker] Processed payload sized 3036 bytes.
+[2026-04-16T04:33:40.084060+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174108
+[2026-04-16T04:33:40.115153+00:00] [INFO] [health-check] Service is healthy. Uptime: 2973 minutes.
+[2026-04-16T04:33:40.142198+00:00] [ERROR] [api] 500 Internal Server error on route /users/8163
+[2026-04-16T04:33:40.189077+00:00] [ERROR] [payment] Database timeout reading transaction 6620
+[2026-04-16T04:33:40.231025+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174321 logged in successfully.
+[2026-04-16T04:33:40.265686+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174368 logged in successfully.
+[2026-04-16T04:33:40.288805+00:00] [INFO] [health-check] Service is healthy. Uptime: 2425 minutes.
+[2026-04-16T04:33:40.339419+00:00] [ERROR] [api] 500 Internal Server error on route /users/9633
+[2026-04-16T04:33:40.361440+00:00] [INFO] [health-check] Service is healthy. Uptime: 9806 minutes.
+[2026-04-16T04:33:40.406987+00:00] [DEBUG] [worker] Processed payload sized 4975 bytes.
+[2026-04-16T04:33:40.418951+00:00] [DEBUG] [worker] Processed payload sized 3950 bytes.
+[2026-04-16T04:33:40.445845+00:00] [ERROR] [payment] Database timeout reading transaction 9980
+[2026-04-16T04:33:40.467133+00:00] [DEBUG] [worker] Processed payload sized 5417 bytes.
+[2026-04-16T04:33:40.484085+00:00] [DEBUG] [worker] Processed payload sized 8294 bytes.
+[2026-04-16T04:33:40.516799+00:00] [INFO] [health-check] Service is healthy. Uptime: 7990 minutes.
+[2026-04-16T04:33:40.531444+00:00] [INFO] [health-check] Service is healthy. Uptime: 7307 minutes.
+[2026-04-16T04:33:40.574889+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174860 logged in successfully.
+[2026-04-16T04:33:40.604506+00:00] [INFO] [health-check] Service is healthy. Uptime: 6659 minutes.
+[2026-04-16T04:33:40.645328+00:00] [DEBUG] [worker] Processed payload sized 2806 bytes.
+[2026-04-16T04:33:40.659430+00:00] [INFO] [health-check] Service is healthy. Uptime: 527 minutes.
+[2026-04-16T04:33:40.697477+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174555 logged in successfully.
+[2026-04-16T04:33:40.740140+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174448 logged in successfully.
+[2026-04-16T04:33:40.769446+00:00] [INFO] [health-check] Service is healthy. Uptime: 757 minutes.
+[2026-04-16T04:33:40.816824+00:00] [DEBUG] [worker] Processed payload sized 5508 bytes.
+[2026-04-16T04:33:40.851493+00:00] [INFO] [health-check] Service is healthy. Uptime: 1562 minutes.
+[2026-04-16T04:33:40.861867+00:00] [DEBUG] [worker] Processed payload sized 213 bytes.
+[2026-04-16T04:33:40.909156+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174787
+[2026-04-16T04:33:40.935105+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174748
+[2026-04-16T04:33:40.957590+00:00] [WARNING] [data_layer] query timeout for session 123e4567-e89b-12d3-a456-426614174397
+[2026-04-16T04:33:40.990403+00:00] [INFO] [health-check] Service is healthy. Uptime: 7136 minutes.
+[2026-04-16T04:33:41.006419+00:00] [DEBUG] [worker] Processed payload sized 2529 bytes.
+[2026-04-16T04:33:41.017387+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174187 logged in successfully.
+[2026-04-16T04:33:41.062973+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174840 logged in successfully.
+[2026-04-16T04:33:41.105479+00:00] [ERROR] [payment] Database timeout reading transaction 1480
+[2026-04-16T04:33:41.124416+00:00] [DEBUG] [worker] Processed payload sized 5925 bytes.
+[2026-04-16T04:33:41.155883+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174134 logged in successfully.
+[2026-04-16T04:33:41.169076+00:00] [ERROR] [payment] Database timeout reading transaction 3158
+[2026-04-16T04:33:41.213418+00:00] [ERROR] [payment] Database timeout reading transaction 6396
+[2026-04-16T04:33:41.241129+00:00] [INFO] [health-check] Service is healthy. Uptime: 559 minutes.
+[2026-04-16T04:33:41.259057+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.6757
+[2026-04-16T04:33:41.308413+00:00] [INFO] [health-check] Service is healthy. Uptime: 6241 minutes.
+[2026-04-16T04:33:41.346058+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.4185
+[2026-04-16T04:33:41.367217+00:00] [DEBUG] [worker] Processed payload sized 1554 bytes.
+[2026-04-16T04:33:41.383597+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:41.424117+00:00] [DEBUG] [worker] Processed payload sized 3158 bytes.
+[2026-04-16T04:33:41.450226+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174327 logged in successfully.
+[2026-04-16T04:33:41.491158+00:00] [DEBUG] [worker] Processed payload sized 1775 bytes.
+[2026-04-16T04:33:41.514261+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174378 logged in successfully.
+[2026-04-16T04:33:41.532388+00:00] [ERROR] [payment] Database timeout reading transaction 5852
+[2026-04-16T04:33:41.550727+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174981 logged in successfully.
+[2026-04-16T04:33:41.580414+00:00] [DEBUG] [worker] Processed payload sized 8298 bytes.
+[2026-04-16T04:33:41.616581+00:00] [ERROR] [api] 500 Internal Server error on route /users/7910
+[2026-04-16T04:33:41.644533+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:41.695425+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174777 logged in successfully.
+[2026-04-16T04:33:41.740028+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174933 logged in successfully.
+[2026-04-16T04:33:41.767600+00:00] [DEBUG] [worker] Processed payload sized 9938 bytes.
+[2026-04-16T04:33:41.807162+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174729 logged in successfully.
+[2026-04-16T04:33:41.855254+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174333 logged in successfully.
+[2026-04-16T04:33:41.866610+00:00] [DEBUG] [worker] Processed payload sized 2872 bytes.
+[2026-04-16T04:33:41.914170+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174428 logged in successfully.
+[2026-04-16T04:33:41.946171+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.4208
+[2026-04-16T04:33:41.959462+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.5839
+[2026-04-16T04:33:42.006791+00:00] [INFO] [health-check] Service is healthy. Uptime: 9495 minutes.
+[2026-04-16T04:33:42.048973+00:00] [INFO] [health-check] Service is healthy. Uptime: 9144 minutes.
+[2026-04-16T04:33:42.062813+00:00] [ERROR] [processing] OOM killer terminated process 4177
+[2026-04-16T04:33:42.074014+00:00] [ERROR] [processing] OOM killer terminated process 1942
+[2026-04-16T04:33:42.092721+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174416 logged in successfully.
+[2026-04-16T04:33:42.117598+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.1008
+[2026-04-16T04:33:42.163315+00:00] [DEBUG] [worker] Processed payload sized 8035 bytes.
+[2026-04-16T04:33:42.193107+00:00] [INFO] [health-check] Service is healthy. Uptime: 3966 minutes.
+[2026-04-16T04:33:42.207758+00:00] [INFO] [health-check] Service is healthy. Uptime: 5269 minutes.
+[2026-04-16T04:33:42.256570+00:00] [INFO] [health-check] Service is healthy. Uptime: 660 minutes.
+[2026-04-16T04:33:42.290187+00:00] [DEBUG] [worker] Processed payload sized 1253 bytes.
+[2026-04-16T04:33:42.338184+00:00] [DEBUG] [worker] Processed payload sized 2047 bytes.
+[2026-04-16T04:33:42.356140+00:00] [INFO] [health-check] Service is healthy. Uptime: 8425 minutes.
+[2026-04-16T04:33:42.368706+00:00] [DEBUG] [worker] Processed payload sized 1793 bytes.
+[2026-04-16T04:33:42.414134+00:00] [DEBUG] [worker] Processed payload sized 4780 bytes.
+[2026-04-16T04:33:42.437795+00:00] [ERROR] [worker] Out of memory - limit exceeded
+[2026-04-16T04:33:42.471313+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174786 logged in successfully.
+[2026-04-16T04:33:42.511640+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174321 logged in successfully.
+[2026-04-16T04:33:42.552740+00:00] [INFO] [health-check] Service is healthy. Uptime: 664 minutes.
+[2026-04-16T04:33:42.565495+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174262 logged in successfully.
+[2026-04-16T04:33:42.605865+00:00] [DEBUG] [worker] Processed payload sized 3751 bytes.
+[2026-04-16T04:33:42.617782+00:00] [DEBUG] [worker] Processed payload sized 6746 bytes.
+[2026-04-16T04:33:42.665745+00:00] [ERROR] [gateway] Bad gateway connection refused from IP 192.168.1.3127
+[2026-04-16T04:33:42.711760+00:00] [INFO] [api] User 123e4567-e89b-12d3-a456-426614174290 logged in successfully.
+[2026-04-16T04:33:42.749511+00:00] [ERROR] [auth] DB timeout while fetching user 123e4567-e89b-12d3-a456-426614174738
+[2026-04-16T04:33:42.781285+00:00] [ERROR] [processing] OOM killer terminated process 5636
+[2026-04-16T04:33:42.814630+00:00] [ERROR] [api] 500 Internal Server error on route /users/4739
+[2026-04-16T04:33:42.841687+00:00] [INFO] [health-check] Service is healthy. Uptime: 8387 minutes.

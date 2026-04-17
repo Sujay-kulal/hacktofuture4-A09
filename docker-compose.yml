@@ -1,0 +1,43 @@
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: selfheal
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+
+  tempo:
+    image: grafana/tempo:latest
+    command:
+      - "-config.file=/etc/tempo.yaml"
+    volumes:
+      - ./deploy/local/tempo.yaml:/etc/tempo.yaml:ro
+    ports:
+      - "3200:3200"
+      - "4317:4317"
+      - "4318:4318"
+
+  selfheal-api:
+    build:
+      context: .
+    depends_on:
+      - postgres
+      - tempo
+    ports:
+      - "8000:8000"
+    environment:
+      SELFHEAL_KUBE_MODE: mock
+      SELFHEAL_TELEMETRY_MODE: mock
+      DATABASE_URL: postgresql+psycopg://postgres:postgres@postgres:5432/selfheal
+      TRACE_URL: http://tempo:3200
+      TRACE_BACKEND: tempo
+      OTEL_TRACING_ENABLED: "true"
+      OTEL_SERVICE_NAME: selfheal-api
+      OTEL_EXPORTER_OTLP_ENDPOINT: http://tempo:4318
+
+volumes:
+  postgres-data:

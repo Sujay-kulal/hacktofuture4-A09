@@ -1,0 +1,54 @@
+services:
+  - service: fastapi-app
+    namespace: default
+    criticality: low
+    depends_on: []
+  - service: checkout
+    namespace: demo
+    criticality: critical
+    depends_on:
+      - auth
+      - inventory
+      - payment
+      - redis
+  - service: auth
+    namespace: demo
+    criticality: high
+    depends_on:
+      - redis
+  - service: inventory
+    namespace: demo
+    criticality: medium
+    depends_on:
+      - postgres
+  - service: payment
+    namespace: demo
+    criticality: critical
+    depends_on:
+      - bank-gateway
+  - service: redis
+    namespace: demo
+    criticality: critical
+    depends_on: []
+  - service: postgres
+    namespace: demo
+    criticality: critical
+    depends_on: []
+  - service: bank-gateway
+    namespace: demo
+    criticality: high
+    depends_on: []
+  - service: storefront
+    namespace: demo
+    criticality: critical
+    depends_on:
+      - checkout
+  - service: kube-prom-stack-grafana
+    namespace: monitoring
+    criticality: medium
+    depends_on:
+      - kube-prom-stack-kube-prome-operator
+  - service: kube-prom-stack-kube-prome-operator
+    namespace: monitoring
+    criticality: medium
+    depends_on: []
